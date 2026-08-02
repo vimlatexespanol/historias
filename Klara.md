@@ -1084,7 +1084,7 @@ Martha vio esta interacción.
 
 La plática sobre la premiere no abarcó más de lo necesario.  Hablaron sobre los invitados, sobre los amigos.  "La Tía" entró a cabina a felicitar al Chef y a la organización por tan excelente menú.  Eso bajó bastante la tensión entre Karla y Alejandro para el resto del programa.
 
-Después de la cortinilla de cierre, Alejandro se despidió de "La Tía" y de Martha y les avisó que no vendría el sábado.  Les platicó que surgió un inconveniente de carácter familiar.
+Después de la cortinilla de cierre, Alejandro se despidió de "La Tía" y de Martha.
 
 Karla estaba del otro lado de la cabina, revisando una lista de pendientes para el programa del día siguiente.  Y ya no se alcanzó a despedir de Alejandro.
 
@@ -1102,15 +1102,71 @@ Aparentemente ni Karla, ni Alejandro recordaban que iba a haber una fiesta de an
 
 ---
 
-Fin de semana de Sara y de Karla.  Sara intuye que Joel está en Noruega y contacta con Josué, quien dice tener contactos en la embajada de México en Noruega.
+Después de lo intenso que fue todo lo relacionado con la premiere, eran unos días de descanso para Sara que se sentían más que merecidos.  Josué le mando un mensaje por Whatsapp.
+
+"Revisa si ya chilló la rata. Jajaja —Josué"
+
+La aplicación de la banca en línea registraba el pago de los servicios como embajadora para la premiere de "Fuego Amigo".
+
+Sara estaba sorprendida de la versión final.  En la parte visual era imposible representar mejor la obra.  Un estilo de acuarelas pastel y en los momentos más complicados, el color predominante era el azul oscuro.  Una gama de colores que iba del azul rey al azul marino, casi negro.
+
+En uno de los escenarios, de fondo, había una chica esperando el autobús en una escena donde los tres amigos platicaban sobre lo que hicieron para que la amistad se perdiera.  La chica usaba un vestido azul rey.  Con el mismo corte del vestido que Sara usó la noche del jueves.
+
+No pudo evitar pensarse como una muda testigo en una situación personal que escaló a niveles mortales dentro de la historia.
+
+La chica no apareció en el corte final de la película, y era entendible.  El vestido que usó era un _huevo de pascua_ para aquellos que tuvieran el libro en su estante.
+
+De pronto, reparó en el cuaderno que tenía en su mesa.  Y revisó la anotación acerca de Joel Fulgencio.  
+
+- Aparentemente está en algún país escandinavo.
+
+«Claro.  Podría estar en Noruega». Pensó para sí misma Sara.  Añadió este dato al cuaderno.
+
+Y le respondió el mensaje a Josué:
+
+"Sí, ya cayó.  Muchas gracias.  Un favor, ¿te puedes conectar al zoom un momento?"
+
+En la llamada por Zoom, Sara le preguntó si sabía de alguna manera de saber si una persona mexicana está en Noruega.
+
+— Pues, de buenas a primeras, la única forma es preguntándole a la embajada mexicana.  Creo que ellos tienen un registro de quiénes entran, y quiénes salen.  ¿Es por algún amigo que ya vino para acá?
+— Algo así.  Es amigo de Merino.  Tiene curiosidad de saber qué pasó con él. —dijo Sara, quien tuvo que mentir para poder convencer a Josué de hacer la búsqueda.
+— Está bien.  Deja hablo con mi contacto en la embajada.  Te dejo, estoy muy cansado del viaje.  Fueron casi veinte horas de vuelo.
+— Gracias, Josué.  Te debo varias.
+— Con que me aceptaras una salida el día que vengas para acá, o yo vaya para allá, más que suficiente.
+— Lo voy a considerar.  Descansa.
+
+Por su parte, Karla y Alejandro hicieron el programa del sábado.  Alejandro estuvo a nada de pedir el día.  No lo hizo por orgullo.  Pero tenía que convivir con Karla, que le resultaba bastante incómodo.  
+
+Afortunadamente para ambos, el sábado es más un día musical que de notas, así que casi no tenían que ponerse de acuerdo con nada.  
+
+Dicho esto, la dinámica fue similar a la del programa del viernes.  Todo profesional, todo directo.
+
+Alejandro salió de la cabina sin despedirse de Karla.  Rutina que en su mente tratará de repetir, al menos hasta que el pecho le deje de doler cada que la vea.  Alejandro estaba más dolido de lo que él mismo esperaba.  Pidió un Uber que lo dejó en la tienda de la esquina de su casa.  Ahí compró dos botellas de vodka, jugo, agua mineral y hielos.  
+
+En su estéreo sonaba Elvis Presley, Jerry Lee Lewis y Buddy Holly de manera alternada.  De repente cambiaba a Los Románticos de Zacatecas, Lost Acapulco, Molotov, y uno que otro grupo mexicano que le gustara.
+
+Eventualmente el ritmo bajó.  Steven Wilson con The Raven That Refused to Sing.  El disco completo.  La atmósfera estaba demasiado deprimente.  Así que mejor puso el radio en 93.5.  Rock FM.  Y pues descubrió que repiten los programas de Desenfadados en la madrugada.
+
+La rutina de tomar un vaso, servirse hielo, vodka y jugo continuó la noche del sábado, todo el domingo, hasta las 10:00AM del martes.  Tendría que dormir unas horas, antes de salir hacia la estación.  Avisó de un problema familiar el martes en la mañana para decir que iba a llegar tarde para el proceso creativo.
+
+En algún momento sí se preguntó si le iban a creer por un problema familiar, cuando tiene muchísimos años que no está en contacto con ellos.
 
 ---
 
-Fin de semana de Alejandro.  Toma intensamente sábado y domingo.  Lunes se recupera, martes llega a la estación como si nada.
+Con todo y que avisó que llegaría tarde el martes para comenzar la junta de proceso creativo, Alejandro llegó justo a tiempo.  No había lentes oscuros, ni siete machos.  Martha solo le mencionó que se veía raro, y le preguntó que si estaba bien.
 
----
+— Pues no mucho, pero acá estamos.
 
-Programa del miércoles.  Solo es importante para establecer que el jueves hay una sorpresa.
+No hay mucho que destacar del programa de ese día, más que la dinámica fue exactamente la misma.  Alejandro y Karla solo platicaban desde el punto de vista profesional.  Fuera de eso, ni una palabra.
+
+El miércoles se repitió la rutina. La única diferencia fue que Alejandro llegó sobrio a la cabina.
+
+La pauta del final fue distinta.
+
+— Muchas gracias por sintonizarnos el día de hoy... a ver, Martha quiere decir algo.  
+— No falten el día de mañana, amigos.  Habrá una sorpresa.
+— ¿Una sorpresa?  ¿Alguna pista? —dijo Alejandro.
+— Si doy una pista, ya no sería sorpresa.
 
 ---
 
@@ -1211,3 +1267,35 @@ Extrañamente, cuando salió el nombre de Alfonso hubo una mezcla muy extraña d
 — Karlita, te cedo los honores.  
 — Muchas gracias por habernos acompañado en esta emisión de celebración de sexto aniversario.  Totalmente sorpresa para nosotros.  Gracias a todas y cada una de las personas que han puesto un granito de arena para hacer grande a Desenfadados.  Se despide Karla Villarreal.  Y del otro lado...  
 — Alejandro Romero.  Tengan un excelente viernes.  Mañana no hay programa.  Si todo sale como debe ser, nos tendríamos que ver por acá el sábado.
+
+---
+
+Es viernes.  Alejandro tuvo suficiente el fin de semana anterior para autocompadecerse.  Tenía que empezar desde temprano para llevar a cabo su plan.  Revisó su agenda y marcó un número.
+
+— Sí hablo a... OK.  Gracias.  Necesito hacer una pregunta.  Es un poco urgente...  Ajá.  Sí, necesitaría alquilar el lugar el día de hoy, de 6 de la tarde a 9 de la noche...  Eh, sí, sí.  Solo díganme cuánto y...  ¿No podrían el día de hoy?  Les ofrezco el doble...  OK. ¿Solo hasta el domingo?  Déjenme pensarlo... ¿Qué? ¿El triple?... Para el domingo.  OK, está bien.  Sí.  Puedo pagarlo con tarjeta de débito o transferencia...  OK.  Nos vemos al rato... Sí.  Soy Lucio Alejandro Romero Fuentes...  Sí, no hay tal.  Los veo a las tres.
+
+La primera parte de la lista ya estaba cubierta.  Quedaban los afiches y los pósters, para lo cuál le mando un correo electrónico a uno de los primos lejanos de Esteban.  Le mandó unos archivos para impresión en pósters y playeras, y le envió por adelantado el pago, más un extra para que estuvieran listos para el sábado.
+
+Llegó al restaurante a las 2:55p.m.  Y se reunió con el gerente.  El gerente le confirmó que para rentar el lugar para el domingo el costo se triplicaba.  Le preguntó que si pensaba incluír catering para el servicio, y Alejandro dijo que sí.  Revisó el menú, e hizo unas pequeñas elecciones.  Lo solicitó para cuatro personas.
+
+El gerente le dijo que el pago lo acepta vía tarjeta de débito o transferencia.  Y de inmediato hizo la transferencia.
+
+Alejandro es una persona que vive bien, pero no vive con tantos lujos.  La prueba es que su Corolla sigue en el servicio, y aún así no ha pensado en comprar un sustituto.  Usa el transporte público porque muchas veces es más rápido, y no tiene que estar batallando con el estrés de estar manejando.  Por lo cual, tenía ahorrado más que suficiente.  Eso sí, esto se llevó una muy considerable parte de sus ahorros.  Pero para él, valía la pena.
+
+---
+
+En el estudio de Sara, se encontraba escuchando algunos programas de Desenfadados.  El buen ambiente que reinaba los últimos días, hizo que comenzara a escuchar viejos programas.  Podsharing tiene la opción de escoger un programa al azar de un podcast en específico.  Así se encontró con programas del año de 2024.  Y sí, Alejandro era muchísimo más pesado, y Karla parecía que liberaba tensión riendo.  Sin embargo, la química jamás se perdió.  Lo único que pasaba es que Karla se notaba más agotada mentalmente.
+
+Pero algo notó Sara en el programa de aniversario: Karla y Alejandro ya no tenían esa química.  Y al parecer es la única que lo notó.
+
+Justo en ese momento, su teléfono vibró.
+
+— Hola, Karla.  ¿Cómo estás?  
+— Muy bien amiga... ¿estás oyendo nuestro programa?  
+— Eh... ¿nooo? —dijo Sara, apagando el audio de su laptop.
+
+Karla le preguntó que si quería reunirse con ella.  Sara aceptó, y fueron por un café cerca de la casa de Karla.
+
+— ¿Por qué estabas escuchando nuestro programa? —le cuestionó Karla a Sara.
+— Ah, de inicio eran ruido blanco.  Ahora me considero fan de su programa.  Aunque la verdad soy muy fan de la etapa actual.  
+— Sí, también lo creo, Sarigüeya.  Hemos estado muy relajados... al menos hasta antes de la premiere.
