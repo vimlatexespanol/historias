@@ -1312,8 +1312,7 @@ Karla estaba más asustada que sorprendida.  Sara pudo intuir que la dinámica e
 — Jajaja, me conoces tan bien, pero no fue Miguel Bosé...  
 — La Puerta Negra —adivinó suspirando, Sara.  
 — Sí.  Esa fue.  
-— Eso explica por qué elegiste La Puerta Negra y no Si tú No Vuelves o Amante Bandido.  
-— Déjame ver si lo entiendo, ustedes dos habían tenido la mejor química de toda su carrera en radio, y se apagó de un momento a otro.  Y lo único que me pudiste decir fue "él me dijo que era una broma".  Y cuando traté de sacarte la información con tirabuzón, no me dijiste nada.  Me dijiste que todo estaba bien.  ¿Te hizo daño?
+— Eso explica por qué elegiste La Puerta Negra y no Si tú No Vuelves o Amante Bandido —dijo Sara, jugueteando con una cuchara. —Déjame ver si lo entiendo, ustedes dos habían tenido la mejor química de toda su carrera en radio, y se apagó de un momento a otro.  Y lo único que me pudiste decir fue "él me dijo que era una broma".  Y cuando traté de sacarte la información con tirabuzón, no me dijiste nada.  Me dijiste que todo estaba bien.  ¿Te hizo daño?
 
 Karla tragó un poco de saliva.  
 
@@ -1326,14 +1325,14 @@ Sara no daba crédito.
 
 Karla comenzó a llorar.
 
-— El problema es que sí lo estimo mucho, amiga.  Estoy consciente que me trataste de advertir lo peligroso que era, pero nunca pude hacer un espacio para verte.  Te puedo decir que me ha enseñado muchas cosas sobre trabajar en la radio.  Pero es todo lo contrario a Merino.  Alejandro sí busca herir, busca confrontar.  Trata de tener el control todo el tiempo.  
+— El problema es que sí lo estimo mucho, amiga.  Estoy consciente que me trataste de advertir lo peligroso que era, pero nunca pude hacer un espacio para verte.  Te puedo decir que me ha enseñado muchas cosas sobre trabajar en la radio.  Pero es todo lo contrario a Merino.  Alejandro sí busca herir, busca confrontar.  Trata de tener el control todo el tiempo.  Y se lo hice saber.
 — Bueno, eso sí es algo que me di cuenta.  Tengo que confesarte, amiga.  Tenía mucho miedo que él pudiera hacerte daño.  Hay algo en él que me activó todas las alarmas.  
 — Eso no es buena señal.  En la secundaria nunca te falló esa intuición.  
 — Sin embargo, muchas de las suposiciones que tenía de él se han ido.  Pensé que te aislaba, pensé que le hacía algo a sus productores.  Muchas cosas.  
 — Sabes que a ti sería la primera que le avisaría si me sintiera en peligro.  
 
-Sara comenzó a reir.  Había un pensamiento ridículo que no pensaba compartir.
+Sara comenzó a reir.  Había un pensamiento ridículo que no pensaba guardarse.
 
-— ¿Sabes qué es lo peor?  Que esta cita no pasaría la Prueba de Bechdel.  Y con eso sé que vale madre esa conversación.
+— ¿Sabes qué es lo peor?  Que esta cita no pasaría la Prueba de Bechdel.  Y con eso sé que vale madre ésta conversación.
 
 Karla entendió el chiste, y ambas comenzaron a reir.  Ellas eran el tipo de fans del cine que revisaban si una película pasaba el test Bechdel en la secundaria.  Solo encontraron dos películas que lo hacían en todo el tiempo que lo aplicaron.
