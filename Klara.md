@@ -1296,6 +1296,44 @@ Justo en ese momento, su teléfono vibró.
 
 Karla le preguntó que si quería reunirse con ella.  Sara aceptó, y fueron por un café cerca de la casa de Karla.
 
-— ¿Por qué estabas escuchando nuestro programa? —le cuestionó Karla a Sara.
-— Ah, de inicio eran ruido blanco.  Ahora me considero fan de su programa.  Aunque la verdad soy muy fan de la etapa actual.  
-— Sí, también lo creo, Sarigüeya.  Hemos estado muy relajados... al menos hasta antes de la premiere.
+— ¿Por qué estabas escuchando nuestro programa? —le cuestionó Karla a Sara.  
+— Ah, de inicio eran ruido blanco.  Ahora me considero fan de su programa.  Aunque la verdad soy muy fan de la etapa actual.    
+— Sí, también lo creo, Sarigüeya.  Hemos estado muy relajados... al menos hasta antes de la premiere.  
+— No me quisiste decir nada.  Pero te conozco.  ¿Qué te hizo Alejandro para que ya ni se quieran hablar?
+
+Karla estaba más asustada que sorprendida.  Sara pudo intuir que la dinámica entre ambos estaba mal con tan solo verlos.
+
+— A veces me das miedo, amiga. —dijo Karla sin ningún tapujo.  
+— Perdóname, yo sé que a veces puedo provocar un buen susto sin proponérmelo.  Pero es que es obvio que ustedes no se hablan más allá del programa.  Y hace como un mes, eso me hubiera aliviado, pero ahora que te veo completamente confundida... ya no sé si me agrada.  Pero no evadamos la pregunta.  
+— No me hizo nada.  Bueno, no al menos directamente.  Se lo hizo a nuestra amistad.  A nuestra relación de trabajo.  
+— Karla, de nuevo, no evadas.  ¿Qué fue lo que te hizo?  
+— El jueves pasado, cuando todos se fueron de la mesa, todo estaba bien.  Incluso, cuando íbamos a la premiere, estábamos conviviendo de lo más bonito.  
+— Déjame adivinar, se pusieron a cantar la de Miguel Bosé —dijo Sara, con un dejo sardónico.  
+— Jajaja, me conoces tan bien, pero no fue Miguel Bosé...  
+— La Puerta Negra —adivinó suspirando, Sara.  
+— Sí.  Esa fue.  
+— Eso explica por qué elegiste La Puerta Negra y no Si tú No Vuelves o Amante Bandido.  
+— Déjame ver si lo entiendo, ustedes dos habían tenido la mejor química de toda su carrera en radio, y se apagó de un momento a otro.  Y lo único que me pudiste decir fue "él me dijo que era una broma".  Y cuando traté de sacarte la información con tirabuzón, no me dijiste nada.  Me dijiste que todo estaba bien.  ¿Te hizo daño?
+
+Karla tragó un poco de saliva.  
+
+— No físico.  ¡Me da pena, Sara!  Pero ahí va.  No dejé que terminara, pero estaba por proponer que saliéramos.  ¡Que fuéramos más que amigos!
+
+Sara no daba crédito.  
+
+— ¿Gritaste internamente?  
+— No tienes idea.
+
+Karla comenzó a llorar.
+
+— El problema es que sí lo estimo mucho, amiga.  Estoy consciente que me trataste de advertir lo peligroso que era, pero nunca pude hacer un espacio para verte.  Te puedo decir que me ha enseñado muchas cosas sobre trabajar en la radio.  Pero es todo lo contrario a Merino.  Alejandro sí busca herir, busca confrontar.  Trata de tener el control todo el tiempo.  
+— Bueno, eso sí es algo que me di cuenta.  Tengo que confesarte, amiga.  Tenía mucho miedo que él pudiera hacerte daño.  Hay algo en él que me activó todas las alarmas.  
+— Eso no es buena señal.  En la secundaria nunca te falló esa intuición.  
+— Sin embargo, muchas de las suposiciones que tenía de él se han ido.  Pensé que te aislaba, pensé que le hacía algo a sus productores.  Muchas cosas.  
+— Sabes que a ti sería la primera que le avisaría si me sintiera en peligro.  
+
+Sara comenzó a reir.  Había un pensamiento ridículo que no pensaba compartir.
+
+— ¿Sabes qué es lo peor?  Que esta cita no pasaría la Prueba de Bechdel.  Y con eso sé que vale madre esa conversación.
+
+Karla entendió el chiste, y ambas comenzaron a reir.  Ellas eran el tipo de fans del cine que revisaban si una película pasaba el test Bechdel en la secundaria.  Solo encontraron dos películas que lo hacían en todo el tiempo que lo aplicaron.
