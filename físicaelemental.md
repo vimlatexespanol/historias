@@ -47,15 +47,15 @@ Confrontar a Luis fue la peor idea que se me ocurrió.  Y si me viera el Doctor 
 
 El pecho volvió a doler.  Pero esta vez un poco diferente.  Luis era mi mejor amigo desde que comenzamos la carrera.  Y hoy me soltaba esta joyita.
 
-—Seguimos siendo amigos, ¿verdad?  
+—Seguimos siendo amigos, ¿verdad? —me preguntó con cierta dosis de ingenuidad. 
 —Lárgate de mi vista.  No me vuelvas a hablar.
 
 Lilia se acercó a mi.
 
 —Oye, Edgar.  Lo siento mucho.  Yo traté de convencerlo.  Yo te quería en el proyecto...  
 —Está bien.  Me has caído tan mal todos estos años.  El que te tiene que pedir perdón soy yo...  
-—No es necesario. Yo...
-—...¡por haberte dejado con este pendejo!
+—No es necesario. Yo...  
+—...¡por haberte dejado con este pendejo! —interrumpí.
 
 Si Lilia, la mujer con la que he tenido la rivalidad más intensa de la universidad resulta ser un poco más compasiva que mi mejor amigo, tal vez debería afinar un poco la brújula moral con la que me he venido manejando todo este tiempo.
 
@@ -603,3 +603,354 @@ Me di cuenta que observó mi rostro en búsqueda de una reacción.  Traté de no
 Regresé con mis amigos. Por un momento quería huir de ahí tan rápido como era posible.  Y al mismo tiempo, me sentía extrañamente cautivado por su forma de ser tan hipnótica.  Era raro.
 
 Salimos de ahí con trabajo, siendo estudiantes de maestría.  Y con el cortisol a todo lo alto.
+
+# 13
+
+Si me hubieran preguntado la posible descripción de David Martínez antes de conocerlo, lo más seguro es que hubiera dicho que es uno de esos decanos que siempre visten de traje, zapatos lustrados super brillantes, lentes y cabello corto.  Salvo el pelo corto, esa era una descripción sencilla de cómo lo vimos la semana pasada.
+
+Pues no.  Usaba una camisa sencilla, pantalón de mezclilla, cinturón café con hebilla sencilla, y tenis air jordan.  Obviamente cuando se trataba de cuestiones laborales que lo exigían, tenía preparado un traje en el clóset improvisado de su cubículo.  Pelo largo, chino, casi a lo Cucurella.  Aunque en ese entonces, ese vato aún ni jugaba.
+
+Tuve que casi tallarme los ojos, porque no se parecía lo más mínimo a la última vez.
+
+—Llegan a tiempo.  Acompáñenme. —nos dijo a Lilia y a mi.  Por favor avísenle a sus compañeros que lleguen al laboratorio C-034.
+
+Lilia estaba tan bonita como siempre.  Con esos lentes que afinaban su rostro.  Estaba tan feliz de que íbamos a trabajar juntos.
+
+—Antes de que se me emocionen.  Recuerden que están en proyectos distintos.  Ups.  Se me olvidó decirles que trajeran su proyecto para hoy.  
+—No se preocupe, profesor.  Yo traje el mío. —dijo Lilia.
+—Yo también creo que traje la USB con el software, y mi laptop.  
+—OK.  Por favor respaldas el contenido de tu disco duro, y ya dejas morir esa laptop Celeron con 2GB de RAM. —dijo David.  Viéndome sacar la laptop de mi mochila.
+
+—Están muy solas las cosas por acá.  Mis otros proyectos están en el laboratorio C-036.  Pero de momento no pueden verlos.  Necesito que primero avancen tanto como se pueda. —dijo David.
+
+David sacó una bocina bluetooth de su morralito.
+
+—¿Cuentan con Spotify? ¿YouTube Music o algún servicio de esos?
+—No —respondí.
+—Bueno, usemos... ¿qué les parece si toman una de esas computadoras que están en la mesita de allá? —dijo David, señalando una pequeña mesa ovalada sobre la que se encontraban siete MacBook Airs listas para funcionar.
+
+—Sí, por eso te dije que respaldes tus archivos. Ahora cuentas con una nueva computadora, en vez de tu viejo celeroncito.
+
+David comenzó a observarme detenidamente.
+
+—¿Estás llorando?  
+—No —dije, limpiándome a prisa una gota traicionera antes de que terminara de salir.
+
+David rió de manera simplona.  Lilia solo sonrió.  Para mí, esto era algo nuevo.  Y algo emocionante.
+
+Uno a uno fueron llegando nuestros compañeros de equipo.  Primero llegó Ernesto, después Luis.  Siguió Gustavo.  También llegaron Romina y Temo, quienes trabajarían de tiempo completo las primeras semanas hasta el inicio del siguiente trimestre.  El pago sería proporcional al tiempo laborado para ellos.
+
+«Primero que nada, reglas:
+
+1. No hay prohibición de poner música o usar audífonos.
+2. Pueden pedir comida o ir por comida dos veces por turno.
+3. Si se estresan, pueden tomar descansos de 20 minutos.  No abusar.  Hay cámaras.»
+
+—Bien, cada uno de ustedes tome una computadora.  Necesito que trabajen en lo que les falta para terminar el proyecto.  De momento, solo la teoría en el caso de Lilia y Luis.  Y, Edgar, avancen en el algoritmo que comentó Gustavo para optimizar la carga.  Te los encargo, Edgar.
+
+Ambos equipos comenzamos a trabajar.  El resultado fue interesante.  Para mí era un mundo de diferencia trabajar con la MacBook a trabajar con mi vieja computadora.
+
+Entre Gustavo y Ernesto comenzaron a diseñar el nuevo algoritmo, mientras que entre Romina, Temo y yo comenzamos a revisar si había código por optimizar.
+
+Lilia y Luis abrieron una aplicación de diseño de circuitos y comenzaron a discutir posibles soluciones.
+
+En cierto momento del día, Luis se acercó a mí.
+
+—Hola, Edgar.  ¿Cómo estás? ¿Sigues enojado?  
+
+Pretendí que no lo escuchaba por los audífonos.
+
+—Hola, Edgar.  ¿Cómo estás? ¿Sigues enojado? —ahora lo dijo casi gritando.  
+—HOLA, EDGAR.  ¿CÓMO ESTÁS? ¿SIGUES ENOJADO? —ya no era un casi gritando.  Lo gritó, y me bloqueó el paso.
+—¿Qué chingados quieres? —respondí.
+—¿Cómo estás? ¿Sigues enojado?  
+—¿No te parece obvio?
+
+Se me quedó viendo, como si no entendiera.
+
+—No.  Ya estamos trabajando juntos.  ¿No te da gusto?  —preguntó Luis, con un dejo de ingenuidad.  
+—La neta, no.  No me queda de otra, porque no puedo elegir con quién trabajar.  Pero te pediría de la manera más atenta, que por favor, me dejes trabajar en paz.  Si me vas a preguntar algo, hazlo.  Siempre y cuando sea parte del trabajo.  Si no, déjame pinches en paz.  ¿Queda claro?  
+—¿Pero por qué estás enojado?
+—Lárgate a trabajar, que estás dejando sola a tu compañera.  
+—¿Acaso no prefieres eso, wey? ¿Que la deje sola?  
+—Por favor, vuelve a tu trabajo.
+
+Luis se fue.  Pero lo peor de todo es que seguía sin entender su error.  Y yo seguía teniendo que tolerarlo.
+
+# 14
+
+Luis conectó la nueva fuente de poder al acelerador de partículas.  El error antes de la semana de la ciencia, fue asumir que un transformador de 12V iba a ser suficiente para que el acelerador funcionara.  Encendió la máquina, que hizo unos ruidos extraños.  Pero funcionó.  El color le volvió a Lilia, quien se acercó a mi, aliviada, mientras Luis tenía la misma cara de que olió caca cada que nos veía juntos.
+
+David tomó su celular, abrió una aplicación con una lista, y tachó un elemento.
+
+—¡Listo!  Primer proyecto terminado.  Vas, Edgar.
+
+Gustavo, Ernesto y yo conectamos el proyector a mi MacBook.  Me hubiera gustado que Romina y Temo estuvieran aquí, pero el lunes regresaron a la Universidad.  Comenzaba su último trimestre.  Sin embargo, los ajustes en el código quedaron geniales.  Y de todos modos, si algo falla, ellos están acá en una hora más.
+
+Abrimos el programa.  David tomó uno de sus libros de EDP.  E introdujo una de las ecuaciones que tomó al azar.
+
+Cargó los parámetros, y pulsó en el botón de modelar.
+
+Un pequeño elefantito caminaba sobre una pelota.  Esa era la animación de transición.  Pero casi nadie lo notó, porque el modelo apareció de inmediato.  Tengo que admitir que el algoritmo de Ernesto y Gustavo era sensacional.  Pero nos costó muchísimo implementarlo.
+
+—Listo, ya puedo tachar el segundo proyecto.  Váyanse a descansar.  Igual Romina y Temo ya me dijeron que están en camino, y ya les avisé que mejor no lleguen hoy.  Nos vemos el lunes, muchachos.  Ya en el laboratorio C-036.  Que es para lo que los traje aquí.  Me pongo mi traje para ir con mis jefes.  Pero ustedes tómense el resto del día.
+
+Y nos fuimos.
+
+Salimos del laboratorio después de dejar todo listo.  Tardamos un poco más de la semana y media que Gustavo decía, pero también Lilia y Luis tardaron dos semanas menos del mes y medio que prometieron.
+
+Íbamos caminando a los pastos, para descansar un poco.  Había sido un día tenso, en lo que optimizábamos detalles para presentar el proyecto.
+
+Este trabajo parecía demasiado bueno para ser verdad.  El ambiente era muy relajado, y nos estaban pagando por hacer un proyecto universitario glorificado.  Gustavo no vio nada raro, pero yo sentía que en cualquier momento todo esto iba a explotar, de una u otra manera.
+
+# 15
+
+Al fin estábamos a punto de entrar al laboratorio C-036.  David estaba por llegar, cuando de repente mi celular sonó.  Era el rector de la Universidad de la Metrópolis, campus Iztacalco.  Me saludó de forma educada.  Y me felicitó por el nuevo trabajo y el ingreso a la maestría.
+
+Lo primero que pensé es que las noticias corren muy rápido por aquí.  Pero también me dio una noticia devastadora.
+
+Colgué mi teléfono, y volví a sentir ese dolor en el pecho.  Ese que se pudo haber curado con un chocolate y una palmada.  Pero ahora sólo quedaría el vacío...
+
+David llegó, y me vio llorando.
+
+—¿Todo bien? —dijo David.  Es obvio que él sabía que no.
+
+Me ofreció un dulce, y me dio una palmada en la espalda. 
+
+—Vamos al C-034, por favor esperen aquí.
+
+Abrió el laboratorio, me sentó en el sillón, se sentó a mi lado.
+
+—¿Qué pasó? —preguntó David, con la ceja arqueada y genuina curiosidad.  
+—El profesor Cortés.  El doctor Jose Luis Cortés Villanueva.  Falleció.  
+—¿Conocías a Cortés?  Lo vi como jurado en la Feria.  ¿Fue tu profesor?
+
+«Fue mucho más que eso.
+
+En el primer trimestre, me encontré con el pensamiento de que quizás no servía para la Física.  La única materia de Física era Mecánica Elemental I.  Es mecánica de partículas simplificada.  Pero el profesor Robles simplemente no logró que naciera el interés en mi. 
+
+Su ayudante se dio cuenta que el profesor no sabía explicar muy bien, y fue quién nos ayudó con ejercicios y exámenes.  Fue mi única S, que equivale al 6 en otro sistema de calificaciones.
+
+En segundo trimestre, me encontré con el profesor Cortés.  Quien a la postre fue revelado como mi tutor.  Aparte de explicar como un Dios, Cortés era un gran ser humano.  Bastante estricto como tutor, eso sí.  Pero fue quien logró mantenerme enfocado en la carrera.
+
+Fue un segundo padre para mí».
+
+—Ya veo —contestó David. —Lo siento mucho, de verdad.  Tómate el día.  Ve a verlo.  
+
+Asentí.
+
+—Voy a mostrarles a tus compañeros el proyecto en el que hay que trabajar.  Mañana te pongo al corriente.  
+—Está bien.
+—¿En quién de todos tus compañeros confías más?  
+
+Pregunta extraña.  Aunque entendí su intención.  Pero había dos respuestas.
+
+—Lilia o Gustavo.  Cualquiera de ellos entenderá lo que les pidas sin problemas.  
+—No se diga más.  Ve con cuidado.  Por favor avísame cualquier cosa.
+
+# 16
+
+Los servicios funerarios para profesores universitarios son un tanto particulares.  Hay mucha gente reunida que la familia ni siquiera conoce.  El profesor Mateo Cortés, hijo del doctor Cortés me recibió cálidamente.
+
+Tomé una clase con Mateo, sin saber que era el hijo del doctor Cortés.  En una sesión, me detuvo antes de salir.
+
+—Mendoza.  Dice mi papá que cuándo te pasas por su cubículo.  
+—¿Eres hijo del doctor Cortés?  Wow.  ¿Cómo ha estado?  
+—Seguramente molesto porque no lo has ido a visitar.
+—Paso en un momento.  ¡No lo puedo creer!
+
+—¡No lo puedo creer! ¿Por qué no me has venido a ver? ¿Tiene que reclamarte Mateo para que decidas visitarme?  
+—Doctor, discúlpeme de verdad.  Ha sido una semana de locos.  
+—¡Ya van tres semanas! ¡Y no tengo ni idea de cómo vas! Luego nada más quieres la firma para tus trámites. ¡Ganéselas!
+
+Era un regaño.  Pero también era un gesto genuino de preocupación.  El doctor Cortés realmente intentaba de que yo cumpliera mis objetivos académicos.
+
+Hubo una semana en la que estuve deprimido sin poder levantarme de la cama.  El doctor Cortés investigó mi número con Luis para preguntarme si todo estaba bien.  Ese mensaje me motivó a levantarme de la cama.  ¿El proceso de recuperación de las materias? Ese sí no vino libre de regaños.
+
+Pero me recuperé.  Saqué B (equivalente a 8) en las dos materias más complicadas.  Y MB en las sencillas.  Fue un milagro que no perdiera ese trimestre.  Se preocupó por mí en formas que ni mis padres hicieron.  Y por eso es que me dolía estar ahí, viendo la urna con sus cenizas.
+
+—¿Qué fue lo que pasó, Mateo? —le pregunté.  
+—Sufrió un infarto dentro de su cubículo.  Estos meses se había sentido solo.  La generación que más amó en mucho tiempo se fue.  Mi padre no era joven.  Siempre pensó en ti.  Y estaba muy feliz de saber que entraste a C.U.  Por favor, honra su memoria.  Recuérdalo, como siempre te recordaba a ti.  Y a Lilia.  Y a Luis.
+
+Eso me hizo darme cuenta que Lilia no se había enterado.  Le marqué con urgencia.  Y me contestó.
+
+—Oye, ¿David te dijo lo que pasó?  
+—No. Supe que falleció alguien cercano a ti.  
+—Fue el profesor Cortés.  
+
+El silencio habló más que cualquier frase.
+
+—Dale mis respetos a Mateo.  ¿Pregúntale si puedo marcarle?  
+
+Iba a ser complicado, pero le pregunté.
+
+—Mateo, Lilia quiere hablar contigo.  ¿Te puede marcar?  
+—Viejo, ustedes son como de la familia.  Por favor.  
+—Sí, le puedes marcar —le comenté a Lilia.
+—Edgar.  Lo siento mucho.  
+—Yo también lo siento.  Nos vemos.
+
+Tenía ganas de regresar a C.U.  Necesitaba enfocarme en algo más.  Estar aquí solo me destruía un poco más.  Le marqué a David.
+
+—Edgar, ¿todo bien?  
+—No mucho.  Es solo que me olvidé que el doctor Cortés también quiso mucho a Lilia y a Luis.  
+—¿Necesitas que vayan para allá? —preguntó con legítima preocupación.  
+—Pregúntales a ellos si quieren venir.  Aparte de eso, quería preguntarte si puedo regresar al trabajo.  Necesito enfocarme.  
+—Yo diría que te tomes el resto del día.  Te aviso si se animan a ir.
+—Gracias, David.  
+—No hay de qué.  Trata de descansar.  Si necesitas faltar mañana...  
+—No, al contrario.  Mañana te veo por allá.
+
+Al final del turno, Lilia me marcó.  Dijo que por favor los esperara a ella y a Luis.  Acepté.
+
+En menos de una hora, llegaron.
+
+Lilia me dio un abrazo, yo correspondí.
+
+Luis se acercó.  Quise ignorarlo, pero no pude.  Me dio la mano, yo solo atiné a abrazarlo.  Ambos lloramos.
+
+Sí, en efecto, también era el tutor de Lilia y de Luis.  Sin saberlo, el profe estuvo como tutor de una de las generaciones más talentosas de Física en ese campus.  Y no alcanzó a vernos una última vez, estudiando la maestría.
+
+Lilia, Luis y yo platicamos un buen rato.  Platicar con Luis era algo que la ocasión ameritaba.  Él mismo me pidió que solo por esta razón, tuviéramos una pequeña plática sobre Cortés.  Y así fue.  No era el lugar para decirle a mi hermano de tutor que no me dirigiera la palabra.  Simple y sencillamente porque entendía su dolor.
+
+# 17
+
+Llegué al laboratorio C-036 antes que nadie.  David llegó un poco más temprano de lo normal.
+
+—¿Cómo te sientes? —me preguntó.
+—Pues mal.  Pero necesito encontrar una forma de salir de este estado.  
+—Entiendo.  De hecho respeto tu decisión de venir a trabajar.  Si en algún momento necesitas hablar de otra cosa, cuentas conmigo.  
+—Está bien, muchas gracias.  
+—¿Puedo hablarte del trabajo?  
+—Sí, está bien. —le contesté.
+—Tienes razón, Lilia entendió perfecto de lo que va el proyecto.  Gustavo hizo unas preguntas medio extrañas que no entendí.  Y Luis simplemente actuó como si entendiera todo, pero no entendió nada.  
+—¿Ernesto entendió algo?  
+—No lo sé.  Dijo algo del marco de referencia.  ¿Cómo haces para organizarlos? Son un montón de ideas distintas al mismo tiempo.  
+—Sí, por eso es que logramos que el proyecto funcionara.  ¿Vinieron Romina y Temo?  
+—Sí, más o menos entendieron.  Creo que no la vas a tener difícil.  
+—¿Me puedes explicar en qué consiste el proyecto?  
+—Eh... mejor míralo con tus propios ojos.
+
+Si alguien me hubiera descrito el laboratorio C-036 como un registro vivo de la ciencia ficción, no lo hubiera creído.  Se sentía frío.  Había vibraciones extrañas.  O sea, el lugar vibraba diferente.  No sé como explicarlo.  Es parecido a estar sobre una lavadora.
+
+—Sé que es raro.  Te acostumbrarás —dijo David, con un rostro curioso que me observaba.
+
+En la parte central del laboratorio, había una especie de cabina redonda.  Era una cápsula que contenía el proyecto principal.
+
+—Te explico rápido. Esto que ves aquí es el proyecto principal.  Está distribuído de manera que en algún momento, del lado izquierdo se coloque el proyecto mejorado de Luis y Lilia.  Y del lado derecho estaría tu proyecto.
+
+La idea es que la energía generada con el acelerador de partículas será capaz de poner en funcionamiento la máquina principal.  Y el software de modelado proyecte posibles resultados antes de hacer funcionar la máquina.
+
+Estaba igual de confundido que al principio.
+
+—¿Qué es lo que hace el proyecto terminado? —pregunté.  
+—Puede cambiar los fenómenos físicos tal y como los conocemos.
+
+# 18
+
+El resto del equipo llegó a la hora de entrada normal.  Salvo por Romina y Temo que están en clase.
+
+Le pregunté a Gustavo qué fue lo que hicieron el día anterior.
+
+—David nos explicó un poco del funcionamiento de su máquina.  Requiere de un impulso del acelerador de partículas para vibrar a cierta frecuencia.  Sinceramente no entiendo cuál es el objetivo de su proyecto aún.  
+—Sí, bueno.  Él me comentó que le hiciste unas preguntas.  
+—Sí, estaban relacionadas con la frecuencia en la que la cápsula vibra.  No soy Físico como ustedes, pero entiendo que a cierta vibración, se puede provocar un incremento absurdo de calor y energía.  Si bien David sí comprendió el fenómeno al que me refería, él se defendía diciendo que es otro tipo de vibración a escala menor.  Sinceramente no entendí. 
+
+Gustavo no era un neófito en Física, aunque en ese momento dijera que sí.  Siempre fue capaz de entender cómo es que un fenómeno físico se explicaba matemáticamente.  Si me lo preguntan, me parece que David fue deliberadamente ambiguo.  A menos que se refiera a vibración de partículas subatómicas, que es lo que justificaría el acelerador, aparte de ser fuente de energía.
+
+No pude evitar preguntarle a Lilia.
+
+—Intuí que estaba hablando de vibración de partículas subatómicas.  Pero fue deliberadamente ambiguo.  Como si el objetivo de su proyecto fuera un secreto de estado.  No sé.  Ernesto tampoco le entendió —dijo Lilia, un tanto confundida.  
+—¿Quieres ir por un café en la tarde? Necesito platicar contigo unas cosas.  Para empezar, ¿cómo te sientes?  
+—Un poco mejor.  Lo estimaba mucho.  Aunque creo que tú y Luis tienen motivos para estar más devastados.  Era mucho más cercano a ustedes.  
+—Sí.  En cierta forma.
+
+Luis se aproximó.  Traté de hacer el ademán para alejarme, pero ya era tarde.
+
+—¿Cómo estás, _bro?_  
+—Mejor.  ¿Y tú?  
+—También un poco mejor.  ¿Quieres ir por algo al rato?  La cafetería tiene cosas chidas...  
+—No, Luis.  Sinceramente no quiero.  Ayer hice una tregua por respeto al doctor Cortés, que nos estimaba a los dos.  Por respeto a Mateo.  Pero la realidad es que ya no quiero saber nada de ti que no tenga que ver con el trabajo.  
+—Oh.  Pero es que ya pasó.  Deberíamos estar bien.  Ayer estuvimos bien.
+—No, no estuvimos bien —respondí un tanto indignado. —Estaba triste, estaba abatido.  Y en cierta manera, tú y yo compartíamos un recuerdo de él.  He tratado de hacer las paces, creeme.  Puedo verte en mi lugar de trabajo y tolerar tu presencia.  Pero eso aún está muy lejos de querer convivir realmente contigo.
+
+Lilia ya estaba harta del asunto.  Así que se acercó con Luis.
+
+—Luis, tienes que respetar el límite que está poniendo contigo.  Déjalo.
+
+Por primera vez noté que Luis comenzaba a entender mi molestia.  Aunque puedo asegurar que nunca entenderá las causas.  Lilia ahora se dirigió a mi.
+
+—Edgar, no puedes estar así con él para siempre.  Yo sé que no quieres saber de él.  Y eso se respeta.  El problema es que si sigues rumiando lo que pasó, no vas a seguir adelante.  No te pido que le dirijas la palabra.  Te pido que por favor dejes de pensar en lo que hizo.  
+—Lilia, esta es la primera vez que siento que no me entiendes.  He tratado con el alma de olvidar.  Lo que me emperra es que no entienda y siga tratando de hablarme como si no pasara nada.  Objetivamente hablando, el tema ya debería haber pasado.  Pero es que no puedo evitar pensar en todo ese tiempo en el que fuimos amigos, muy buenos.  Y que me decidiera botar como una bolsa de basura.  Perdimos el concurso.  Quedamos empatados en segundo lugar.  Y si él no hubiera insistido en que no pasó nada, tal vez ya no tendría ese rencor, porque a final de cuentas recibimos nuestra lección.  No es fácil para mí, Lilia.  
+—Está bien.  Lo siento.  
+—No te preocupes.  ¿Qué dices del café?  
+—Vamos a la salida, ¿te parece?  
+—Perfecto.
+
+---
+
+El trabajo de ayer consistió en buscar una interacción entre el acelerador de partículas y nuestro software.  Necesitamos un dispositivo intermedio que interprete los impulsos del acelerador, de forma que se genere una ecuación, sobre la que el modelo puede trabajar.  Eso es lo más caótico del proyecto hasta ahora.  Lograr esa interacción conseguirá que avancemos en un 40% el proyecto total.
+
+Eso significaba que tendría que interactuar continuamente con Luis.  Que ahora era él quien no quería hablarme.  Ni relacionado con el proyecto.  Supongo que tendremos que darle _la plática_ Lilia y yo cuando sea necesario.
+
+# 19
+
+Lilia y yo nos vimos esa noche en la cafetería.  No la de la universidad, sino una que está a las afueras de la Ciudad Universitaria.
+
+El lugar era bonito, con un clásico look retro.  Como de película hollywoodense de los 90's.
+
+Esa vez pedí un café expresso.  Lilia pidió un capuchino sin azúcar.
+
+—Definitivamente, creo que Luis no me va a hablar de nuevo.  Ni para el trabajo —comenté.  
+—Pues ya puedes estar contento.  Se te hizo la distancia.  
+—O sea, sí.  Pero no.  Cuando no estés tú, va a ser un problema acceder al acelerador.  Pero ya trabajaremos en eso.  Aunque hay algo que sí me intriga.  Ya tengo la idea teórica de lo que nos podría funcionar para el dispositivo intermedio.  
+—¿Qué es lo que harías?  
+—Para empezar, necesitaríamos un dispositivo que sea capaz de leer la señal proveniente del acelerador.  Después, crear un circuito que reciba la señal y la transforme en una serie de números.  Esos números serían los coeficientes, de la ecuación diferencial que pudiéramos modelar.  Y ya en la salida, encontrar una manera que se vuelvan impulsos para que el modelador genere el campo a trabajar.  
+—Suena bien.  Dime el pero.  
+—Bueno, en teoría, como estudié Ingeniería en Computación, debería de ser capaz de hacer algo como eso.  En la práctica, reprobé todas las materias que tenían que ver con laboratorios de eléctrica y electrónica.  
+—Que conveniente.  ¿Hay alguien más en el equipo que sepa hacer algo así?  
+—Mi única alternativa es comenzar a ver tutoriales de YouTube, TikTok, o de alguna página.  Voy a tener que aprender lo de cuatro semestres de ingeniería en unas pocas semanas.  
+—Quiero pensar en otra solución.  Pero me parece que esa es la única que tiene sentido.  A menos que simplificaras tu idea.  Quitarle unos pasos.  ¿Por qué no le preguntas a Gustavo?  Coméntale de manera detallada lo que quieres que haga el circuito, y tal vez él encuentre un atajo que no vemos.
+—OK, ese es el plan B.  Plan C, sería decirle a David que solicite unos becarios de Ingeniería Eléctrica Electrónica, o de Ingeniería en Computación.  
+—¿Crees que Romina o Temo sepan algo? —preguntó Lilia, como si se le hubiera ocurrido de repente.
+—Ellos casi nunca trabajan con circuitos.  Lo dudo mucho.  Y si lo hicieran, recuerda que solo tienen tres horas por día.
+
+Continuamos con la plática, y en algún momento comenzamos a platicar del profesor Cortés.  Ya para cerrar el tema.
+
+—Yo tengo un recuerdo muy bonito de él.  Como yo sí era una chica muy aplicada, realmente casi no me regañaba —dijo Lilia en un tono burlón, que me hizo recordar las épocas en las que yo no la toleraba.  
+—No es justo, tú sacabas 10 en todo por mera definición.  
+—No te creas.  Casi repruebo en una optativa de sociales.  Argumentación y conocimiento.  La profesora Reyes no me soportaba.  Tenía un complejo con los que veníamos de CBI.  
+—¿En serio? ¿Y cómo es que sacaste MB?  
+—Era del tipo de profesores con los que sacas NP o MB.  Sin puntos medios.  Tuve que usar uno de sus argumentos en su contra en una discusión sobre el feminismo.  Era súper-machista.  Cortés me recomendó que la venciera en su juego.  Supongo que él tuvo que lidiar con algo así.  
+
+Nos subimos al metro, y estuvimos en silencio todo el camino.  Sin que nada ni nadie nos interrumpiera.  Hasta que ella llegó a su estación, y hubo que despedirnos.
+
+---
+
+Al día siguiente había que poner las manos a la obra.  Le expliqué a Gustavo la idea del circuito que tenía.  Lo único que me atinó a decir es que tal vez no es tan factible simplificar la idea del circuito, porque si se retiraba un elemento, nos estábamos saltando un paso.  Por lo cual, el circuito complejo que había estado diseñando teóricamente era la única solución medianamente factible.
+
+Traté de platicar con Luis, en un momento en el que Lilia no estaba presente.  Pero no me volteó a ver.
+
+Platiqué del circuito con Ernesto.  Y él me dijo que la idea era correcta.  Pero que objetivamente ninguno de nosotros era capaz de construirlo en este momento.
+
+Estábamos atorados.  Y tendría que pensar en aprender absolutamente todo lo que no me gustaba de mi anterior carrera.
+
+# 20
+
+Sentía que mis párpados se caían esa noche de viernes... bueno, tarde-noche.  Eran las 6:30, pero con el invierno, el sol comienza a ocultarse más temprano.  No había coincidido con Temo y Romina en semanas, y hoy aparecían preguntando qué es lo que estaba haciendo.
+
+Les mostré todo el material que tenía.  Proto-boards, cable de teléfono, cientos de resistencias, capacitores, inductores, compuertas lógicas, contadores.  Material de electrónica para aventar para arriba.
+
+—No entiendo qué es lo que quieres hacer —dijo Romina.  Visiblemente confundida con el desorden que tenía en la mesa.  
+—Quiero hacer un circuito que reciba los datos que emite el acelerador de partículas, convierta esa señal en una que la transforme en parámetros para una terminal, y eso se proyecte mediante el software de modelado.  Llevo tres días viendo tutoriales y leyendo libros, y no encuentro la manera de solucionarlo.
+
+Temo y Romina compartieron una mirada confundida que no supe como interpretar.
+
+—¿Por qué mejor no utilizan un transformador de señales analógicas a digitales? Eso ya está implementado para Arduino.  El único reto sería crear un circuito que estandarice las señales del acelerador a algo que el transformador pueda registrar.  Se ahorran la tarea de hacer todo desde cero, y de crear un firmware para esa madre. —dijo Temo.
+—En todo caso, podríamos portar el sistema para que reciba los parámetros de entrada de manera inmediata —comentó Romina. —Aunque en eso solo los podríamos ayudar el poco tiempo que podamos estar aquí.
+
+La cara de alivio en todos nosotros no tuvo precio.  Por unos años más me estuve librando de batallar con uno de mis fantasmas.  No les voy a negar que en un futuro distante, sí me comprometí a aprender este tipo de cuestiones.  Pero en ese momento era un respiro de aire fresco.
+
+Hablamos con David, para comentarle la idea.  Dio luz verde a los materiales que le solicitamos, incluyendo Raspberry Pi's y Arduino.
+
+Y de forma indirecta, Romina y Temo me recordaron que esto era un proyecto interdisciplinario.  No de una sola persona.
