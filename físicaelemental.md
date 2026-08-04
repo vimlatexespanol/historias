@@ -954,3 +954,75 @@ La cara de alivio en todos nosotros no tuvo precio.  Por unos años más me estu
 Hablamos con David, para comentarle la idea.  Dio luz verde a los materiales que le solicitamos, incluyendo Raspberry Pi's y Arduino.
 
 Y de forma indirecta, Romina y Temo me recordaron que esto era un proyecto interdisciplinario.  No de una sola persona.
+
+# 21
+
+Pasaron dos meses, en los que nos atoramos en el diseño del circuito que comunicara el ADC (Conversor Analógico Digital) con una terminal para el modelado del acelerador.  David notó nuestra frustración, así que le solicitó ayuda a un becario.
+
+—Ya le llamé al "becario".  Les va a caer bien Rafa.  Eso espero.
+
+Un sujeto de camisa a cuadros, pantalón de vestir y zapatos cafés entró al laboratorio.  Lo reconocí de inmediato.  Para ese entonces ya había practicado ejercicios de respiración, para evitar somatizar el estrés y la ansiedad.  Así que los apliqué.
+
+—Ese mi _Deivid_, ¿cómo vas perrito? —dijo Rafael.  Alias Rafa.  Alias uno de mis ex-compañeros más castrosos de la carrera de Ingeniería en Computación.  
+—Más respeto, cabrón.  Que si quiero, te corren de tu chamba.  
+
+De inmediato Rafa hizo cara de perrito regañado.  Para mí, fue un microsegundo catártico.  Aunque sabía que David estaba bromeando.
+
+—No es cierto, pues.  Oigan todos, este putito es Rafa.  Un inadaptado de la Facultad de Ingeniería, que para desgracia mía es el único que nos pudo ayudar para el circuito.
+
+En ese momento vi que Rafa volteó hacia donde estaba yo.
+
+—¡No mames es Edgar! ¿Qué pedo contigo? Mírate con tu batita de científico.  Nunca supimos a dónde te fuiste, carnalito.
+
+Sí.  Bueno, esa es justo la razón por la que no toleraba ese ambiente.  Creen que son mejores porque "aplican el conocimiento", pero la realidad es que no sobrevivirían cinco minutos teniendo que demostrar un teorema.
+
+—¿Qué onda? ¿Cómo te va?  
+—Pues llevo cuatro años como profesor en la carrera de Ciencias de la Computación, pero esos güeyes son unos blanditos comparados a lo que éramos nosotros.  ¡Puro conocimiento!
+
+David le susurró algo al oído.  Justo después de ver los rostros enojados de Romina, Temo y el mío.
+
+—Tá bien, carnalito.  Ya le bajo.
+
+Honor a quien honor merece, Rafa entendió muy rápido lo que queríamos hacer, y diseñó en la pizarra el boceto del circuito a realizar.  Era una simplificación del ADC, pero con impulsos eléctricos que recibe la computadora que despliega el modelo del acelerador.
+
+Romina y Temo tomaron nota.  Gustavo le dio un vistazo, y le dijo que era cuestión de días para poder crear el circuito.  Romina se encargaría de programar el firmware, y Temo de conectarlo físicamente a la computadora.
+
+Rafa se despidió.  Y se acercó a mi.
+
+—Cámara, carnal.  Perdón por ser así, güey.  No sabía que eras físico, ni que estos carnalitos eran computólogos.  
+—OK.  No pasa nada.  Nos vemos.  
+—¿No quieres ir por unas chelillas el viernes? Un chingo de tiempo que no nos vemos.  
+—Paso, dejé de tomar después de salir huyendo de la carrera.  
+—Cámara, entonces.  Pásala chido.
+
+En un lapso de cinco días, esa parte del proyecto estuvo terminada.  Faltaba hacer un periodo largo de pruebas.  Para garantizar la estabilidad del proyecto.
+
+# 22
+
+El mes que les faltaba a los de computación pasó de inmediato.  Temo y Romina se incorporaban ese lunes de manera oficial como trabajadores de tiempo completo.  
+
+Después de unas muy largas sesiones de trabajo, David nos llamó al laboratorio C-034.
+
+Dijo que tenía una dinámica.  Quería que nos sentáramos en el sofá, nos acomodáramos y pusiéramos en la bocina bluetooth nuestra canción favorita de toda la vida.
+
+Comenzaríamos con Gustavo.  El cuál no tuvo reparo en escoger "Numbers" de Kraftwerk.  Elección que no sorprendió a nadie.  Casi todos estaban estrellando la cabeza con la mesa, menos yo.  Y David tampoco, sorprendentemente.
+
+—Interesante —dijo David—. Por favor, Ernesto.
+
+Ernesto puso la que para mí es la mayor sorpresa, y mi favorita de todas las elecciones:  "A-Punk" de Vampire Weekend.
+
+Romina escogió "Toxic" de Britney Spears.  Una elección extraña, pero creo que musicalmente embona mucho con su forma de ser.  Una canción aparentemente básica, pero sumamente ecléctica para el oído bien desarrollado.
+
+Temo escogió "Plug In Baby" de Muse.  Dijo que escogió una al azar de Muse, pero viendo el patrón, no fue al azar.
+
+Yo elegí "Come Together" de The Beatles, ante el abucheo burlón de David, y la risa del resto de mis compañeros.
+
+Luis eligió "Los Amigos que perdí" de Dorian.  Supongo que se la dedica a sí mismo.  O a mí.  Sinceramente no lo sé.
+
+Lilia fue la última.  "Rosa Pastel" de Belanova.  La cual nos puso a cantar a todos.  Incluyendo a David y a Gustavo.
+
+David escogió "Tonight Tonight" de los Smashing Pumpkins.  Que también es una de mis canciones favoritas.  Un sonido nostálgico, como si él y yo añoráramos viejos buenos tiempos que jamás vivimos.
+
+Se qué en momentos anteriores dije que David no me generaba mucha confianza.  A Gustavo tampoco.  Pero tampoco puedo negar que hizo todo lo que estuvo a su alcance para que el grupo se mantuviera unido.  Y a él le gustaba participar del desmadre.  Después de todo, no es mucho mayor de edad que nosotros.
+
+De repente, su teléfono sonó.  Por su cara no eran buenas noticias.
