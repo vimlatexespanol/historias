@@ -56,7 +56,7 @@ Ya había reunido un equipo para comenzar mi proyecto de la Feria de la Semana d
 
 Comencé a acercarme un poco más a Lilia en esos días, y me platicó que su proyecto era un acelerador de partículas portátil.  Me gustaba su idea, y no pude evitar expresarle lo mucho que me hubiera gustado participar de ese proyecto.  De a poco comenzamos a platicar un poco más.  No era mi super-amiga, pero al menos ya tenía alguien más con quien platicar.
 
-Para poder derrotar una gran idea tienes que desarrollar una idea aún más grande.  No los iba a poder vencer en el uno vs. uno.  Así que la única manera de poder derrotarlos era creando un proyecto multidisciplinario.  En alguna etapa de mi vida estudié Ingeniería en Computación.  Y me gustaba mucho programar.  Sin embargo, por distintas razones tuve que abandonar esa carrera.  Pero mi gusto por la programación me dio una idea.
+Para poder derrotar una gran idea tienes que desarrollar una idea aún más grande.  No los iba a poder vencer en el uno vs. uno.  Así que la única manera de poder competir con ellos era creando un proyecto multidisciplinario.  En alguna etapa de mi vida estudié Ingeniería en Computación.  Y me gustaba mucho programar.  Sin embargo, por distintas razones tuve que abandonar esa carrera.  Pero mi gusto por la programación me dio una idea.
 
 Las materias de tronco común en Ciencias Básicas e Ingeniería (CBI) tenían como característica que se impartían a alumnos de todas las licenciaturas e ingenierías del área.  De tal manera que en los salones convivían alumnos de Matemáticas, Física, Química, Computación y de las Ingenierías.
 
