@@ -1356,3 +1356,93 @@ Le pregunté a Lilia si volvió a soñar algo raro.  Y ella me dijo que no.  Sol
 Yo le platiqué mi sueño.  El primero con la cabina.  Con lujo de detalle.  Estaba sorprendida.
 
 Después de cumplir las dos semanas, los sueños desaparecieron.  Pero hubo algo que cambió las cosas.
+
+# 29
+
+Al día siguiente entrábamos de nuevo al laboratorio.  De nuevo aparecía Rafa.
+
+—¿Qué onda carnalitos?  Listos para comenzar con el circuito.
+
+—Sí, dale —respondió David.
+
+—Por lo que estoy entendiendo, necesitan interacción usando los parámetros de entrada de la cápsula central.  Y que la salida se torne como una ecuación diferencial parcial para poder modelarla en el software.
+
+—Es correcto —asentí.
+
+—Bien.  Entonces necesitaremos una placa arduino o RaspBerry Pi, un circuito traductor de A/D y el circuito que lo conecte a la entrada coaxial.  Y del otro lado, hay que discretizar la salida de la cápsula para poder modelar.
+
+—OOOOO Key... Déjà vu. —expresé.
+
+—¿Qué? —dijo David
+
+—Sí, siento como que esto... ya lo viví.
+
+—Sigues siendo igual de raro —dijo Rafa.
+
+—Bueno, al menos la cápsula no ha comenzado a vibrar como loca... esperen, ¿esto no es un sueño?
+
+Todos se me quedaron viendo.  
+
+—Ya en serio, ¿hay alguna manera que podamos hacer que esta cápsula deje de vibrar?
+
+—Hmm, buena pregunta —dijo David. —Tal vez podríamos hacer algo si conectamos improvisadamente el circuito que conecta el acelerador con el programa de modelado, pero en vez de pasar el impulso por el circuito...
+
+—Le conectáramos una salida coaxial, y con eso lo conectamos a la cápsula —dijo Rafa.
+
+—Lotería.  Intentémoslo —respondió David.
+
+Como todo estaba montado en una proto-board, fue relativamente sencillo cambiar el circuito por una salida BNC.  Rafa no necesitó ni diseñar la salida.  Con solo verlo entendió lo que había que hacer.
+
+—Listo, conéctenlo —dijo Rafa.
+
+Conectamos el circuito y la cápsula con el cable coaxial.  Y se encendió el acelerador.  Un pequeño impulso fue suficiente.
+
+De inmediato el laboratorio dejó de sentirse como si vibrara.
+
+Todos relajamos los hombros y comenzamos a sentirnos aliviados.
+
+—OK, eso fue fácil.  ¿No te gustaría formar parte de nuestra iniciativa? —bromeó David.
+
+—Sí, gracias, muchísimas gracias.  Doy clases los jueves.  No cobro mucho.  Pero no.  De verdad debo dar clases los jueves, y no me acomodo haciendo trabajo de ciencia.  Aunque me gusta lo que hacen ustedes.  Creo que nos estaremos viendo por aquí.
+
+Rafa iba de salida, cuando me le acerqué.
+
+—¿Aún está disponible la oferta de una chelilla el viernes?  —pregunté.
+
+—Pues, sí carnal.  ¿A las 6:00?
+
+—OK, está chido.
+
+—Pues dale, papi.  Nos vemos el viernes.
+
+---
+
+David me citó de inmediato a su oficina.  No sé si fue por Rafa, o por lo del sueño... no lo sé.
+
+—¿Por qué dijiste que era un déjà vu? —preguntó David.
+
+—Porque todo lo que platicaron hasta antes de que dijera "déjà vu" ya lo había visto...
+
+—... ¿en un sueño?
+
+—Sí.
+
+David comenzó a pensar.
+
+—¿Qué pasaba en tu sueño? —preguntó.
+
+—La cápsula se levantaba, comenzaba a levitar, y se acercaba a mí, y parecía que me escogía.  La primera vez abrió su puerta, y en el momento que entré, me desperté.  Eso pasó la primera vez.
+
+—¿Lo has soñado más veces?
+
+—Sí.  En otra ocasión, la cápsula se transformó en un microbús, y dentro de él estaban unos viejos amigos de mi otra carrera.  Rafa entraba primero, luego yo.  Sonaba la canción que puso Romina el día que llegaste con lentes.  Y ocurría la descripción del estribillo, un puente que se tambaleaba conforme lo iba cruzando.
+
+—OK, yo también tuve unos sueños raros.  Pero en los míos, la cápsula se aleja de mí.  Como si me rechazara.  No entiendo qué pasa.  Además de que les grito para que tengan cuidado.
+
+—Sí, bueno.  Eso del grito también pasa en los míos.
+
+Nos quedamos mirando un rato sin decir nada.
+
+---
+
+Al salir de la oficina de David, todos comentaron que al menos una vez tuvieron un sueño parecido.  Y en todas las versiones, yo entraba en la cápsula antes que los que lo sueñan entren y despierten.
