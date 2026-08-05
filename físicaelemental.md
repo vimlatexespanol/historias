@@ -1484,3 +1484,221 @@ Luis me pidió hablar en privado.
 —Gracias, Luis.  Sigo sin entender todo esto.
 
 —Si me lo quieres preguntar, creo que tienes razón en tu teoría de las vibraciones.  No sé cómo llego a esta conclusión, sinceramente, pero es como si proyectaran recuerdos muy profundos de nuestro pasado en un sueño.  Y es como si tuviéramos que saber qué hacer en el momento que vemos esa proyección.
+
+# 30
+
+Era el primer día después de dos semanas de tener sueños recurrentes en el que desperté sin sentirme agitado o sin la necesidad de tomar un lápiz y papel para plasmar el sueño en sí.
+
+Por primera vez no me dolía la cabeza, o estaba sudando, o que no tuve que aplicar ejercicios de respiración.  Lo único medianamente frustrante es que cuando Luis me dio una pista de qué hacer para la próxima ocasión, fue el mismo día en que los sueños pararon.  Por otro lado, gracias a Dios, ya no me duele la cabeza.
+
+El departamento que rentaba en ese momento se encontraba a una cuadra de la estación Viveros, lo cual hacía que en total me aventara cerca de una hora, en promedio para llegar a la Universidad.  Tuve que levantarme un poco más temprano para poder completar un trabajo que debía entregar para una de las materias de la maestría.
+
+Pero era la primera vez que no tenía el laboratorio en la cabeza después de un pasón onírico.  Lo más triste es que nunca tuve sueños tan vívidos esas veces que probé hongos o peyote.
+
+---
+
+—Bien, muchachos.  Ayer sin proponérselo, Rafa nos dio la solución al primero de los dos circuitos que necesitábamos.  Lo único que nos queda es volver a armar el circuito que conectaba el acelerador con el programa de modelado, y armar el circuito para la modelación de la cápsula.  ¿Alguien tiene una duda de lo que tenemos que hacer? —comentó David, notablemente menos molesto que en días anteriores.
+
+Nunca nos habíamos detenido a pensar en lo irritante que era estar conviviendo del diario con esas vibraciones.  No al menos antes de comenzar a tener sueños extraños.  Nadie levantó la mano para exponer una duda.  Pero todos estaban muchísimo más relajados que en días anteriores.
+
+—Sí, yo tengo una duda —comentó Gustavo. —¿Qué explicación puede darnos sobre las vibraciones? ¿Por qué hay tanto secretismo en el contenido de la cápsula?
+
+David se sorprendió un poco con la pregunta, pero su semblante se compuso de inmediato. 
+
+—Me encantaría poder explicarles sobre la cápsula.  Lamentablemente no podemos abrirla ni explicar los componentes hasta tener finalizado el proyecto por completo.  Es algo que me gustaría poder sentarme a explicar.  Pero les mentiría si les digo que no es abstracto incluso para mí.  Abrirlo es peligroso para cualquiera de nosotros.
+
+La cara de Gustavo fue... extraña.  Ese hombre siempre ha sido un enigma.  Pero esta vez era incluso más difícil interpretarlo.  No respondió, no pensó en una contra argumentación.  Esta vez, solo asintió.
+
+—¿Cómo es que pudo construir un proyecto tan avanzado sin poder explicarse ni a usted mismo cómo funciona? —preguntó Romina.
+
+El semblante de David lucía incómodo.
+
+—Yo participé en la más reciente actualización del proyecto.  Al igual que a ustedes, los científicos que trabajaron anteriormente en este dispositivo dejaron unos planos que lo hacían ver como ustedes los de computación ven una función en un programa a la que no pueden acceder, pero saben qué datos de entrada requiere, y qué datos de salida arroja.  De nuevo, les mentiría si les digo como funciona.  Lo único que sé es que cada generación que le ha aportado algo, lo ha acercado a lo que las personas que lo crearon buscaban.  Pero por primera vez, puedo ver como este proyecto podría llegar a su término.
+
+Tenemos una cápsula que no sabemos lo que hace, que no podemos manipular, que teorizamos que se mete con el subconsciente y los recuerdos de quienes la manipulan.  Me aterra la insistencia con la que David sigue escarbando en un proyecto que ni él entiende.
+
+—Pero bueno, vamos a relajarnos un poco.
+
+Sacó la bocina bluetooth y puso "Good Vibrations" de los Beach Boys.  La osadía de haber abucheado "Come Together".
+
+---
+
+Lilia estaba un poco sorprendida que haya traído a Gustavo a nuestra tarde de café de los jueves.  Le prometí vía mensaje que en la noche tendríamos nuestra "tarde de café".  Pero para mí era importante hablar con Gustavo, y que Lilia me ayudara a entender.
+
+—Gustavo, necesito que seas tan franco como se puede.  ¿Qué fue lo que pasó con esa explicación de David? —pregunté, casi en el momento que Gustavo tomó asiento.
+
+—Bueno, es la primera vez que me percaté que David no está ocultando información.  Al menos de forma deliberada.  La manera en la que movió sus ojos indicaba más un patrón real de recuerdos y memoria que de creatividad.  Algo que él hace de manera continua.
+
+—O sea, no mintió.  No es el autor de la cápsula, y es un proyecto mucho más viejo de lo que podemos imaginar —formulé.
+
+—No creo que esté mintiendo al decir que no sabe qué es lo que hace del todo.  Parece más interesado en el "cómo hacerla funcionar" —dijo Lilia.
+
+—Parece más interesado en que _nosotros_ la hagamos funcionar —dijo Gustavo.  Que rara vez teorizaba algo tan tajantemente.
+
+—¿Y eso de dónde vino? —pregunté.
+
+—Del cómo se aleja de la cápsula cada que logramos un avance, y solo cuando ve que es seguro, se reúne con nosotros en torno a la cápsula.
+
+Eso sí sonaba como un _clásico Tavo_.  Sí, a veces le llamamos Tavo.
+
+# 31
+
+Pasaron cuatro meses, ya estábamos en 2019.  2018 fue un año muy loco.  Y pues nuestro primer semestre salió tan bien como hubiéramos querido.  Lilia sigue sin perder el invicto, puro 10.  Yo, bueno... Sí que he tenido problemas para adaptarme, con 9.2.  Que no les confunda Luis, no es ningún improvisado, 9.7.  De nuevo era el tercer mejor estudiante de Física en el grupo.
+
+Bueno, no.  Cuarto.  Ernesto ha encontrado nuevos bríos en la Física.  9.8.  Ninguno de los cuatro lo creía, pero valía la pena ver que nos manteníamos como estudiantes de _relativa_ excelencia.
+
+—Bueno, parece que nuestro amigo Neto encontró su rumbo.  Aguas, Edgar, que te quitan el lugar, jajaja —bromeó David.
+
+—Me da gusto por él.  Uno no daba un centavo por él, y siempre nos sacaba de aprietos a mí y a Luis —dije, aunque ese recuerdo me provocó un poco de tristeza.  
+
+—Bueno, hablemos de los avances.  Todos los componentes están conectados entre sí.  Tenemos el proyecto a un 60%, y por lo que vi en los planos originales, lo único que nos falta es una especie de volante o control.  Tenemos dos meses para terminarlo.  Aparentemente el diseño del volante es más trivial, y creo que como están de vacaciones, podría venir aquí del diario nuestro buen amigo Rafa.
+
+—Chingón —dije.  Creo que se me olvidó platicar cómo nos fue en esa tarde de chelas.  Solo les puedo decir que lo respeto más que antes de esa reunión.  Y él también me respeta un poco más.
+
+Esa charla fue sobre cómo se preocuparon por mí, porque para colmo, perdí mi número telefónico cuando salí de la universidad.  Jamás pudieron volver a comunicarse conmigo... hasta que llegó el Instagram.  En el cuál los ignoré deliberadamente por mucho tiempo.  Sabía que en algún momento debería de tratar de reencontrarme con mi pasado.  Pero no podía.  Encontrarme con Rafa ha logrado desatascar un poco esa etapa a la que tanto me ha costado enfrentar.
+
+—Ok, ¿les parece si comenzamos con el control?  ¿Computólogos?
+
+—Sí, sin tema —dijo Temo.
+
+—A darle —dijo Romina.
+
+David trajo un proyector de acetatos, el cual apenas y funcionaba.  Pero nos mostró los viejos planos de ese dispositivo.  No se veía tan complicado, tomando en cuenta lo que Rafa ha logrado viniendo al laboratorio pocas veces.  Pero mi conocimiento de Circuitos no era tan basto para determinar su facilidad.
+
+—OK, no se ve complicado— dijo Tavo. —El único problema que veo es que requiere dos capacitores que no tenemos en el inventario. —y luego volteó hacia mí. —A la palangana del microchip se le desató el hasware incompatible con el firmware que programamos la vez anterior.
+
+Todos comenzamos a reir.  La primera parte es cierta.  Había que conseguir dos capacitores que ya no son tan fáciles de conseguir.  ¿Gustavo haciendo bromas? Es algo que el grupo puede tolerar.
+
+Y de la nada, el teléfono de David comenzó a sonar.  A pesar que trató de ocultar el impacto de la llamada, no pudo.  Alcancé a ver una lágrima brotando, mientras símplemente decía:
+
+—OK.  Gracias.  Voy para allá.
+
+El laboratorio se quedó en silencio.
+
+—Edgar se queda a cargo.  Por favor sigan sus indicaciones.  Por el momento podrían llevarse con un poquito de calma el proyecto.
+
+---
+
+Esperaba igual que la vez anterior un correo electrónico dejándome indicaciones para el día posterior.  No llegó.  Solo un mensaje en WhatsApp:
+
+«Necesito que pases por las llaves mañana en mi cubículo.  De momento no podré revisar lo que estén haciendo, pero te encargo que sigan trabajando. —David»
+
+Justo estaba terminando de leerlo y guardando mi teléfono cuando sonó un segundo mensaje.
+
+«Pensándolo bien, abres el laboratorio, les dejas indicaciones y mañana como a eso de las 2:00PM te voy a pasar una dirección.  Si quieres acompañarme, lo agradezco.  Si no, no hay tema —David»
+
+«Edgar, David me acaba de mandar un mensaje.  Me dijo que mañana a las 2:00PM vaya a una dirección.  Solo si tú vas.  Creo que necesitabas saberlo —Lilia»
+
+# 32
+
+—Buenos días, equipo.  De nuevo me toca estar a cargo.  Las indicaciones son las mismas.  Es muy probable que Rafa venga a echarles una mano como a las tres.  Probablemente me tenga que ir como a las dos.  Pero ya les estoy avisando.  ¿Pudieron encontrar los capacitores, o algún sitio que los maneje?
+
+—Estuve investigando, y al menos en los perímetros de C.U. no los he visto.  Mucha de esta tecnología es bastante obsoleta —dijo Temo.
+
+—No sé si ya le preguntaron a la Facultad de Ingeniería Mecánica Eléctrica —dijo Romina. —aunque me parece que sí necesitarían la firma de David para poder redactar el oficio.
+
+—Eso no suena mal.  Quizá si le preguntamos al segundo al mando —dijo Lilia.
+
+—Déjenme revisarlo —dije, con un poco de duda.
+
+Marqué a la oficina de Renato, el segundo al mando de la Facultad de Física.  Pregunté si podía ayudarnos a redactar un oficio para solicitar el material para el circuito.  La respuesta era que sí, pero que necesitaba la indicación de David directamente.
+
+Le marqué a David para preguntar si podía indicarle a Renato que nos redactara un oficio.  Me dijo que sí, pero probablemente sería para mañana o para pasado mañana.  Que no importaba.  De momento nos podíamos tomar todo con calma.  En todo caso, podría preguntarle a Rafa si tiene a disposición los componentes.
+
+Regresé con el equipo para decirles que los componentes se podrían solicitar mañana o pasado mañana.  Entonces la decisión fue crear el prototipo con un hueco en el lugar que deberían quedar los capacitores.  Si lográbamos hacerlo funcionar, el proyecto estaría listo en un 80%, y por lo que alcancé a leer en los planos, un 80% hacía una versión parcialmente funcional.
+
+---
+
+En el laboratorio sonaba "Llueve sobre la Ciudad" de los Bunkers.  Eran las 12:00 PM.  Y de repente me llegó un mensaje de WhatsApp.  A los 20 segundos, el celular de Lilia también sonaba.  Saqué mi teléfono, y era David.  La dirección era una agencia funeraria.  No había ni la menor duda que debía ir.
+
+Lilia también acepto que fuéramos.  El lugar estaba como a hora y media de la Facultad, así que podríamos solicitar un Taxi de aplicación para que nos llevara al lugar.
+
+Avisé a Rafa que cuando él llegara, estaría a cargo.  Fue una indicación que me dejó David en la noche. 
+
+El camino fue un tanto caótico, pero llegamos con un pequeño retraso a las 2:05 PM.  David nos vio, y por primera vez se dejó ser vulnerable.  Comenzó a llorar.  Lilia le ofreció un abrazo.  Nunca hubiera imaginado ver llorar así a David.
+
+—¡Era mi hermano! ¡Era mi hermano! —dijo con la voz rota mientras lloraba sobre el hombro de Lilia.
+
+Fue lo mismo, aunque con un abrazo más cálido y fraternal hacia mí.  El llanto fue igualmente fuerte.  Se notaba que lo había contenido, ya que las pocas personas en el lugar respiraron con calma.
+
+Después de unos diez minutos, David se tranquilizó un poco.
+
+El ataúd estaba en el centro de la sala.  Cuatro cirios lo rodeaban.  Había un retrato.  La foto era del mismo hombre que estaba en el retrato del escritorio de David.  No me queda duda que es su hermano.  Nunca nos había hablado de su familia...
+
+—Mi papá quería cremarlo.  Yo pedí que lo enterraran.  Y lo pagué.  Mi otro hermano quiso hacer un desmadre.  Terminé trayéndolo a un lugar donde sí lo respeten.  Conmigo —dijo David.
+
+Era obvio que David no estaba bien.  Estaba destruído.  De lo poco que nos dijo, es que su padre estuvo unas horas, y se fue.  El hermano mayor de ambos iba a hacer una presentación importante y el papá puso de pretexto que no podía perdérselo.  El desmadre fue cuando quisieron regresar y hacer su santa voluntad con el cuerpo de su hermano.  Tuvo que ser la madrastra la que les dijo que tuvieran respeto.  Ella es la única persona de su familia acompañando a David. 
+
+Ella y su tío Raymundo, con quien nos presentó.  El Sr. Raymundo nos agradeció por acompañar a su sobrino.  Y en confianza nos dijo que David casi no tenía amigos, y que era bueno que viniéramos a verlo.
+
+David me preguntó que si alguien más sabía algo.  Le dije que no.  
+
+—Perfecto, que solo lo sepan ustedes.
+
+Ya en la noche nos dijo a Lilia y a mi que nos agradecía.  Que necesitábamos descansar.  Yo quería quedarme un poco más con él, pero pidió que mejor me presentara mañana a trabajar.  Que por favor, el grupo siguiera las indicaciones que él nos mandaría esa noche.
+
+—Cuando regrese, voy a necesitar hablar largo y tendido con ustedes dos.  Tranquilos, no es nada malo.
+
+Solicitamos un taxi de aplicación para llegar a mi departamento.  Lilia aceptó quedarse esa noche conmigo.
+
+# 33
+
+Lilia y yo llegamos, tomados de la mano.  Para nuestra sorpresa, Gustavo llegó primero.  Nos dimos cuenta que miraba directo a nuestras manos.  Instintivamente separamos nuestras manos al mismo tiempo.  Con torpeza.
+
+—No necesitan ocultar algo que se nota a leguas.  Nadie, salvo Luis los va a juzgar —dijo Gustavo.
+
+—Es verdad —dijo Ernesto, que estaba justo detrás de nosotros.
+
+—Oh, pues.  ¿Qué podemos hacer entonces? —dije mientras veía a Lilia.  Me volvió a tomar de la mano.
+
+Luis llegó justo en ese momento.  Extrañamente le mostró una sonrisa de complicidad a Lilia.
+
+—Uuuuuh.  ¡Son novios! ¡Se quieren! ¡Se aman! ¡Se besan! ¡Sus bocas! —era Rafa.  A quién de inmediato hice el ademán de perseguirlo igual que cuando éramos amigos en la carrera y decía una estupidez.
+
+—Mejor dime qué andas haciendo por acá —le cuestioné.
+
+—Ah, nada.  Que no hay esos capacitores en ninguna de las otras facultades.  Los solicitamos vía mercado libre, presté mi tarjeta, así que espero que me devuelva mis cuatrocientos pesos pronto su jefezazo.  Eso y la indicación que me diste ayer de estar a cargo por si no llegaban.
+
+—Ah, eso.  Ya decía yo que no ibas a presentar tu hermoso rostro por acá sin motivo.
+
+—Jajaja, parece más tu novio que Lilia —dijo Romina, quién llegaba junto a Temo.
+
+—Muy chistosa, ¿eh?  Bueno.  Pues ya somos todos.  A darle con todo —alcancé a decir.
+
+---
+
+Pues sí, llegaron los capacitores.  Rafa los colocó, y al momento de conectar el volante el sistema hizo una especie de corto.  Lo cual hizo que se sintiera una vibración extraña, mucho menos intensa, eso sí.
+
+—Je, creo que está invertida la polaridad —dijo Rafa. 
+
+—¿Pero cómo? ¿No se voló ninguno de los componentes? —preguntó Gustavo.
+
+—Déjame checar, pero parece que de inicio no —respondió Rafa, checando el circuito solo con la vista.
+
+—Esa vibración.  Es menos molesta, bastante menos molesta.  ¿Creen que si revisamos se pueda corregir? —dije.
+
+—No creo, la vez anterior la respuesta fue un impulso, que muy seguramente tenía la misma frecuencia, y por eso lo contrarrestó —añadió Luis.
+
+—Eso... tiene sentido.  Entonces quizás si corrijamos el ¿volante?, ¿control?, bueno, esa cosa vibre a la frecuencia exacta, pero en sentido contrario—dijo Lilia.
+
+—Tendremos que revisar.  Temo, ayúdale a Rafa con eso.
+
+La frecuencia era menos intensa y menos molesta.  Pero la sensación en el cuerpo era muy parecida a la vibración anterior. Esperaba que fuéramos capaces de encontrar y solventar ese problema, mientras mi preocupación por David se hacía mayor.
+
+---
+
+Rafa estaba enfrente del pizarrón.
+
+—Bueno, pues este circuito estaba mal.  Tendremos que plantearlo nuevamente.  Aunque creo que el problema es que quizá el acetato estaba al revés.
+
+—¿En serio?  Se supone que esas cosas tienen una marca —dijo Gustavo.
+
+—No lo sé.  ¿Soy yo o la vibración se siente cada vez más fuerte? —dijo Rafa.
+
+—¡Tengan cuidado! —gritó David.
+
+—Ay, no otra vez —alcancé a expresar.
+
+Y en efecto, la cápsula alcanzó a levantarse, se convirtió en un microbús, al que se subió Rafa. Y esta vez decidí no tomarlo.  Aún cuando las voces de mis viejos amigos se oían casi con pánico, gritando que me subiera.
+
+Era un riesgo de la última plática que hubo al respecto con Luis.  La vibración era cada vez más intensa.  El piso temblaba, el techo caía.  Y yo solo trataba de aguantar... Hasta que desperté.  Respiración agitada.  Dolor en el pecho.  Sudoración fría.  No, no fue la mejor de las ideas.
