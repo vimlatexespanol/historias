@@ -1445,4 +1445,42 @@ Nos quedamos mirando un rato sin decir nada.
 
 ---
 
-Al salir de la oficina de David, todos comentaron que al menos una vez tuvieron un sueño parecido.  Y en todas las versiones, yo entraba en la cápsula antes que los que lo sueñan entren y despierten.
+Cuando salí de la oficina de David, me quedé pensando por un momento en la coincidencia tan grande de que al menos tres personas hemos tenido sueños parecidos, aunque diferentes en intención.  Regresé al laboratorio y aún estaba el equipo completo.  
+
+—Oigan, amigos... tengo que hacer una pregunta.  ¿Ustedes han tenido algún sueño que tenga que ver con la cápsula del laboratorio?
+
+Todos se vieron mutuamente, y bajaron la mirada.
+
+—Esa es la razón por la que nadie te juzgó cuando preguntaste que sí era un sueño —comentó Gustavo.
+
+—Es verdad, todos lo hemos soñado diferente.  Yo estaba programando una parte del firmware, cuando de repente gritó David que tuviéramos cuidado.  Todos salían del laboratorio, excepto tú y yo.  La cápsula se acercaba a tí, como si te eligiera.  Abre su compuerta, entras.  Me acerco por curiosidad y entro.  Sin ver nada más, despierto —platicó Romina.
+
+—Yo decidí no entrar, y me desperté porque las vibraciones se tornaron insoportables.  Lo soñé de nuevo, y ahora decidí entrar.  Desperté tranquilamente —dijo Gustavo.
+
+—Bueno, para no hacerte el cuento largo, todos aquí soñamos el final de forma idéntica.  Gustavo es el único que no entró, y lo volvió a soñar.  Lo único que varía es lo que ocurre antes de que la capsula se levante —mencionó Lilia.
+
+—Hmm, esto es mucho más grave de lo que imaginaba.  Mi teoría es que algo provocaron en nuestra mente las vibraciones.  Creo que tuve la epifanía de usar la explicación de Rafa para contrarrestarlas.  Veamos si al menos esto detiene los sueños para mí.
+
+—¿Qué soñaste exactamente? —preguntó Gustavo.
+
+—Distintos escenarios.  El primer sueño extraño ni siquiera incluía la cápsula.  Pero es la misma estructura.  Había un microbús a la salida de un bar con mis amigos de la Facultad de Neza.  Subí al autobús y desperté.  En todos los sueños, la cápsula se coloca frente a mi.  Y se abre la compuerta, como invitándome a entrar.  Incluso soñé esa canción rara que pusiste ese día, Romina... la de la gitana o gallega esa...
+
+—¿Malamente de Rosalía? —preguntó Romina, sorprendida.
+
+—Creo que sí es esa.  ¿Podrías ponerla?
+
+Romina la puso, y en efecto, les confirmé que ese estribillo era la descripción de lo que vi en el sueño.
+
+Luis me pidió hablar en privado.
+
+—¿Qué pasa Luis?
+
+—Mi sueño fue diferente.  En el mío entraban tú y Lilia.  Quise seguirlos y aparecí en la UM.  Rodeado de proyectos extraños.  Y vi al profesor Cortés diciendo algo así como: "¿Verdad que es difícil tomar una imagen del pasado?"  No recuerdo la frase exacta... pero por ahí iba.
+
+—¿Recuerdas si te dijo tomar, o hacer una imagen del pasado?
+
+—Ahora que lo recuerdo, creo que sí dijo tomar.  Porque estaba con una cámara.
+
+—Gracias, Luis.  Sigo sin entender todo esto.
+
+—Si me lo quieres preguntar, creo que tienes razón en tu teoría de las vibraciones.  No sé cómo llego a esta conclusión, sinceramente, pero es como si proyectaran recuerdos muy profundos de nuestro pasado en un sueño.  Y es como si tuviéramos que saber qué hacer en el momento que vemos esa proyección.
