@@ -1026,3 +1026,333 @@ David escogió "Tonight Tonight" de los Smashing Pumpkins.  Que también es una 
 Se qué en momentos anteriores dije que David no me generaba mucha confianza.  A Gustavo tampoco.  Pero tampoco puedo negar que hizo todo lo que estuvo a su alcance para que el grupo se mantuviera unido.  Y a él le gustaba participar del desmadre.  Después de todo, no es mucho mayor de edad que nosotros.
 
 De repente, su teléfono sonó.  Por su cara no eran buenas noticias.
+
+# 23
+
+David me mandó un mensaje de texto esa misma noche.  Me avisó que no iría al día siguiente.  Pero me pidió que ahora que teníamos el dispositivo de interacción entre el acelerador y el modelador, ya podíamos iniciar con la siguiente fase, que era la más complicada.
+
+Me mandó un correo electrónico con unos planos de la cápsula central, y resultados de entrada y salida que necesitaba el dispositivo.  Además de unas indicaciones.
+
+En resumen, nos decía que hasta antes de anoche, el proyecto podría terminarse en el lapso de un año.  Pero ahora era estrictamente necesario tenerlo en un lapso máximo de seis meses. 
+
+Me encargó que motivara al equipo.  Y que si Luis no cooperaba, tenía la autorización de sacarlo del laboratorio.
+
+Eso fue extraño, por decir lo menos.  Le reenvié el correo a Gustavo, para ver si veía algo raro, y lo primero que me dijo es que los planos eran como si la cápsula se tratara de una caja negra.  No explicaban más, solo ahondaban en los resultados de entrada y salida.
+
+Agradecí y colgué.  Me fui a dormir más confundido que antes.
+
+---
+
+Esa noche tuve un sueño extraño, un sueño recurrente, que más bien era un recuerdo de cuando estaba en la ingeniería.  Un grupo de amigos y yo nos sentábamos en una mesa dentro de un bar.  De fondo sonaba Tornasol de La Gusana Ciega.
+
+—Oye, güey, te queremos en la graduación —me dijo Roberto, uno de mis amigos en la UNal.
+
+—¿Pero no crees que es mala idea que esté yo ahí? —respondí.
+
+—Todos, menos el Rafa, debemos algo, güey.  Y ahí vamos a estar.
+
+Rafa me ofreció un vaso de cerveza.  Yo lo tomé.  En ese momento ya comenzaba a pensar en cómo escapar de la universidad.  Él era el único alumno regular en esa mesa.  Y también me motivó a asistir.
+
+—Cabrón, se va a sentir bien culero si voy solo a esa fiesta.  ¡Acompáñanos para hacer montón! Sí nos vas a hacer falta.
+
+—Déjenme ver.  Les aviso —respondí, con un dejo de tristeza.
+
+Había dos razones serias para no ir.  Era un gasto inmenso para mis padres, y el orgullo me picaba demasiado como para estar en una fiesta que no merecía estar.  Mi padre siempre me insistía con ver mis calificaciones.  Y nunca de los nuncas las vio.
+
+Caminaba a la salida del bar.  Y ahí de inmediato pasaba el microbús que me dejaba en casa.  Y siempre, pero siempre terminaba el sueño justo en el momento que cruzaba la puerta del microbús.
+
+# 24
+
+Cómo era el encargado temporal, tenía que pasar por las llaves a la oficina de David.  Me había pasado su clave de acceso, y pude entrar al cuarto donde tenía las llaves.  En ese momento pensé que si era tan confidencial el laboratorio C-036, quizá hubiera sido mejor poner un cerrojo automático ahí... pero tampoco tenía pensado platicarlo con David.
+
+Ya estaban todos, cinco minutos antes de la hora de entrada.
+
+—Buenos días —atiné a decir.
+
+—Buenos días —respondieron todos.  Menos Luis.
+
+Todos entraron sin problemas.  Se sentaron en la mesa de la oficina.
+
+—Bueno, como se podrán imaginar, David me puso a cargo de ustedes el día de hoy.  Tuvo una emergencia, y al parecer regresa el día de mañana.  Me dejó unas indicaciones que hay que seguir.  Primero que nada, el proyecto de inicio no tenía una fecha de finalización fija.  Pero David estimaba que tendría una duración de un año, aproximadamente.  Por circunstancias que no me ha aclarado, el proyecto ahora deberá estar listo en un periodo de seis meses.  El siguiente objetivo él lo describe como el más complejo de todos.  Y es doblemente complejo, porque ahora todos estamos en la maestría.  Salvo Romina y Temo.  Hay que mantener el balance entre el trabajo y estudios.  Tenemos que conseguir el trabajo que hacíamos en ocho horas, en máximo seis horas.  Dependo mucho de ustedes para poder hacerlo.
+
+—Uff, la mitad de tiempo.  Está bien, no suena tan imposible —dijo Temo.
+
+—Aún no sabemos la complejidad.  Por algo esto que parece sencillo, David dice que es la parte más complicada del proyecto —dijo Gustavo.
+
+—Pero trabajando todos juntos, definitivamente se puede —dijo Lilia, con una sonrisa en el rostro.
+
+—Un detalle más.  Si revisan su correo electrónico, acabo de enviarles los planos de la cápsula central del laboratorio.
+
+—¿La máquina que vibra? —preguntó Ernesto.
+
+—Esa misma.  Lilia, Luis, necesito que analicen como funciona la entrada de datos de la cápsula.  El resto nos encargaremos de analizar la salida.  En caso de necesitar ayuda, Lilia, Luis, avísenme y haré lo que pueda.
+
+Lilia asintió
+
+—Pregunta.  ¿No podemos interactuar con la cápsula más allá de entradas y salidas? —preguntó Lilia.
+
+—Está implícito que no.  Si no, estoy seguro que explicaría componentes del equipo, y es algo que no está en los "planos".
+
+—Bueno, vamos a comenzar.  ¿Quieren poner algo de música?
+
+Todos, menos Luis, asintieron, así que comenzamos a trabajar.
+
+Romina escogió la música esta vez.  Era un disco de una artista que hasta ese momento yo nunca había escuchado.  La canción era "Malamente" de Rosalía.
+
+—¿Qué es eso? —dijo Ernesto.
+
+—No critiques, solo fluye con la música —dijo Romina, haciendo un ademán de Surf con su mano.
+
+Todos comenzaron a reir.  Excepto Luis, para variar.
+
+—Luis, necesito hablar contigo.
+
+No hubo respuesta.
+
+—Luis, no te hagas el sordo, es cuestión del trabajo.
+
+Sin respuesta.
+
+—Luis, David me dio la facultad de expulsarte del laboratorio si no cooperas.  Se te descuenta tu día, y la prima dominical.
+
+—¿Qué chingados quieres?
+
+—Que me escuches.  Primero que nada, deja de ser tan infantil.  Segundo, necesito que me digas si entendiste lo que les comenté.  Tercero, una respuesta más así, y no solo te vas por hoy, me encargo que te quedes fuera del proyecto definitivamente.
+
+—Sí.  Entendido.  Está bien. —rezongó Luis.
+
+—Más vale que sea así.
+
+# 25
+
+En efecto, comenzamos a entender por qué a David le parecía la parte más complicada del proyecto.  Siendo una caja negra, no somos capaces de entender como interpretar los datos de salida.  Y en los datos de entrada la cosa no es menos complicada.
+
+Según el plano, la cápsula espera una entrada generada por un impulso eléctrico que solo se consigue mediante un acelerador de partículas.  Aparentemente, todo bien.  Lo malo, es que la entrada la espera mediante un conector coaxial BNC.  Esperaba una entrada más estándar.  Además que necesitaríamos encontrar que el impulso del acelerador pase por un cable.  Lo cuál es contraintuitivo.
+
+La salida, por su parte, es una señal análoga que se debe transformar a digital, y modularla de manera que parametrice una ecuación diferencial parcial.
+
+Necesitábamos por lo menos dos circuitos completamente distintos entre sí.  Es como si la Ingeniería se empeñara en regresar.  Con Gustavo traté de formular posibles soluciones que no involucraran crear circuitos eléctrónicos.  Pero no era tan sencillo.  Sabíamos que tendríamos que usar otros dos convertidores analógico digital, por lo menos.  Y dos circuitos.  Sí, sonaba a que necesitábamos más ayuda de nuestro querido amigo Rafa...  pero eso sería problema para el David y Edgar del futuro.  Era todo por ese día.
+
+Al final, vi que Lilia intentó hablar con Luis.
+
+—Luis, ¿todo bien?
+
+—Hola, Lilia.  ¿Ya vienes a defender a tu noviecito?
+
+—¿Qué pedo contigo, Luis? Ya bájale.  Parece que no entiendes que esto que estás haciendo está mal.  No quieres hablar con nadie, te aíslas.  Ni siquiera sé si entiendes que es lo que estamos haciendo.
+
+—Lo entiendo, pero la persona bajo la que estoy a cargo se llama David Martínez.  No Edgar Mendoza.  Tu amiguito.
+
+—Luis, David puso a cargo solo por el día de hoy a Edgar —dijo Lilia, que no podía dar crédito a la arrogancia de Luis.
+
+—No es solo por hoy, Lilia.  Edgar tiene trato preferencial desde el inicio del proyecto.  Y no solo de David.
+
+—¿Disculpa? —preguntó Lilia.  Indignada.
+
+—Sí, yo era tu compañero de equipo desde el principio.  Y pareciera que siempre prefieres trabajar con Edgar.  ¿Por qué mejor no me dices lo que ya todos aquí sabemos?
+
+Todo el equipo miró a Luis.
+
+—En primera, si vas a hacer estos reclamos, es en privado.  Y en segunda, no te debo nada.  Tú aislaste a Edgar del proyecto.  Tú no entendiste por qué lo molestó.  Primero, lo abrumas queriendo recuperar la amistad a la de a fuerzas.  Y luego, cuando ya te puso un límite firme eres incapaz de distinguir entre lo laboral y lo personal.  Ya madura, Luis.  No es justo que arrastres al equipo con tus quejas.
+
+La frase de Lilia lo desarmó por completo.  No colapsó ahí mismo.  Se nota que aguantó el llanto un poco.  
+
+—Yo te quería, Lilia.  Y lo único que conseguí fue perderte —dijo Luis.  Y acto seguido, salió del laboratorio.
+
+Bueno, y ahí estaba.  Eso era el motivo de todo.  Debo agradecer a mis ejercicios de respiración.  Podría haberlo matado ahí mismo.  De hecho, al día siguiente bien podría haber platicado con David su salida.  Pero hubiera sido injusto.  Era la primera vez en casi siete meses que explicaba por qué actuó de esa manera.
+
+---
+
+Al final del día, tenía que dejar las llaves en la caja dentro de la oficina de David.  Le pedí a Lilia, Gustavo y a Ernesto que me esperaran un poco. Teníamos que pasar a comer, no habíamos podido hacerlo por lo cargado del día.  
+
+Entré a la oficina y reparé en varios de los detalles que tenía.  Colecciones enteras de figuritas de superhéroes de los empaques de galletas.  Los llaveritos del pan dulce.  Cascos de futbol americano de una vieja promoción de paletas de hielo.  Funkos.  Posters geeks de Star Wars, películas de Marvel y de DC.  Era un compañero de afición al 100%.
+
+Sobre el escritorio había un retrato.  Era David, unos 10 años más joven y sin su pelo largo, junto a otro sujeto, parecido físicamente a él.  Mayor, pero más bajito.  Pelo chino corto, con lentes.  Se les veía felices.  David llevaba puesto togo y birrete.  Estaba saliendo de su graduación.
+
+Coloqué las llaves en la caja, salí de la oficina, y la cerré.  Me encontré con Lilia, Gustavo y Ernesto.  Me pidieron de favor que no hablara ni mencionara nada sobre lo ocurrido ese día.  No entendí si se referían a no volver a mencionarlo entre nosotros, o cuando hablara con David. 
+
+—Con nosotros, menso —dijo Ernesto.
+
+# 26
+
+Esa noche, David me envió un correo electrónico.  
+
+«Vi que hablaste con Luis cuando llegaron.  Bien manejado.  En el momento que te haga una grosería así, avísame y ya vemos
+
+No he visto mucho más.  Pero parece que van a necesitar la ayuda de Rafael nuevamente.  Mañana le aviso que se pase al laboratorio.
+
+Voy a dejarlo hasta ahí.  No creo que haya nada más que nos falte ver.
+
+Los veo mañana. Descansen».
+
+Es gracioso que considerara que no hay nada más que ver.  Ni siquiera tengo idea si Luis regresará mañana.  No quiero enviarle mensaje preguntando.  No es algo que me corresponda a mi.
+
+---
+
+—Bienvenidos de nuevo.  Me da gusto verlos hoy —dijo David, con una sonrisa en la cara. —Como se pueden dar cuenta, lo que nos falta para completar nuestro gran proyecto es un nuevo circuito.  Rafa, por favor.
+
+—¿Qué onda, culeros? Que bueno es verlos de nuevo.  Miren, la solución está regalada: necesitamos que estos circuitos vibren a 33 MHz sobre un bus ISA de 8 bits, de esa manera el microchip cuántico del software compilado en Turbo C++ va a desfragmentar los coeficientes del acelerador. Luego le pegamos un módulo Bluetooth 2.0 al puerto paralelo para que la cápsula parpadee en formato JSON, hacemos que el voltaje se sincronice por Wi-fi analógico y listo, pa' su casa —mencionó Rafa.
+
+—Ah, ya entendí.  Esto de los circuitos es muy fácil —dijo Gustavo.
+
+—Es una pena que tú seas el único que no los entienda —dijo Romina, mirando hacia mí mientras Lilia reía escandalósamente.
+
+—¿Lo ves? Lilia entiende lo ridículo que eres. JAJAJAJAJAJA —dijo Luis mientras comenzaba a besarse de forma grotesca con Lilia y con Romina a la vez.
+
+—Estás muy mal, morro.  Mejor ya déjanos trabajar a gusto a los que sí sabemos crear circuitos. —enunció Ernesto.
+
+Todo el grupo formó un círculo y me señaló con el dedo, mientras reían burlonamente.
+
+De pronto, las vibraciones que hay en el laboratorio comenzaron a sentirse más fuertes.  La cápsula levitaba.  Y avanzaba lentamente.
+
+—¡Tengan cuidado! —gritó David. 
+
+Todos salieron corriendo del laboratorio, dejándome a mi solo.  La cápsula se acercó a mí, como si me eligiera.  Se abrió la compuerta, y cuando estaba a punto de entrar, desperté.
+
+¿Qué pedo con mis sueños?
+
+# 27
+
+Fui el primero en llegar, como en la mayoría de los días.  Todavía me sentía confundido por el sueño de la noche anterior.  La cápsula me eligió, o al menos así lo sentí.
+
+En eso, Lilia llegó, y me saludó con un beso en la mejilla.
+
+—Tuve un sueño raro, Edgar —dijo Lilia. —Estábamos en el laboratorio, estaba Rafa, y empezó a hablar de un circuito que teníamos que construir en concreto.  No dijo nada especialmente memorable.  Todos trabajábamos normal.  De pronto, la cápsula comenzó a vibrar con mucha intensidad.  David gritó que saliéramos.  Todos se fueron, excepto tú y yo.  La cápsula se levantó, como levitando.  Y se detuvo, como si nos eligiera a los dos.  Se abrió la compuerta, tú entrabas primero y cuando yo estaba a punto de entrar... desperté. 
+
+—Ja, que sueño tan raro.
+
+—Hey, tortolos.  ¡Despierten, que ya es hora! —dijo animosamente David, quien venía con unos lentes oscuros.
+
+—Buenos días.  ¿Cómo está? ¿Todo bien? —le preguntó Lilia.
+
+—Todo bien.  Tengo que usar estos lentes, o me va a dar migraña hoy.
+
+Lilia y yo nos miramos por un momento.
+
+—Estoy bien.  Se los juro.  Solo espero que no tarden mucho sus compañeros.  Me urge platicar con todos ustedes.
+
+Lo primero que pensé es que nos iba a regañar por lo ocurrido el día anterior.  Pero estábamos dos de los involucrados, así que supongo que tendría que esperar a Luis...
+
+—Es sobre el proyecto —dijo David.
+
+Fueron llegando poco a poco Ernesto, Romina, Temo y Gustavo.  Pero Luis no llegaba.  Pasaron veinte minutos.
+
+—Bueno, voy a tener que comenzar.  Lo ponen al corriente.  Bueno, pues ya se habrán...
+
+En eso sonó el tono de mensaje de David.  El tono estándar de Samsung.
+
+—OK.  «Tengo un incidente con el tráfico.  Llego en 10 minutos —Luis».  Eh, no.  No quiero esperarlo.  Como se podrán haber dado cuenta el día de ayer, es la primera vez que tuvieron interacción directa con la cápsula.  Sabía que iba a ser un reto grande.  Si bien, cuando diseñé este proyecto tenía más o menos una idea de lo que se requería para hacerlo funcionar.  Si la pregunta es: "¿por qué tiene un conector coaxial?" es porque no se me ocurrió otra manera de que recibiera la señal sin tanta interferencia.  Lamento que tengan que usar cable coaxial en pleno siglo XXI.  Sabía que necesitaba la interacción de un acelerador de partículas y algo que representara los modelos de los campos.
+
+Ustedes están haciendo que este proyecto tome forma.  Y si alguien se pregunta cuál es la razón por la que escogí a Edgar como coordinador es porque...
+
+Se escucharon unas zancadas en el pasillo.
+
+—¿Puedo pasar?  —Interrumpió Luis.
+
+—Pasa.  Pero recuerda que esto no es un salón de clases de primaria.  Pasas, y ya.  ¿OK?  Ya ni recuerdo lo que les estaba diciendo —dijo David un tanto molesto.
+
+—¿Por qué eligió a Edgar como coordinador del proyecto? —dijo Gustavo, ante la molestia evidente de Luis.
+
+—Ah, cierto.  Edgar es una persona capaz de liderar un equipo multidisciplinario para alcanzar un objetivo en poco tiempo.  Para mí esa es una razón fuerte para tenerlo como coordinador.  Si alguien tiene una oposición a esto, por favor exprésela de una vez.
+
+Nadie dijo nada.
+
+—¿No piensas decir nada, Luis?
+
+El ambiente cambió.  La tensión se hizo palpable.
+
+—A la próxima que vea que le contestas mal de nuevo a Edgar cuando te de una indicación, te llevarás un acta administrativa.  Evitemos ese tipo de actitudes, ¿está claro?
+
+—Pero... 
+
+—Edgar no me dijo nada.  Les recuerdo que estos laboratorios tienen cámaras.  Y ayer vi que te llamaron la atención por desacatar una indicación.  Que no se repita, ¿está bien?
+
+—Está bien —dijo Luis con un dejo de resignación.
+
+—¿Alguien tiene alguna duda?
+
+—Sí, yo.  ¿Por qué la premura en terminar el proyecto? —preguntó Lilia.
+
+—Porque tenemos limitaciones de presupuesto en la Facultad.  Entre menos tiempo tarde la realización de un proyecto, el costo será menor.
+
+—¿Por qué la cápsula es una caja negra? —dijo Gustavo.
+
+—¿Caja negra? ¿En qué sentido? —respondió David.
+
+-No sabemos como funciona, solo conocemos los parámetros necesarios de entrada y salida —dijo Gustavo.
+
+—Oh, sí.  Más adelante si interactuaremos con elementos de la cápsula.  Aún no es el momento.
+
+Todo se quedó en silencio.
+
+—Bueno, si nadie más tiene dudas, hay que volver a la acción.  ¿Dónde está la música? —preguntó David.
+
+Era la primera vez que lo veíamos realmente molesto.  Y también era la primera donde revelaba que revisaba las cámaras del laboratorio, aunque técnicamente me lo dijo ayer.
+
+# 28
+
+Para el final del día, David se notaba un poco más relajado.  Hoy él seleccionó la mayor parte de la música.  Lo que no estuvo tan mal, la verdad.  Pero se veía, no sé cómo decirlo... ¿triste?  Como si le hubieran dado una noticia triste.  Al menos eso fue lo que me dijo Gustavo cuando se lo pregunté.
+
+Al final del día, David se acercó a Luis, y lo llevó a su oficina.  Desde el futuro en que recuerdo esta historia, es fecha que no sé qué fue lo que le dijo.  Pero a partir de ese momento, a Luis se le vio más tranquilo, y comenzó a interactuar con el resto del equipo.
+
+Esa tarde, todos salimos un poco más temprano, y nos fuimos a comer.  Incluso Luis y David se unieron.  Fuimos a una pizzería, y pedimos 3 pizzas de pepperoni y una de vegetales solo para Romina y Gustavo.  Venir a la pizzería era un gusto culposo para todos.
+
+Luis se acercó hacia mí y me dijo algo que cambió las cosas un poco. 
+
+—Discúlpame por desviar todos mis problemas hacia ti.  Fue duro para mí perderlos tanto a ti, como a Lilia.  Hazla feliz, ¿sí?
+
+—Luis, Lilia y yo solo somos amigos.  Por el momento.  La quiero mucho, sí.  No te lo niego.  Llegó justo en el momento más difícil de mi vida.  Y compartimos un amigo y un tutor.  Fui muy ciego para darme cuenta de que no era mi enemiga.  Pudiste haber aprovechado esa etapa en la que no me caía tan bien.
+
+—Es que no lo entiendes.  Ella siempre te buscó.  Siempre notaba el helado, el café, los refrescos.  Tus gustos musicales.  Y a mí nunca me notó.  Sé que por lo que he hecho ya no podría estar conmigo.  Y para mi es triste, porque diario los tengo que ver a ustedes.
+
+—Bueno, yo...
+
+—Aparte ya pasó mucho tiempo.
+
+—Eh, sabía que era muy bueno para ser verdad. 
+
+—¿Que era muy bueno qué? ¿Ya podemos volver a platicar como antes?
+
+—Mira... dame un poco de tiempo.  Me conformo si podemos platicar bien dentro de nuestros proyectos, ¿sí?
+
+—Está bien.
+
+—No te aísles.  El único que realmente está molesto contigo soy yo.  Mañana volvemos a nuestra rutina habitual, ¿va?
+
+—Está bien.  Me voy.
+
+No entendía lo que le pasaba a Luis.  O a mí.  De una manera que me cuesta trabajo explicar con palabras, me sentía extraño.
+
+---
+
+Al día siguiente entrábamos de nuevo al laboratorio.  De nuevo aparecía Rafa.
+
+—¿Qué onda carnalitos?  Listos para comenzar con el circuito.
+
+—Sí, dale —respondió David.
+
+—Por lo que estoy entendiendo, necesitan interacción usando los parámetros de entrada de la cápsula central.  Y que la salida se torne como una ecuación diferencial parcial para poder modelarla en el software.
+
+—Es correcto —asentí.
+
+—Bien.  Entonces necesitaremos una placa arduino o RaspBerry Pi, un circuito traductor de A/D y el circuito que lo conecte a la entrada coaxial.  Y del otro lado, hay que discretizar la salida de la cápsula para poder modelar.
+
+De pronto, las vibraciones de la cápsula aumentaron gradualmente hasta volverse insoportables.
+
+David gritó para que todos salieran del laboratorio.  La cápsula se levantó y pareció elegirme.  Esta vez se acercó, y se transformó en un microbús.  Rafa entró y subió al Microbús.  Desde adentro escuché las voces de Roberto, Rubén y David "El Físico" quienes fueron amigos y compañeros de mi carrera pidiéndome subir.  Entré al Microbus, y alcancé a ver una luz, y se podía sentir el caos.  De fondo sonaba "Malamente" de Rosalía.  Sabía que era un sueño, pero no podía despertar.
+
+Pasaron cosas que se parecían al coro de la canción, como lo raro de la noche.  O que cuando quise cruzar un puente, éste tambaleaba entre más avanzaba en el camino.  Eventualmente, el puente se derrumbó, y comencé a caer al vacío.
+
+Mientras caía escuché una voz, me resultaba conocida, pero no ubicaba de quién era.
+
+—¿Verdad que es difícil hacer una imagen del pasado?
+
+Y eso es lo que me hizo despertar. 
+
+Durante las siguientes dos semanas las pesadillas regresaron una y otra vez.  A veces era desde la Facultad de la UNal, a veces eran desde la UM.  Todas tenían en común algo, cuando quería entrar a la cápsula, al microbús, o al autobús despertaba.  Y si no despertaba, la pesadilla se tornaba insoportable. 
+
+Le pregunté a Lilia si volvió a soñar algo raro.  Y ella me dijo que no.  Solo ese día.
+
+Yo le platiqué mi sueño.  El primero con la cabina.  Con lujo de detalle.  Estaba sorprendida.
+
+Después de cumplir las dos semanas, los sueños desaparecieron.  Pero hubo algo que cambió las cosas.
