@@ -1702,3 +1702,101 @@ Rafa estaba enfrente del pizarrón.
 Y en efecto, la cápsula alcanzó a levantarse, se convirtió en un microbús, al que se subió Rafa. Y esta vez decidí no tomarlo.  Aún cuando las voces de mis viejos amigos se oían casi con pánico, gritando que me subiera.
 
 Era un riesgo de la última plática que hubo al respecto con Luis.  La vibración era cada vez más intensa.  El piso temblaba, el techo caía.  Y yo solo trataba de aguantar... Hasta que desperté.  Respiración agitada.  Dolor en el pecho.  Sudoración fría.  No, no fue la mejor de las ideas.
+
+# 34
+
+Llegué temprano, con la indicación de David de pasar por las llaves del laboratorio C-036 a su cubículo.  Las vibraciones dentro del sueño me provocaron diferentes malestares, entre ellos una migraña marca diablo, de esas que duele incluso al platicarlas.
+
+Entré a su oficina, y todo lucía normal.  Como si fuera producto de una morbosidad incómoda,  observé el retrato de David con su hermano.  El recuerdo de David soltándose cuando nos vio a Lilia y a mi trajo a mi mente el pensamiento que he tenido desde el día que lo conocimos.  Siempre ha sido un hombre cuyas acciones parecen decirnos que hay aprecio legítimo, pero al mismo tiempo no tiene la confianza de mostrarnos el panorama completo.
+
+Pulsé la clave que abría la caja en donde se encontraban las llaves y abrí el laboratorio.
+
+La vibración continuaba.  Aunque igual de tenue que la del día anterior.
+
+El equipo se encontraba ya listo para ingresar.  Detrás de mí, llegó Rafa, quien me comentó que por lo pronto ya tenía idea de qué fue lo que pasó con el circuito.
+
+No fue la fuente de poder.  No fueron los capacitores.  Simplemente el diseño del circuito estaba mal diseñado, y tenía unos errores que él mismo iba a revisar en el transcurso del día.  Sin embargo, el asunto de la polaridad estaría resuelto hoy mismo.
+
+Rafa estaba enfrente del pizarrón.
+
+—Bueno, pues este circuito estaba mal.  El diseño del acetato estaba equivocado.  Me encargo de revisarlo dependiendo de las entradas y salidas que tengamos en los planos.
+
+—Está bien, ¿crees que la polaridad repare la vibración? —pregunté.
+
+—No lo creo.  La vez anterior se necesitó un impulso.  Probemos con el volante, y posteriormente con el impulso, en caso de ser necesario.
+
+—Correcto.  Revisamos.
+
+Mi mente saltaba por todos lados.  Todo esto ha sido una locura.  Seguía pensando en David, en que lo vi vulnerable.  Que por un momento sentí su dolor.
+
+De pronto, a mi mente vino un recuerdo que tenía guardado.  Con mi padre me costó trabajo, pero pude llorarle en el momento que su ataud descendía para ser enterrado.  Su muerte fue repentina.  Pero con mi madre ese dolor duró mucho más.
+
+Mi madre sufrió por cerca de diez años.  Una salud descuidada que la fue consumiendo día tras día.  Fue un deterioro muy lento que dolía, pero al final mi hermana y yo ya estábamos resignados.  No pude llorar.  Me obligaron a asistir a la _levantada de cruz_, el noveno día de la ronda de rosarios.  Por más que dejé claro lo que pensaba al no presentarme a los rosarios.  La religión no es lo mío.
+
+Fue hasta varios años después, cuando iba a clases, por ahí del tercer trimestre que tuve un cierre.  Uno extraño, pero que hizo que las lágrimas brotaran a borbotones.  Subí a un autobús, de camino al metro. En el radio sonaba Stereo Joya.  Y después de una ronda con las mismas canciones de siempre, sonó "Amor Eterno" de Juan Gabriel.  La versión en vivo desde el Palacio de Bellas Artes.  *Ese concierto*.  No la versión horrible de muchos años después.
+
+Se dice que Juan Gabriel le dedicó esa canción a uno de esos amores intensos que tuvo que dejar atrás.  Por obviedad, al público se le decía que le dedicó esa canción al "amor eterno" que le tenía a su mamá.  La realidad es que por lo que dijo Juan Gabriel con paso de los años, esa fue la primera y única vez que le dedicó esa canción a su mamá.
+
+---
+
+Entre Gustavo y Rafael estuvieron trabajando en el circuito.  La gran sorpresa es que al parecer Gustavo ahora adora ayudar con los circuitos electrónicos.  Sí, más sal a la herida.
+
+Rafael tenía las terminales del volante en las manos, presto a conectar el volante con la cápsula, cuando el sonido de unos pasos inundaron la sala.
+
+—Buenas tardes, jóvenes. ¿Cómo vamos?
+
+—Hubo que conseguir unos capacitores.  Me debes 400 varos, cabrón —comentó Rafa.
+
+—Ah, está bien.  Al rato mando el oficio.  ¿De plano no los hubo en los laboratorios de ICO o de IME? —preguntó David.
+
+—Primero, Renato quería tu indicación.  Segundo, cuando hablé con el decano de Computación y Electrónica me dijo que iba a revisar.  Y en la tarde me dijo que no había nada.  Así que revisé si había algo en Mercado Libre, y los encontré.
+
+—Muchas gracias por todo, Rafa.  Gracias —dijo David.
+
+Inmediatamente, nos indicó con la mirada a Lilia y a mi que lo alcanzáramos en su cubículo.
+
+---
+
+—Primero que nada, de nuevo, muchas gracias.  Se imaginarán lo complicado que eran las cosas para mí si solo hubiera estado conmigo mi tío Raymundo.  Gracias por ayudarme, y por estar ahí.
+
+—Gracias a usted, por la confianza —dijo Lilia.
+
+—Bueno, dicho esto, necesito platicar con ustedes.  Lo único que les pido es que por favor, déjenme hablar, y al final pueden preguntar lo que quieran.  ¿Está bien?
+
+—Sí, David.  Está bien —comenté.
+
+—Bien.  Hace dos días, mi hermano Benjamín falleció.  Y con él murió una buena parte de mis recuerdos familiares.  Mi familia fue un tanto disfuncional.  Fui el tercer hijo de tres.  
+
+»Mi padre es el dueño de una tienda que vende y renta trajes.  Una tienda no muy grande, pero que nos permitió vivir de manera decente por muchos años.  Eso sí, mi madrastra y mi padre creían que vivíamos en la opulencia.
+
+»Mi hermano mayor se llama Ramiro, igual que mi padre.  El nombre de la tienda es "Renta y Venta de trajes Ramiro".  Espero que con esto se entienda el patrón.  Ramiro III es el favorito de los tres. Para él había todo.  Ropa de primera calidad, comida en abundancia, zapatos de las marcas más codiciadas e incluso fiestas en exceso con el pretexto de acrecentar la cartera de clientes. 
+
+»Mi hermano de enmedio se llamaba Benjamín.  Eso también debería de darles una idea del patrón.  Dos años después, nací yo.  Y según los largos sermones de mi padre, yo fui un obstáculo y una carga para su felicidad.
+
+»Mi madre murió a los dos años de haberme dado a luz.  Mi padre se casó con Valeria en menos de dos meses.  Contrario a lo que se podría pensar, Valeria no me trataba mal.  Cuando los dos Ramiros no estaban, ella me daba de comer y platicaba conmigo.  Si bien no con esto digo que ella era la mejor persona, al menos fue más humana conmigo que mi propio padre y hermano.
+
+»Benjamín era un monstruo de otra clase.  Siempre fue cariñoso conmigo, y también compartía de su comida conmigo cuando papá no nos daba la cara.
+
+»Mi padre me forzó a estudiar Derecho.  "Si no eres bueno para algo, al menos vas a ser el abogado de la familia".  Me fue fatal.  Al tercer semestre, colapsé.  Hablé con mi tío Raymundo, hermano de mi madre.  Y cuando escuchó mi historia, de inmediato me sugirió irme a vivir con él.
+
+»No tengo una historia epifánica de cómo es que decidí estudiar Física.  Es solo que un día en el parque, después de haber escapado de casa comencé a ver el entorno.  Como si todo transcurriera en cámara lenta.  Las gotas de lluvia, las semillas de los dientes de león, un niño soplando burbujas.  Por alguna razón eso resonó en mi mente, y dije "Física".
+
+»Mi tío Raymundo me apoyó.  Sin embargo, mi papá vendió cara la derrota.  Me encontró afuera de la casa de mi tío Raymundo y me atacó con un palo y me golpeó con toda su furia, exigiéndome regresar.  Benjamín trató de detener a mi padre, pero no era suficiente.  Mi tío Raymundo se encabronó con la situación, y a pura mano limpia le quitó el palo, y le rompió todo lo que se llama madre.  Lo hubiera disfrutado, si me hubiera quedado consciente.  
+
+»La amenaza de denuncia penal y demanda por parte de mi tío Raymundo fue suficiente para que mi padre, de mala gana, aceptara que me quedara con mi tío.
+
+»Entré a estudiar, consiguiendo un trabajo de medio tiempo.  Después del primer año, Benjamín comenzó a apoyarme.  Y con él acompletaba para mis pasajes y mis alimentos.
+
+»Terminé mi carrera, y en unos años terminé elegido como el nuevo decano de Física.  Fui el mejor alumno de mi generación.
+
+»Es por eso que me dolió la muerte de mi hermano.  Fue la única persona de la familia del lado de mi papá que me apoyó al 100%.
+
+»Hace cuatro meses le diagnosticaron cáncer en etapa IV.  Le daban seis meses.  Y por eso es que apresuré la construcción del proyecto.  Quería que él lo viera.  Quería saber si eso lo podía ayudar a sentirse mejor.
+
+»Hoy sé que sí. Mi hermano habría querido ver esto terminado.  Así que vamos a tomar unas semanas de descanso, y regresaremos con los ánimos al 100.  Debe de estar terminado lo más pronto posible.  ¿Alguna duda?
+
+—Está bien.  Así lo haremos.  Lo siento mucho, David.  Gracias por compartir tu historia —dijo Lilia.
+
+—¿Dos semanas?
+
+—Con tres.  Despejémonos un poco.  Solo terminen lo que tengan que hacer hoy —espetó David.
