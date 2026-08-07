@@ -1735,7 +1735,7 @@ Mi madre sufrió por cerca de diez años.  Una salud descuidada que la fue consu
 
 Fue hasta varios años después, cuando iba a clases, por ahí del tercer trimestre que tuve un cierre.  Uno extraño, pero que hizo que las lágrimas brotaran a borbotones.  Subí a un autobús, de camino al metro. En el radio sonaba Stereo Joya.  Y después de una ronda con las mismas canciones de siempre, sonó "Amor Eterno" de Juan Gabriel.  La versión en vivo desde el Palacio de Bellas Artes.  *Ese concierto*.  No la versión horrible de muchos años después.
 
-Se dice que Juan Gabriel le dedicó esa canción a uno de esos amores intensos que tuvo que dejar atrás.  Por obviedad, al público se le decía que le dedicó esa canción al "amor eterno" que le tenía a su mamá.  La realidad es que por lo que dijo Juan Gabriel con paso de los años, esa fue la primera y única vez que le dedicó esa canción a su mamá.
+Se dice que Juan Gabriel le dedicó esa canción a uno de esos amores intensos que tuvo que dejar atrás.  Por obviedad, al público se le decía que le dedicó esa canción al "amor eterno" que le tenía a su mamá.  La realidad es que por el discurso que da al momento de cantarla esa fue la primera y única vez que le dedicó esa canción a su mamá.
 
 ---
 
@@ -1767,25 +1767,25 @@ Inmediatamente, nos indicó con la mirada a Lilia y a mi que lo alcanzáramos en
 
 —Bien.  Hace dos días, mi hermano Benjamín falleció.  Y con él murió una buena parte de mis recuerdos familiares.  Mi familia fue un tanto disfuncional.  Fui el tercer hijo de tres.  
 
-»Mi padre es el dueño de una tienda que vende y renta trajes.  Una tienda no muy grande, pero que nos permitió vivir de manera decente por muchos años.  Eso sí, mi madrastra y mi padre creían que vivíamos en la opulencia.
+»No quiero hacerles el cuento demasiado largo.  Mi hermano mayor, nombrado igual que mi padre, igual que mi abuelo.  Ramiro.  Era el favorito, y el heredero de las glorias de mi padre y abuelo.  Mi padre es dueño de una tienda llamada "Renta y Venta de Trajes Ramiro".  Tienda que originalmente era de mi abuelo.  Mimado como nadie más.
 
-»Mi hermano mayor se llama Ramiro, igual que mi padre.  El nombre de la tienda es "Renta y Venta de trajes Ramiro".  Espero que con esto se entienda el patrón.  Ramiro III es el favorito de los tres. Para él había todo.  Ropa de primera calidad, comida en abundancia, zapatos de las marcas más codiciadas e incluso fiestas en exceso con el pretexto de acrecentar la cartera de clientes. 
+»El hijo de enmedio era Benjamín.  Y dos años después, nací yo.  Para mis padres, la idea de familia perfecta era con dos hijos.  Mi madre murió dos años después de que yo naciera.  Unos meses después, mi padre se casó con Valeria, que hasta eso, siempre me daba comida a escondidas de mi padre.  De la misma forma, Benjamín me daba la mitad de su comida los días que mi padre no me daba de comer.  Supongo que es lo que me merecía por ser el tercer hijo.
 
-»Mi hermano de enmedio se llamaba Benjamín.  Eso también debería de darles una idea del patrón.  Dos años después, nací yo.  Y según los largos sermones de mi padre, yo fui un obstáculo y una carga para su felicidad.
+Por un momento, pensé en lo horrible que debe ser que tu nombre esté condicionado a lo que tu padre espera de ti.  Pienso en todas las veces que les dije a mis padres que mi nombre no me gustaba.  Ellos no me estaban forzando a portar con una especie de manto.
 
-»Mi madre murió a los dos años de haberme dado a luz.  Mi padre se casó con Valeria en menos de dos meses.  Contrario a lo que se podría pensar, Valeria no me trataba mal.  Cuando los dos Ramiros no estaban, ella me daba de comer y platicaba conmigo.  Si bien no con esto digo que ella era la mejor persona, al menos fue más humana conmigo que mi propio padre y hermano.
+»Mi padre me forzó a estudiar derecho, en una universidad privada.  Troné al tercer semestre, y después de una golpiza por reprobar, mi tío Raymundo me acogió en su casa.  Mi tío hizo crecer un pequeño puesto de tomates en el tianguis a un pasillo entero lleno de frutas y verduras con varios empleados.  Y gracias a él, jamás sufrí por no alimentarme.  Mi tío me animó a buscar una carrera.  Y sinceramente no tenía ganas.  
 
-»Benjamín era un monstruo de otra clase.  Siempre fue cariñoso conmigo, y también compartía de su comida conmigo cuando papá no nos daba la cara.
+»Me iba más o menos bien, ayudándole a mi tío con su puesto.  Hasta que un día, mi padre se enteró de mi paradero y me sacó a la fuerza.  Vi a Benjamín todo golpeado. Y supe que no había escapatoria.  Mi padre usó un palo para golpearme con todas sus fuerzas.  Y con toda su furia.  Benjamín trató de defenderme, pero no fue suficiente.  Justo cuando me comenzó a arrastrar para que fuera con él, mi tío Raymundo le arrancó el palo de la mano, y a pura mano limpia le dio la madriza de su vida a mi padre.  Hubiera deseado no desmayarme para haberlo podido disfrutar.
 
-»Mi padre me forzó a estudiar Derecho.  "Si no eres bueno para algo, al menos vas a ser el abogado de la familia".  Me fue fatal.  Al tercer semestre, colapsé.  Hablé con mi tío Raymundo, hermano de mi madre.  Y cuando escuchó mi historia, de inmediato me sugirió irme a vivir con él.
+Lilia buscó mi mano, y yo tomé la de ella discretamente.
 
-»No tengo una historia epifánica de cómo es que decidí estudiar Física.  Es solo que un día en el parque, después de haber escapado de casa comencé a ver el entorno.  Como si todo transcurriera en cámara lenta.  Las gotas de lluvia, las semillas de los dientes de león, un niño soplando burbujas.  Por alguna razón eso resonó en mi mente, y dije "Física".
+»Estuve un tiempo en el hospital, donde me sentí como la peor carga del mundo.  Mi tío Raymundo iba y venía de visita.  También lo hizo mi hermano Benjamín.  Al ser dado de alta, fui a sentarme en la banca de un parque.  Y en un día soleado comencé a ver todo en cámara lenta.  El brillo del sol, las partículas y semillas de un diente de león, una niña soplando burbujas.  Las pequeñas gotas de la brisa.  Y como si alguien me hubiera susurrado en el oído, una palabra vino a mi mente:  Física.
 
-»Mi tío Raymundo me apoyó.  Sin embargo, mi papá vendió cara la derrota.  Me encontró afuera de la casa de mi tío Raymundo y me atacó con un palo y me golpeó con toda su furia, exigiéndome regresar.  Benjamín trató de detener a mi padre, pero no era suficiente.  Mi tío Raymundo se encabronó con la situación, y a pura mano limpia le quitó el palo, y le rompió todo lo que se llama madre.  Lo hubiera disfrutado, si me hubiera quedado consciente.  
+»Mucho tiempo después supe que amenazó a mi padre con denunciarlo y demandarlo retroactivamente por abuso de menores.  Y es algo con lo que al prestigioso dueño de la tienda de trajes no le gustaría lidiar.
 
-»La amenaza de denuncia penal y demanda por parte de mi tío Raymundo fue suficiente para que mi padre, de mala gana, aceptara que me quedara con mi tío.
+»Mi tío me apoyó con el exámen para la UNal, y me dijo que mientras él estuviera con vida, a mi nada me iba a faltar.
 
-»Entré a estudiar, consiguiendo un trabajo de medio tiempo.  Después del primer año, Benjamín comenzó a apoyarme.  Y con él acompletaba para mis pasajes y mis alimentos.
+»Entré a estudiar, consiguiendo un trabajo de medio tiempo porque me daba pena que mi tío me ayudara.  Después del primer año, Benjamín comenzó a apoyarme.  Y con él acompletaba para mis pasajes y mis alimentos.  A regañadientes, mi tío ahorró el dinero que no le acepté, y entre él y mi hermano me compraron mi primer auto.  
 
 »Terminé mi carrera, y en unos años terminé elegido como el nuevo decano de Física.  Fui el mejor alumno de mi generación.
 
@@ -1797,6 +1797,64 @@ Inmediatamente, nos indicó con la mirada a Lilia y a mi que lo alcanzáramos en
 
 —Está bien.  Así lo haremos.  Lo siento mucho, David.  Gracias por compartir tu historia —dijo Lilia.
 
-—¿Dos semanas?
+—También lo siento, David.  Gracias por la confianza —añadí. —¿Serán dos semanas?
 
 —Con tres.  Despejémonos un poco.  Solo terminen lo que tengan que hacer hoy —espetó David.
+
+# 35
+
+Es una lástima que un muy necesario tiempo de descanso tuvo que venir prendado de un momento tan complicado para David.  Sentía un hueco en el estómago, y el semblante acongojado de Lilia tampoco me ayudaba mucho.  Tomar su mano fue él único bálsamo en ese momento.
+
+—Vaya, al fin llegaron —dijo Rafa, con cierta indignación. —Uno aquí trabaje y trabaje, y ustedes como si nada.  Mírense que confiancitas de venir tomados de la mano.
+
+Alcancé a tomar una pelota de goma, y se la lancé al cuerpo.  La memoria muscular de mi cuerpo de nuevo empezaba a reaccionar como en la época en que éramos compañeros.  Y por alguna razón, eso me hacía sentir... Bien.
+
+—¡Te estás riendo, culero! ¡Qué cinismo de reírse después de hacer una agresión física!
+
+Ni yo mismo me había percatado que sonreí por un breve periodo de tiempo.  Lilia también sonrió brevemente.
+
+—Ya, a ver.  Explica qué pasó con el volante —pregunté.
+
+—Mira, la placa de la capacitancia se estropeó con la resistencia de la protoboard.
+
+—¡Ya no seas mamón, pinche Rafa! —y le lancé la misma pelotita nuevamente.
+
+El equipo reía un poco.  Y para mí era un tremendo alivio después de lo que Lilia y yo acabábamos de escuchar.
+
+—Hablando en serio —dijo Gustavo. —Los estábamos esperando.
+
+De repente volví a ser consciente.  Seguían sintiéndose las vibraciones, aunque como eran de una intensidad menor a las primeras, prácticamente no se sentían.
+
+—Pues, ¿qué esperan? —dijo Lilia.
+
+No sé qué fue, pero algo me dijo que tenía que provocar un impulso al mismo tiempo que conectara Rafa el circuito.
+
+Así que justo antes de que conectara, encendí el acelerador, y le dije a Rafa:
+
+—¡Ya!
+
+Él conectó el circuito, y las vibraciones se dejaron de sentir.
+
+—Ah, perfecto —dijo Luis.  Ya terminaron esas horribles vibraciones.
+
+Y de la nada, empecé a pensar que mi cuerpo actuó en forma automática para hacer funcionar el acelerador.  En eso estaba pensando, cuando decidí decir en voz alta:
+
+—¿Les parece si vamos a comer algo?
+
+—Ah, ya era hora.  Moría de hambre —exclamó Romina.
+
+—No veo por qué no —dijo Ernesto. Y se acercó a mí. —Oye, tú y Lilia, ¿están bien?  Regresaron como si se hubieran enterado de algo feo.
+
+—Algo así.  Tal vez platiquemos sobre el tema en algún momento.
+
+—Está bien.  ¿Qué fue lo que te hizo encender el acelerador de un momento a otro?
+
+—No lo sé.  Es como si mi cuerpo hubiera actuado en automático.
+
+—OK... es que yo soñé con esto anoche.  Y en el sueño ocurrió todo justo como pasó en este momento.
+
+—¿Tenías otra teoría sobre las vibraciones? —pregunté.
+
+—Sinceramente no.  Ayer sugirieron eso que hiciste, y tú mismo lo descartaste.
+
+—Ya no entiendo nada.  Vamos a comer.  Les tenemos noticias, de hecho.
