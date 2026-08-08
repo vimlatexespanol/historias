@@ -1858,3 +1858,252 @@ Y de la nada, empecé a pensar que mi cuerpo actuó en forma automática para ha
 —Sinceramente no.  Ayer sugirieron eso que hiciste, y tú mismo lo descartaste.
 
 —Ya no entiendo nada.  Vamos a comer.  Les tenemos noticias, de hecho.
+
+# 36
+ 
+La cafetería de la Facultad de Física tenía una reputación muy bien ganada como una de las peores cafeterías dentro de C.U.  
+ 
+David nos mencionó que intentó hacer cambios para poder cambiar al personal de la cafetería.  Pero no pudo hacerlo porque la cafetería funciona bajo concesión.  Resulta que dentro de la UNal hay diferentes maneras en la que funcionan las cafeterías, y al menos en Facultad de Física, el sistema está concesionado a una empresa particular.  Al contrato le restan cinco años, pero no depende de David la renovación.
+ 
+Por eso mismo es que preferimos salir de C.U. a un restaurante bar, ubicado en una avenida principal de la ciudad.  Ahí comenzamos a discutir un poco sobre el estado actual del proyecto que, según lo que nos dijo David, tenemos poco más del 70-80% completado.  Aunque teníamos que darles la noticia.
+ 
+—Hablamos con David hace un momento —dijo Lilia, con un tono directo. —Nos pidió que les dijéramos que terminando lo que avancemos hasta el día de hoy, nos tomaremos un descanso de tres semanas.
+ 
+—¿Tres semanas?  ¿No es mucho tiempo? —preguntó Ernesto.
+ 
+—Pues sí, parece que sí, pero no pueden decir que no nos hace falta —dije, con un dejo de resignación. —David necesita el tiempo por una situación familiar.  Supongo que para entonces regresará con nuevos bríos.
+ 
+—¿Quién de su familia fue? —preguntó Gustavo.  Con un tono que a todos nos agarró por sorpresa.
+ 
+—¿Quién qué? —dijo Lilia, sorprendida por lo repentino de la pregunta.
+ 
+—¿Quién falleció de su familia? —respondió Gustavo.
+ 
+—Me interesa tu razonamiento, Tavo.  Aunque creo que todos lo percibimos —dijo Romina.
+ 
+—No sé de qué están hablando —dijo Ernesto.
+ 
+—Tiene los ojos hinchados, se le nota distraído, está desvelado, y como no hay aliento alcohólico, probablemente debió haber tomado un día más, para descansar —dijo Gustavo.  Hay veces que he pensado que Gustavo puede ver cosas que los demás no.
+ 
+Lilia y yo hicimos mirada cómplice, medio resignada.  En el fondo sabía que no podíamos contarles la historia completa de la familia de David.  Pero era justo que supieran la causa por la que estarían en una especie de vacaciones, que realmente no lo eran del todo.
+ 
+—Falleció el hermano del profesor.  Tuvo una enfermedad larga.  Es lo único que les puedo decir.  Obviamente, ustedes ya lo notaron.  Son tres semanas que tomaremos de descanso, pero eso sí, al regresar, vamos a pisar el acelerador a fondo.
+ 
+—¿Alguna razón? —preguntó Temo.
+ 
+—Pues simplemente hay premura para terminar el proyecto.  Son cuestiones políticas que David no nos va a comentar —dijo Lilia, tratando de ser lo más tajante posible.
+ 
+—Si me lo preguntan, siento que esto del hermano lo aceleró todo —dijo Luis, quien estaba poniendo atención detenidamente a cada palabra vertida. —Hace varios meses se fue sin decir una palabra después que lo llamaron.  No dijo nada, pero lo primero que pensé es que era una urgencia médica de algún familiar o amigo.  Hasta el momento él es de no faltar, ni estando enfermo.  ¿Recuerdan esa vez que tuvo una tos fuerte?
+ 
+—No me gustaría especular, pero siempre ha sido una persona sumamente reservada y se nota que no le gusta mencionar todo lo que sabe.  No me sorprendería que fuera así con su vida familiar —agregó Temo. 
+ 
+—Eso hay que respetárselo —dijo Rafa. —Nunca sabemos cómo es que llevan el duelo las demás personas.  Pero también ese cabroncito tiende a ser muy reservado.  Mejor dejemos el tema por acá.
+
+—Estoy de acuerdo.  A mi no me gustaría que el fallecimiento o enfermedad de un familiar mío fueran tema de sobremesa de alguien más —dijo Ernesto.
+ 
+Una cosa era verdad, todos entendían bien a David, por mucho que se reserve o no mencione todo lo que pasa.  Trabajar con él seguía siendo un misterio.  Y aún así, yo no podía hacer otra cosa que brindarle lealtad y respeto.
+ 
+---
+ 
+Esa mañana de viernes se manifestó con un azul en el cielo que rara vez se puede ver en la Ciudad de México.  Desperté con calma, y espero que esta calma ya sea permanente.  No hubo sueño alguno que me perturbara, y se sentía bien despertar sin ningún tipo de molestia. 
+
+Por un momento desperté en paz, y lo mejor de todo era que ella seguía dormida ahí, a mi lado.
+
+# 37
+
+En la esquina de la cuadra en la que vivía en ese momento, había una pequeña fondita que no era muy elegante, pero la señora que la atendía tenía una sazón muy particular.  Sabía a _casa_.  Sé que es un término extraño, pero supongo que entienden a lo que me refiero.
+
+Ella misma cocinaba sus frijoles.  Y los frijoles hechos en olla de barro tienen un sabor muy especial.
+
+Si alguien quisiera hacer el mini-tour gastronómico, definitivamente recomendaría los frijoles, el mole con pollo, sus huevos rancheros y el café de olla en el desayuno.  Es lo que más extraño de aquella época...
+
+Lilia no estaba muy convencida.  Parece delicada, pero ella es más _team tacos_.  Ese día, por primera vez en meses, la conversación no giraba alrededor de cápsulas, circuitos, laboratorios, ni física.  Giró en torno a nosotros.
+
+Basado en lo que le aconsejé, Lilia pidió un mole con pollo.  Yo pedí huevos rancheros.
+
+—Me gustaría ir al cine, pero realmente no hay muy buenas opciones.  Lo más cercano es _Cómo entrenar a tu dragón 3_, pero ni siquiera he visto la primera —dije.
+
+—¿No has visto la primera? ¡Es todo un clásico! Lo único que puedo criticar de tu departamento es que no tengas una pantalla, ni un Blu-Ray.
+
+—Casi todo lo veo por Netflix y Prime Video.  ¡Y en mi poderoso celeroncito!
+
+—El entusiasta de las computadoras, y no te has comprado una mejor.  No te culpo.  Yo no entiendo de esas cosas.  Pero igual si quieres cooperamos para una pantalla.
+
+—No sé.  Nunca he sentido que me hagan falta.  Me acostumbré, porque el tiempo que vivía con mi hermana y mi cuñado, casi siempre se adueñaron de la vieja tele con el convertidor analógico, y cuando mi sobrino descompuso el control remoto, estuvimos como seis meses sin televisión.  Y luego, cuando mi cuñado y mi hermana consiguieron una pantalla, me escondían el control.  Así que creo que me acostumbré.
+
+La cara de Lilia era como de sorpresa e indignación.  No entendí por qué.
+
+—OK, te voy a proponer dos soluciones.  Cómprate una pantalla, o yo voy y mato a tu cuñado —dijo Lilia.  Con un rostro que no parecía muy de broma.
+
+—Está bien.  Acompáñame al Coppel saliendo de aquí.
+
+---
+
+Escogí una pantalla de 40 pulgadas.  Para mí es hasta un poco grande.  Sinceramente no quería una smart TV, pero Lilia me dijo que sería torpe no comprar una teniendo Prime y Netflix.  
+
+—Quiero que entiendas una cosa, Edgar.  Nos partimos el lomo de lunes a viernes de 9 a 9.  Creo que lo justo al llegar a casa es recostarse en la cama y disfrutar de una película o serie.  Te lo mereces.  Nos lo merecemos.
+
+Ella me dijo que no pensaba mudarse conmigo en el corto plazo, pero que algo que realmente quería es que poco a poco pensara más en mi.  A veces dejo de ser yo por estar pensando en los demás.
+
+No prometí nada, pero le aseguré que iba a trabajar esa parte.
+
+—Esto es para ti —me dijo, con esa sonrisa que siempre hace que me derrita
+
+Era un reproductor Blu-Ray en su caja, junto a dos películas.  _Cómo entrenar a tu dragón 1 y 2_.
+
+No íbamos a estar juntos las tres semanas.  Pero definitivamente haríamos que el tiempo nos rindiera.  Aunque cuando disfrutas mucho del presente, tiende a correr demasiado rápido.
+
+# 38-a (Es probable que no se quede al final -porque es algo que necesito escribir-)
+
+En el bar _Los Carajos_ fue el lugar en el que acordamos encontrarnos Rafa y yo.  
+
+—¡Vaya! ¡Pensé que me ibas a dejar botado otra vez! —expresó Rafa. 
+
+Rafael Solís es un ingeniero en computación que logró entrar a la facultad de Electrónica y Computación dando clases de Arquitectura de Computadoras y de Ingeniería de Software en la carrera de Ciencias Computacionales.  Rafa decía que eran blanditos, porque de cierta manera, el enfoque de ambas carreras es diferente.
+
+—Te di mi palabra de venir.
+
+—Tú sabes que no me refiero a eso.
+
+Pensar en eso me dio un poco de nostalgia.  Rafa me esperaba en su graduación.  Graduación para los alumnos de la generación.  Graduación en cuya foto aparecen como diez compañeros que tampoco terminaron la carrera.  
+
+Rafa me comentaba que en esa foto que llevó para que la viera estaba un viejo amigo, del cual solíamos escapar, porque una vez que comenzaba a platicar era prácticamente imposible despegarse de él.  Se llamaba Daniel, y le llamábamos de broma Ñañel.  No tenía un defecto del habla.  Simplemente su plática divagaba demasiado, y a veces lo único que querías es salir de la Facultad para tomar el microbús de regreso a casa...
+
+Bueno, Daniel falleció el año pasado en un accidente de tráfico.  Ni siquiera iba en alguno de los autos que chocaron.  Terminó atropellado al no poder escapar de la inercia de los coches.  Y ahí estaba, en la foto.
+
+Éramos unos culeros.
+
+---
+
+—¿Y qué tal estuvo la fiesta? —pregunté con cierto interés.
+
+—No estuvo mal.  El Payaso de Rodeo fue el mejor momento.
+
+—Espera, ¿bailaron eso?
+
+—Sí, güey.  ¿Qué tiene?
+
+—Nada malo, hubiera sido divertido estar ahí.
+
+—Te cotizaste cabrón.  Y luego ni el instagram contestaste.  Pinche mal amigo.  Pero así te ha de haber ido, hijo de la chingada.
+
+—Jeje, de hecho... pues sí.  No me fue muy bien.
+
+Le platiqué a Rafa mi historia.  De cómo es que quise cambiar de carrera, y mis papás no me dejaron.  De cómo es que reprobé todas las materias que cursé que tuvieran que ver con circuitos.  Ahí Rafa alcanzó a decir que por qué nunca le pedí ayuda.  La respuesta pendeja de siempre: orgullo.  Orgullo que no sirvió pa' ni vergas. 
+
+De cómo es que mis padres fallecieron en menos de seis meses.  De que terminé viviendo con mi hermana y mi cuñado.  Quienes se casaron con prisa para que mis padres pudieran conocer un nieto.  De cómo es que seguimos viviendo en casa de mis abuelos.
+
+No quería convertirlo todo en una lloradera sobre mí.  Y Rafa me dijo algo que jamás voy a olvidar:
+
+—Cabrón, soy tu amigo.  Siempre te lo dije, y tú nunca quisiste escuchar.  El que debería estar resentido contigo soy yo.  Y aquí estoy, abriendo mis oídos para escuchar cómo te desahogas.
+
+Lloré como no lo había hecho delante de él.  Y me pidió seguir.
+
+Le conté que no trabajé ni estudié por seis meses después de que mis padres murieron.  Un tío de parte de mi mamá me pidió trabajar con él.  Tenía un emprendimiento de construcción, y estaba remodelando los edificios del dueño de una cadena de zapatos más o menos conocida.
+
+Es el peor jefe que he tenido.  Cualquiera pensaría que por ser su sobrino tendría ventajas.  Gran error.  Usaba lo que pasaba dentro de la familia como arma para humillarme en frente de otros empleados.  No me dejó renunciar las tres veces que lo intenté.
+
+Le platiqué la anécdota de Futurama que le conté al profesor Cortés.  Fue la epifanía que me hizo tomar el poco control que le quedaba a mi vida.
+
+Mi tío me presumía como es que su hijo quería entrar a la UM estudiando medicina.  Y en ese momento decidí intentar el examen de admisión.  Me aceptaron, y el resto es historia.
+
+—Sabes que yo te hubiera podido ayudar si me hubieras hablado, ¿verdad? —dijo.
+
+—No.  No lo sabía.  Ahora sabes que tú cuentas conmigo cuando lo necesites. Y trataré de hablarte si es que lo necesito.
+
+—No te vuelvas a perder, culero.
+
+---
+
+Desperté.  Era el primer sueño que no involucraba una cápsula.  Era el recuerdo vívido de la última vez que platiqué con Rafa en un bar.
+
+Conforme iba despertando, recordé que él me contó que terminó la carrera y a los dos años se casó con Esmeralda.  Una chica que recordé como compañera de la carrera hasta ese momento.  Tienen dos hijos.  De cierta manera me daba gusto reconectar con una parte del pasado que creía terminada.
+
+# 39
+
+Era el martes de la primera semana de descanso.  Nuestro semestre de la maestría debería comenzar el 6 de febrero.  Para eso faltaban dos semanas.  Entonces Lilia y yo aprovechábamos para ir a visitar el uno al otro.  Lilia aún vivía con sus papás.  Lo único que hacía yo era tocar la puerta, esperar que le avisara a sus papás que salía, y llevarla de paseo.  A veces íbamos a los parques, al teatro y por algo de comer.
+
+A ella no le gustaba mucho ir a restaurantes.  Si íbamos por una hamburguesa, prefería los carritos que hay en la calle, que un McDonalds o un Burger King.  Tampoco comía mucho.  Casi siempre terminaba comiéndome lo que sea que dejara.
+
+Recuerdo que ese día fue casi mágico, salvo por un detalle que lo interrumpió.  Sono mi teléfono.  Odio que me marquen por teléfono.  Por algo, Dios en su infinita sabiduría creó los mensajes de texto o WhatsApp.  Pero era Temo.  Decidí contestar, esperando que no fuera algo grave y urgente.
+
+—¡ESTO ES MUY GRAVE Y URGENTE!  ¿Sabes si David está en su cubículo hoy? —preguntó Temo.
+
+—No sé, Temo.  No me ha marcado desde el día que nos dijo que descansáramos.
+
+—Es que fuimos a tramitar el título, pero perdí la hoja del servicio social.  Y Romina también.  
+
+—No mames, Temo.
+
+—¿Qué pasó? —preguntó Lilia.
+
+—El pendejo nunca tramitó el servicio social hasta ahora —le respondí.
+
+—¡NO MAMES VATO! David debe de estar en su cubículo.  Nos dijo que solo íbamos a descansar del laboratorio, pero él tiene trabajo como Decano —dijo Lilia.
+
+—OK... ¿por qué estás poniendo nuestra charla en altavoz? —dijo Romina.
+
+—No la tengo en altavoz, solo le conté a Lilia que no tramitaron el servicio desde el principio.  Mejor dicho, ¿por qué están usando altavoz?
+
+—¡Ese no es el punto! ¿Entonces sí está David? —preguntó Temo.
+
+—Debería —respondí.
+
+—OK, gracias —dijo Romina.
+
+Y entonces, les voy a contar la divertida odisea, según lo que me platicaron ellos y David.
+
+Las zancadas eran fuertes y rápidas.  Y la relativa paz en la que estaba David se perturbó.  Eran Romina y Temo, a quienes les dieron acceso inmediato sabiendo que trabajaban con David Martinez.
+
+—Oigan, sí saben que tenían que avisarme que iban a venir, ¿cierto? —preguntó retóricamente David.
+
+—No. Mil disculpas.  No sabía que necesitaba una cita para ver a mi jefe —dijo Romina, desafiante
+
+—¿Disculpa? —preguntó indignado David. —Te recuerdo que están en descanso por tres semanas.  En este momento no soy su jefe.  Soy el Decano de Física, y no recuerdo que me hayan solicitado una cita.
+
+—Ups, lo siento, Doctor Martínez —dijo apenado Temo.
+
+—Master.  Y para ustedes David, jajaja.  ¡Debieron haber visto sus caras!
+
+—Vámonos, Temo —dijo indignada Romina.
+
+—No, no, no.  No se vayan.  Debe ser algo muy importante.
+
+—Sí —dijo suspirando de manera frustrada Romina. —Es esto. 
+
+Era un documento estándar de servicio social.  Requerían que David confirmara que habían cubierto 480 horas.
+
+—Ja, mirenlos tan cínicos.  ¿Por qué no me avisaron desde el principio? —preguntó David.
+
+—Porque pensábamos postergar el título hasta más adelante, pero pues es un trámite que cuesta tiempo.  Así que aprovechamos —dijo Temo.
+
+—OK.  Veamos —David comenzó a revisar unos documentos en su computadora.
+
+Romina Suárez — 476 Horas
+Cuautémoc Espinoza — 476 Horas
+
+—Según su expediente me deben exactamente cuatro horas.  Les doy dos opciones, regresan en tres semanas como les pedí originalmente, o me ayudan a ordenar todo este papeleo que está en el cuarto trasero.
+
+Romina y Temo se observaron a los ojos por cinco segundos. Que según me contó David, se sintieron como una eternidad. 
+
+—Está bien, nos vamos —dijo Romina.
+
+—No, no, no.  Yo no vine hasta acá para no irme sin la firma —dijo Temo.
+
+—Te odio, Temo.  En serio —suspiró Romina con decepción —Nos quedamos.
+
+Eran las 11 de la mañana.  Con aguantar a las 3 de la tarde era más que suficiente.  Comenzaron la pesada tarea con un poco de calma.  A las 12 del día, apenas llevaban ordenada la tercera parte de los documentos.
+
+—OK, van rápido.  Les sugiero lo siguiente.  Les voy a ayudar.  Si lo acabamos a las 2:00PM, firmo su hoja y vamos a comer algo por mi cuenta.  Si no lo acabamos, los abandono a las 2, y se quedan sin comer hasta las 3. ¿Qué dicen?
+
+Sin mucho que poder reclamar, comenzaron, y terminaron antes de las 2.
+
+—OK.  ¿Les parece buena idea Kentuchy o El pequeño César.
+
+Temo y Romina me platicaron que David se notaba algo triste, pero le encantaba platicar de la Física como disciplina.  Y que hay muchas cosas que aún están sin poder explicarse.  
+
+David firmó los documentos.
+
+—Creo que aún no se han dado cuenta de lo buenos que son como estudiantes.  Los felicito.  Y también los felicito por formar parte del proyecto.
+
+Llegó el pollo frito, y por un pequeño martes en la tarde, el Decano de Física no comió solo.
