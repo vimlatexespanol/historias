@@ -2107,3 +2107,9 @@ David firmó los documentos.
 —Creo que aún no se han dado cuenta de lo buenos que son como estudiantes.  Los felicito.  Y también los felicito por formar parte del proyecto.
 
 Llegó el pollo frito, y por un pequeño martes en la tarde, el Decano de Física no comió solo.
+
+# 40
+
+En un abrir y cerrar de ojos, ya habían pasado dos semanas.  En las cuales todos y cada uno de los miembros la aprovechó de diferentes formas.
+
+Gustavo me platicó que fue a unos conciertos sinfónicos en los que interpretan bandas sonoras de videojuegos como Final Fantasy o The Legend of Zelda.  Sabía de la existencia de este tipo de conciertos, pero no me he atrevido porque no me considero tan fan de los juegos.  Aunque tengo que admitir que la música de Zelda siempre ha sido de lo mejor que a veces pone Tavo como fondo mientras estamos en el laboratorio.
