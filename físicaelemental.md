@@ -2057,7 +2057,7 @@ Las zancadas eran fuertes y rápidas.  Y la relativa paz en la que estaba David 
 
 —Oigan, sí saben que tenían que avisarme que iban a venir, ¿cierto? —preguntó retóricamente David.
 
-—No. Mil disculpas.  No sabía que necesitaba una cita para ver a mi jefe —dijo Romina, desafiante
+—No. Mil disculpas.  No sabía que necesitaba una cita para ver a mi jefe —dijo Romina, desafiante.
 
 —¿Disculpa? —preguntó indignado David. —Te recuerdo que están en descanso por tres semanas.  En este momento no soy su jefe.  Soy el Decano de Física, y no recuerdo que me hayan solicitado una cita.
 
@@ -2080,17 +2080,17 @@ Era un documento estándar de servicio social.  Requerían que David confirmara 
 —OK.  Veamos —David comenzó a revisar unos documentos en su computadora.
 
 Romina Suárez — 476 Horas
-Cuautémoc Espinoza — 476 Horas
+Cuauhtémoc Espinoza — 476 Horas
 
 —Según su expediente me deben exactamente cuatro horas.  Les doy dos opciones, regresan en tres semanas como les pedí originalmente, o me ayudan a ordenar todo este papeleo que está en el cuarto trasero.
 
-Romina y Temo se observaron a los ojos por cinco segundos. Que según me contó David, se sintieron como una eternidad. 
+Romina y Temo se observaron por cinco segundos. Que según me contó David, se sintieron como una eternidad. 
 
 —Está bien, nos vamos —dijo Romina.
 
-—No, no, no.  Yo no vine hasta acá para no irme sin la firma —dijo Temo.
+—No, no, no.  Yo no vine hasta acá para irme sin la firma —dijo Temo.
 
-—Te odio, Temo.  En serio —suspiró Romina con decepción —Nos quedamos.
+—Te odio, Temo.  En serio —suspiró Romina con decepción. —Nos quedamos.
 
 Eran las 11 de la mañana.  Con aguantar a las 3 de la tarde era más que suficiente.  Comenzaron la pesada tarea con un poco de calma.  A las 12 del día, apenas llevaban ordenada la tercera parte de los documentos.
 
