@@ -2150,8 +2150,6 @@ Al inicio de la carrera, Ernesto batalló demasiado para pasar muchas de las mat
 
 —¿Por qué ahora te gusta tanto la Física?
 
-—Porque después de tanto tiempo de escuchar las críticas de que "no podría ser bueno en nada", encontré que sí era bueno en algo, y esta es mi forma de demostrarlo.  Haciendo lo que me gusta junto a mis amigos, y la gente a la que aprecio.
-
 —Porque... no sé —se encogió de hombros.  Creo que es porque aquí nadie me dice que no voy a poder. 
 
 No supe que responder.  Ernesto rara vez decía las cosas así de directo.  Siempre fue alguien muy reservado.
