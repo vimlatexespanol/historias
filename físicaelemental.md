@@ -162,7 +162,7 @@ Fecha de presentación del proyecto:
 
 # 5
 
-Lilia trató de hacer las paces conmigo.  De repente comenzó a acercarse a mi para encontrar ayuda con temas de ciertas materias.  Aunque nuestros perfiles ya se habían alejado lo suficiente para dejar de ser rivales.  Ahora está enfocada en Física de Partículas, mientras yo me he querido enfocar en la Mecánica Cuántica.  Están cerca y lejos a la vez.
+Lilia trató de hacer las paces conmigo.  De repente comenzó a acercarse a mi para encontrar ayuda con temas de ciertas materias.  Aunque nuestros perfiles ya se habían alejado lo suficiente para dejar de ser rivales.  Ahora está enfocada en Mecánica de Partículas, mientras yo me he querido enfocar en la Mecánica Cuántica.  Están cerca y lejos a la vez.
 
 Luis se había decidido enfocar igual que yo en la Mecánica Cuántica, aunque cuando tomó la materia de Astrofísica cambió por completo su interés hacia esa rama.  Extrañamente, el proyecto que va a presentar junto a Lilia es un Acelerador de Partículas portátil.  Un proyecto que ni ocupando todo el tiempo dos personas serán capaces de terminar a más de un 60%.
 
@@ -1163,7 +1163,7 @@ Bueno, y ahí estaba.  Eso era el motivo de todo.  Debo agradecer a mis ejercici
 
 ---
 
-Al final del día, tenía que dejar las llaves en la caja dentro de la oficina de David.  Le pedí a Lilia, Gustavo y a Ernesto que me esperaran un poco. Teníamos que pasar a comer, no habíamos podido hacerlo por lo cargado del día.  
+Al final del día, tenía que dejar las llaves en la caja dentro de la oficina de David.  Le pedí a Lilia, Gustavo y a Ernesto que me esperaran un poco. Teníamos que pasar a comer, no habíamos podido hacerlo por lo cargado del día.
 
 Entré a la oficina y reparé en varios de los detalles que tenía.  Colecciones enteras de figuritas de superhéroes de los empaques de galletas.  Los llaveritos del pan dulce.  Cascos de futbol americano de una vieja promoción de paletas de hielo.  Funkos.  Posters geeks de Star Wars, películas de Marvel y de DC.  Era un compañero de afición al 100%.
 
@@ -1175,7 +1175,7 @@ Coloqué las llaves en la caja, salí de la oficina, y la cerré.  Me encontré 
 
 # 26
 
-Esa noche, David me envió un correo electrónico.  
+Esa noche, David me envió un correo electrónico.
 
 «Vi que hablaste con Luis cuando llegaron.  Bien manejado.  En el momento que te haga una grosería así, avísame y ya vemos
 
@@ -2110,6 +2110,61 @@ Llegó el pollo frito, y por un pequeño martes en la tarde, el Decano de Físic
 
 # 40
 
-En un abrir y cerrar de ojos, ya habían pasado dos semanas.  En las cuales todos y cada uno de los miembros la aprovechó de diferentes formas.
+En un abrir y cerrar de ojos, ya habían pasado dos semanas.  El descanso que David nos dio de tres semanas estaba rindiendo sus frutos.  Es como decía López Dóriga cuando se iba de vacaciones: no sé si son merecidas, pero sí muy necesarias.  Y ocurre que el lunes de la tercera semana todos entramos en la maestría.
 
 Gustavo me platicó que fue a unos conciertos sinfónicos en los que interpretan bandas sonoras de videojuegos como Final Fantasy o The Legend of Zelda.  Sabía de la existencia de este tipo de conciertos, pero no me he atrevido porque no me considero tan fan de los juegos.  Aunque tengo que admitir que la música de Zelda siempre ha sido de lo mejor que a veces pone Tavo como fondo mientras estamos en el laboratorio.
+
+Supe que Luis se fue a Zumpango con su familia, mientras que Ernesto estuvo unos días en Acapulco, con su novia Alma.  Casi nunca nos ha platicado de su vida personal, lo único que sé es que es una persona sumamente reservada.
+
+Temo y Romina empezaron su primer semestre de la maestría.  Y es por eso que les urgía recibir su liberación del servicio social.  El programa de maestría en Ciencias Computacionales los aceptó casi sin ningún reparo gracias a la recomendación de David.
+
+Gustavo estudiaba la maestría en Matemáticas, especializándose en Teoría de Grupos.  Lo digo con naturalidad porque no ha parado de comentarlo desde que comenzó a estudiarla.  Pensé que se iba a animar a estudiar Física después de lo que hemos aprendido en el laboratorio, pero recordé que los matemáticos nos ven a los físicos de la misma forma en la que nosotros vemos a los ingenieros.
+
+En cuanto a mi y a Lilia, ambos hemos llevado especializaciones distintas desde la licenciatura.  Ella sigue enfocada en estudiar partículas subatómicas, mientras yo sigo enfocado en la mecánica cuántica.  No hemos cambiado mucho los objetivos, sin embargo, ya no nos topamos tan seguido en clases.
+
+Ya era viernes de esa última semana de descanso.  Y con quién sí coincidía mucho era con Ernesto.  Luis se dedicó a la parte de Astrofísica, así que no me he topado con él en el transcurso de la semana.  Con Lilia si coincidió en una clase, y por eso es que sé lo de su salida.
+
+Con quién sí coincido prácticamente todo el tiempo es con Ernesto.  Y ha sido una sorpresa grata.  Realmente él y yo no fuimos tan amigos en la licenciatura, pero comenzamos a platicar un poco más en la parte final de la carrera, donde coincidimos en el área de especialización.  Para mí resultó curioso.  Éramos como el agua y el aceite.  Él siempre fue un chavo muy relax, fan del anime y participaba de esos grupos autistas de Facebook.  Yo siempre fui un manojo de nervios, fan de los cómics y de la Ciencia Ficción.
+
+Sin embargo, ambos hemos hecho cierta cercanía, por el lado de la maestría, y por el proyecto del laboratorio C-036.
+
+—Qué mal que ya se nos acaban las mini vacaciones —exclamó Ernesto.
+
+—Pues no son mini vacaciones, pero sí.  Que mal —respondí.
+
+—Oye, Edgar... ¿tú qué pensabas hacer al salir de la licenciatura?
+
+—La verdad... Ah, es verdad.  Solo lo había platicado con Lilia.  Pensaba conseguir un trabajo en algún sector científico.  En ese entonces, Cortés me pasó unas cartas de recomendación.  No tenía pensado de momento entrar a la maestría.  Pero, sin querer sonar a cliché, a veces parece que las cosas pasan por algo.
+
+—Sí, creo que me pasó igual.  Yo pensaba tomarme un año sabático.  Mi papá me apoyaba, con la idea de entrar a la maestría.
+
+—¿Ibas a estudiar la maestría de todos modos?
+
+—De cierta manera, sin quererlo es lo que conocer a todos ustedes me motivó a hacer.  María me dijo que veía que yo tenía mucho talento, pero que no me gustaba presumirlo.  Quería pasar un poco de tiempo con mi novia en ese año.
+
+—¿Tienes novia? —pregunté sorprendido.
+
+—Sí, llevo tres años con ella.  A fin de cuentas, solo la veía los fines de semana.  Cuando supo de este trabajo se alegró mucho por mí.
+
+Al inicio de la carrera, Ernesto batalló demasiado para pasar muchas de las materias del tronco común.  No era particularmente bueno con el cálculo, pero era de los pocos que le llevó el ritmo al Profesor Robles en el primer trimestre.  Tal vez voy a pecar de arrogante, pero los primeros trimestres, no pensé que Ernesto fuera a sobrevivir.  Sin embargo, algo cambió después del sexto trimestre, en donde pasó de ser el alumno que batallaba para pasar, a un alumno casi de excelencia.  Al parecer conocer a su novia fue lo que le cambió la vida.
+
+—¿Por qué ahora te gusta tanto la Física?
+
+—Porque después de tanto tiempo de escuchar las críticas de que "no podría ser bueno en nada", encontré que sí era bueno en algo, y esta es mi forma de demostrarlo.  Haciendo lo que me gusta junto a mis amigos, y la gente a la que aprecio.
+
+—Porque... no sé —se encogió de hombros.  Creo que es porque aquí nadie me dice que no voy a poder. 
+
+No supe que responder.  Ernesto rara vez decía las cosas así de directo.  Siempre fue alguien muy reservado.
+
+Pocas veces pude hablar con Ernesto a solas, escucharlo, y que él estuviera dispuesto a compartir cómo se sentía.  Por un momento me sentí afortunado de poder escuchar de viva voz a la persona que nos salvaba de algún problema siempre que nos atorábamos.
+
+---
+
+Fui a alcanzar a Lilia al salir del laboratorio de experimentación.  La vi con ese fastidio de una sesión pesada.  Sí, el mismo sentimiento que hay al momento de salir de algo que sí te gusta, pero que te consume mentalmente.
+
+Con eso solo pensé lo agotador que será tener que trabajar en el laboratorio C-036 justo después de salir de una de estas sesiones.  O llegar a una sesión después de una agotadora jornada de trabajar en la cápsula.  Dependiendo de nuestro horario.
+
+Aunque por un fin de semana más, podría estar conviviendo con Lilia.  Y eso valía la pena.
+
+Tengo un equipo lleno de gente espectacular, pero no sabía si iban a estar preparados para lo que sea que nos íbamos a enfrentar.  Tendríamos que pisar el acelerador a fondo.  Y no sabía lo que eso iba a implicar.
+
