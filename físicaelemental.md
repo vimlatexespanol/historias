@@ -2182,7 +2182,7 @@ En efecto, era un tablero de mando.  De inicio es una mezcla de esos controles a
 
 —Suena bien.  ¿PANEL significa algo?
 
-—No lo he pensado, Gustavo.  Probablemente algo como:
+—No lo he pensado, Gustavo.  Probablemente algo como:  
 PANEL  
 Ajusta  
 Nuestros  
@@ -2190,3 +2190,48 @@ Estímulos de
 La cápsula
 
 —Admito que nunca trabajamos en el nombre, pero iba a ser recursivo —remató David.
+
+—Admito que  
+David  
+A  
+Veces tiene  
+Ideas  
+Desesperantes —dijo Lilia.
+
+Todos comenzaron a reír.
+
+El PANEL es una mezcla de elementos impresos en 3D, botones, y los ya mencionados contadores.
+
+—¿Cómo lo elaboraron? —preguntó Ernesto.
+
+—Parte fue mía, sobre todo lo que está impreso en 3D.  Tenemos una impresora 3D y sería un delito no usarla.  Otra parte fue de Rafa, sobre todo lo que tiene que ver con las medidas.  Otro detalle importante, hay que colocarlo sobre el volante, y este realmente era el objetivo de ese sistema.  Dicho de otro modo, PANEL es una interfaz física que tiene como _backend_ el volante que creamos hace tres semanas.  Supongo que los computólogos saben a lo que me refiero.
+
+—Cuando algo es frontend como PANEL, según lo que dice David, quiere decir que es lo que el usuario ve.  Un backend es el código que realmente accede a las funciones y parámetros que escupen el resultado —dijo Romina.
+
+—En español, frontend es lo que se ve, y backend es lo que no se ve —acotó Temo.
+
+—Algo así, la gran diferencia es que ustedes entienden todo el tiempo como funciona el volante —mencionó David. —La labor será comenzar a reportar los parámetros de entrada que les voy a indicar.
+
+David tomó su teléfono y abrió una aplicación.
+
+—En su correo electrónico en este momento deben estar recibiendo un archivo PDF con los datos de ingreso.  Deberán reportarme los datos de salida.  Dependiendo de los resultados tendremos que ver si hay que hacer modificaciones sobre alguno de los circuitos.  También hay otro documento en el que viene explicado detalladamente cómo se debe de montar PANEL sobre el volante.  Cualquier cosa, avísenme.  Tengo que quedarme en la oficina haciendo trabajo burocrático.  No están para saberlo, pero me llamaron la atención por lo productivas que han sido las recientes tres semanas, y quieren que mantenga el ritmo.  Nos vemos como a la una de la tarde.
+
+Cuando David se retiró, comenzamos a revisar el documento de instalación y funcionamiento.  De inicio era bastante sencillo.  Básicamente era el montaje y ensamblado de este dichoso PANEL.
+
+Entre todos comenzamos a montarlo, lo cual fue relativamente sencillo.  Lo complicado era ingresar los parámetros.  Era una combinación de botones, ya que PANEL no contaba con un teclado numérico.  Una vez acostumbrados, simplemente hubo que modificar el programa de modelado para expresar los resultados de modo correcto.
+
+El funcionamiento era sencillo: entrada a través del acelerador de partículas, salida mediante el software.
+
+Con los parámetros construímos una tabla de resultados el cuál era el objetivo del día.  Pensando en que la consigna era pisar el acelerador a fondo, hoy había sido un día sumamente tranquilo.  Aunque nunca dejamos de estar ocupados.
+
+Eso sí, varios de nosotros comenzamos a sentir dolor de cabeza intermitente.  Que bueno es tener aspirinas a la mano.
+
+---
+
+—Buen trabajo, pero no.  Estos resultados no son lo que esperaba.  Hay que recalibrar.  Hoy ya no nos da tiempo, pero sí necesito mostrarles una gráfica con los datos esperados.  Y tengo que decirlo, hoy esperaba por lo menos dos rondas de resultados.  Hay que meterle un poquito más de velocidad, ¿está bien?  Mañana tan pronto como tengan la primera ronda de resultados, vienen conmigo —me dijo David.
+
+—Está bien, David.  Mañana será más rápido —dije.
+
+El equipo estaba agotado después de una ronda larga.  Aparentemente fue un día relajado, pero hicimos mucho más que lo que hacíamos en rondas y semanas anteriores.  Ya estaba un poco alterado de pensar que todavía hay que meterle más velocidad a la parametrización.
+
+Por lo pronto, Lilia y yo decidimos ir a mi departamento después de un largo día, que fue el regreso a las actividades, que ya no sé si decir que extrañamos las pasadas tres semanas.
