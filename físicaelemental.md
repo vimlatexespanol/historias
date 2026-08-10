@@ -2550,7 +2550,7 @@ El silencio en el laboratorio era escandaloso.  Dios mío, no puedo creer que es
 
 De repente escuchaba a Gustavo haciendo algunas bromas con Luis.  Aparentemente esos dos estaban haciendo buen equipo de un momento a otro. 
 
-Ernesto era demasiado callado, y para colmo Temo y Romina estaban en lo suyo.  Por más que quería evitarlo, no podía notar en la mucha distancia que había entre todos, a pesar de que estábamos en un lugar más reducido.
+Ernesto era demasiado callado, y para colmo Temo y Romina estaban en lo suyo.  Por más que quería evitarlo, no podía dejar de notar la mucha distancia que había entre todos, a pesar de que estábamos en un lugar un tanto reducido.
 
 —Ah, pero por supuesto.  Ya recordé.  Romina, escoge una canción por favor —dije.  Se me había olvidado que podíamos poner música.
 
@@ -2575,3 +2575,131 @@ Al final del día, pasé con David y le mostré los resultados.
 —Oh, sí... bueno... el lunes.  Tú me entiendes.  Con este trabajo estoy todo enredado.
 
 David sigue pareciéndome más errático últimamente.  Se siente como si no estuviera consciente ni del día en el que vive.  Pero supongo que se le puede achacar a todo el trabajo que tiene como decano.
+
+# 49
+
+¿Saben qué es lo peor que uno puede hacer cuando acaba de pasar por un evento difícil?  Sumirse en la autocompasión.  ¿Saben qué fue lo que hice ese fin de semana?  Sumirme en la autocompasión.
+
+El sábado en la mañana fui a desayunar a la fondita de la calle en la que vivía.
+
+—Buenos días, muchacho.  ¿Hoy no vino la güerita? —dijo doña Francisca.  Con un tono hasta de ternura.
+
+—No, Doña Francisca, hoy no vino para acá —respondí.
+
+—Ahí me la saluda cuando la vea.
+
+—Está bien, Doña Francisca.  Por favor unos frijoles de cazuelita con su huevito ranchero.  Y un café de olla.
+
+Después de desayunar, pasé a un OXXO a comprar suficiente alcohol para no salir el fin de semana.  Para mí, en una semana normal, hubiera sido solo un six.  Hoy era un six de New Mix, una botella de vodka, un 12 de cervezas.  Y una bolsa de hielos.  Que para algo sirviera el pinche Frigobar que lo tengo vacío.
+
+El sábado en la noche estaba a punto de abrir una segunda botella de vodka (sí, salí por mucho más alcohol), y me marcó Rafa.
+
+—Güey, ¿siempre sí fuiste con el doctor que te recomendé?
+
+—No, güey.  Me ando empedando en mi casa.  No voy a salir todo el fin.
+
+Alcancé a escuchar un suspiro, desesperado.
+
+—¿Sabes qué?  Voy por ti.  Me vale gorro.  Pinche malamigo, tragasolo.
+
+Llegó a los veinte minutos.  En su Corolla.
+
+Tocó la puerta, y por un momento pensé en no abrirle.
+
+Volvió a tocar.
+
+—Voy, que no estoy pinches sordo.
+
+Rafa entró.  Cualquier otro amigo en función de contención hubiera venido a arrancarme las botellas de las manos, y todo el alcohol.
+
+Rafa solo dijo una sola frase:
+
+—Te escucho.
+
+Durante cuatro horas estuvimos platicando.  Él recordándome que tuvo una novia que era muy buena en la carrera, sinceramente no la recordaba.  Pero que las cosas salieron mal.
+
+—A veces vas a decir cosas que claramente son pendejadas.  Hoy no me arrepiento, conocí a Esmeralda y hoy es la tercera persona que más amo en el mundo después de mis hijos.  Tú con Lilia tienes oro.  Los veo a ustedes dos, y es difícil no notar lo bien que se llevan.  Lo felices que son.
+
+Lo miré con mis reservas.  No entendía a lo que quería llegar.
+
+—Creo que sí puedo reconocer que lo que le dije a esa chica en su momento estuvo mal.  Pero si ella no se va a prestar a escucharte, te va a pasar como a mí.  Sigue tratándola por tu proyecto, por tu carrera.  Creo que solo necesitan tiempo.
+
+—No sé.  Yo sé que lo que dijo de mí no es incorrecto.
+
+—Pero también lo dijo en un momento de mucho estrés.  Y lo dijo con intención de hacerte molestar.  No te culparía si te enojaras.  Enójate tú también.  Tienes derecho de estar molesto.  Si aún así crees que lo que le dijiste tú estuvo mal, también pide perdón por tu parte.  Yo te conozco, y escuchando el chisme...
+
+—¿Quién te contó? —pregunté.
+
+—Gustavo.
+
+—¿Puedo preguntar qué te dijo?
+
+—Bueno, deja tratar de recordarlo... "Ambos dijeron algo que no querían decir.  Pero él le dijo que era demasiado perfecta, y él demasiado ansioso.  Aún cuando ninguno lo piensa así".  Nunca he entendido a tu amigo, pero analiza muy bien a la gente solo viéndola.
+
+—Sí, clásico Tavo —dije.
+
+La verdad es que sí me tomé la segunda botella de Vodka.  Pero acompañado se siente menos feo.
+
+# 50
+
+El domingo ya no tomé.  Rafa se regresó a su casa en la madrugada.  Esmeralda me mandó un mensaje, saludándome y deseándome que todo esté muy bien, y avisándome que Rafa pasaría por su Corolla el domingo en la tarde.
+
+Le mandé un saludo, le dí las gracias por entender.  Y le pedí una disculpa sincera por mandarlo en Uber a su casa.
+
+Ella me respondió que no había problema.  Que ojalá algún día pudiéramos conocernos los cuatro.  
+
+Supongo que se refería a mí y a Lilia.
+
+Saqué el blu-ray de la caja, lo conecté a la TV.  Siempre que Lilia venía, lo dejaba guardado en el ropero.  Abrí _Cómo Entrenar a Tu Dragón_.  Es la primera vez que la vería. 
+
+Sí, sí fuimos a ver _Cómo entrenar a tu dragón 3_.  Hice trampa.  Leí los spoilers y las reseñas para llegar más o menos sabiendo.  Apunté hacia lo fácil que se me olvidan los nombres de los personajes, y pasé el examen.
+
+Hoy sé que no estuvo bien.  Le mentí.  Le dije que si cumplí una promesa que le hice, aún cuando ni lo intenté.  Si esta pelea representa el final de nosotros como pareja, creo que el final más digno es ver las películas que le prometí que vería.
+
+---
+
+Por obviedad, el lunes ya no llegué crudo.  Lilia fue la primera en llegar.  No pude evitar pensar en Doña Francisca preguntando por la güerita.  Aún cuando no es güerita.  Solo tiene la piel un poco más blanca que yo.
+
+Pensé en que probablemente estaba perdiendo esa sonrisa.  Ese perfume que huele a naranja y a flores.  La extrañaba tanto.
+
+Me acerqué.  Quería decirle que Doña Francisca preguntó por ella.  Que al fin pude ver _Cómo Entrenar a tu Dragón 1 y 2_.  Que extrañaba que éramos café con leche.  Que extrañaba su sonrisa cada mañana que despertaba a mi lado, dándome los buenos días.
+
+—¿Es sobre algo del trabajo? —preguntó.
+
+—No, lo siento... quiero decirte...
+
+—Olvídalo —se dio la vuelta.  Sus ojos estaban húmedos, su semblante era de tristeza.  Yo me alejé.
+
+De pronto se acercó a mí.
+
+—Perdóname.  No debí haber hablado tan a la ligera de tu ansiedad.  No la odio.  Me has ayudado a ver hacia el futuro.  A ver hacia adelante.
+
+—Perdóname.  Eres mi ancla al presente —dije. —Y no está mal que quieras buscar una solución más adecuada al problema.  Espero que eventualmente entiendas que...
+
+—Tranquilo, no pasa nada.
+
+—¿Te puedo confesar algo?
+
+—Tengo la impresión que va a ser algo que me va a hacer enojar, pero dale —dijo con una sonrisa sardónica.
+
+—No había visto las de Como Entrenar a tu Dragón.  Hasta ayer.  Tienes razón, son un clásico.
+
+—Jajaja.  Ya sabía.  No te sabías el nombre de ninguno de los personajes, de los dragones, y te tenía que explicar todo.
+
+—Perdón por eso.
+
+—No pasa nada.
+
+Y de un momento a otro, ya estábamos platicando como si nada hubiera pasado.
+
+—Buenos días, tórtolos.  Ya a trabajar —dijo David, que venía llegando en ese mismo momento.
+
+—En lo que llegan sus compañeros, les platico.  Vamos a comenzar a generar vibraciones a cierta frecuencia.  Necesito que se pongan las pilas.  Hay más info sobre PANEL en su correo electrónico.  Es información que no podía pasarles antes de tener lista la calibración —remató David.
+
+---
+
+El día fue largo, pero nada fuera de lo normal.  Las perillas de PANEL también funcionaban como una perilla de radio analógica, para sintonizar una frecuencia, solo que esta vez se trataba de la frecuencia de vibración emitida.
+
+El equipo fluyó como antes de nuestra discusión.  Sin afán de sonar exagerado, algo provoca en los demás cuando estamos juntos.  No sé si ganas de matarnos, o calma.  Aunque al menos en el laboratorio era una calma temporal.
+
+
