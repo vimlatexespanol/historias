@@ -2235,3 +2235,177 @@ Eso sí, varios de nosotros comenzamos a sentir dolor de cabeza intermitente.  Q
 El equipo estaba agotado después de una ronda larga.  Aparentemente fue un día relajado, pero hicimos mucho más que lo que hacíamos en rondas y semanas anteriores.  Ya estaba un poco alterado de pensar que todavía hay que meterle más velocidad a la parametrización.
 
 Por lo pronto, Lilia y yo decidimos ir a mi departamento después de un largo día, que fue el regreso a las actividades, que ya no sé si decir que extrañamos las pasadas tres semanas.
+
+# 42
+
+Nuestra labor el segundo día consistió en calibrar el circuito, lo cual se consigue modificando desde PANEL, a través de las pantallas LED.  Esto era un poco más sencillo que generar los parámetros de entrada, porque había perillas que facilitaban la regulación.  Creo que PANEL tenía un problema de diseño, el cuál David dijo que no era tal.
+
+Se necesitaba una combinación de pulsaciones para lograr cierta frecuencia, para no dejársela fácil a una persona que accediera a la cápsula sin pertenecer al laboratorio.  Era una especie de seguro a prueba de tontos.  Pero no a prueba de nosotros, que no lográbamos resultados cercanos a lo que David esperaba.
+
+No sé sí era la mezcla del trabajo en la maestría, con la mezcla del trabajo en el laboratorio, pero la mayoría de nosotros, excepto Luis nos quejamos de malestar general.  Como cuerpo cortado, pero en un grado tolerable.  Gustavo lo describió como un cansancio de cuando apenas empiezas con la gripa.  Pero nadie sentía que hubiera algún síntoma respiratorio.  Era el colmo, apenas comenzamos a trabajar, y aparentemente va a darnos gripa.
+
+Terminamos de calibrar el PANEL para comenzar con la tercera medición.  Y por primera vez parecía que los resultados nos eran favorables.  Los parámetros estaban dentro del margen de error del modelo teórico, con lo cual sentí que al fin avanzábamos.  Registramos todos los datos en nuestra bitácora.
+
+Pasé con David a su cubículo para revisar los resultados, y me dijo algo que me sorprendió.
+
+—¡No! Tienen que estar aún más cercanos.  Los resultados necesarios son con un margen de error del 0.01%, en su caso el margen es de 0.1%, y aunque el libro dijera que el margen de error era del 0.15%, eso no es un parámetro aceptable.  Por favor de vuelta.  Solo para terminar hoy necesito una tabla más.
+
+Regresé al laboratorio para decirles que todavía había que hacer una medición más.  Y hubo que parar, porque a Luis comenzó a sangrarle la nariz.
+
+—¿Qué pasó? ¿Está bien? —pregunté.
+
+—Sí, está bien.  Solo es la sangre en la nariz —dijo Ernesto. —¿Todo bien, viejo?
+
+—Estoy bien —dijo Luis, aunque la voz se le escuchaba aletargada.
+
+Avisé a David que Luis estaba mal y que lo llevaba a servicio médico.  David me pidió que el resto del equipo se quedara realizando las mediciones.
+
+—Compañeros, les encargo.  Voy a llevar a Luis al médico.  Por favor terminen la medición para podernos ir a tiempo.
+
+—Está bien, compañerito —dijo Ernesto.
+
+Salí haciendo que Luis se apoyara en mí.
+
+—Oye, Edgar.  Perdóname por sacarte del equipo.
+
+—Tranquilo.  Tranquilo.  Ya casi llegamos —dije, tratando de no sonar preocupado.  Aunque en el fondo sí que lo estaba.  Podría estar delirando.
+
+---
+
+—Está bien.  Los síntomas de su cuerpo parecen simple estrés —dijo Nubia, la enfermera.
+
+—¿Segura?  Hoy todos estuvimos con molestias en el cuerpo.
+
+—¿Quieres que te revise? —me preguntó.
+
+—Solo por síntomas de gripa.
+
+—Veamos.
+
+Me revisó, y no encontró nada raro.
+
+—Pues no.  Creo que solo es estrés manifestado.  Tienes el cuello muy rígido. Hmm y sí tienes los ganglios inflamados.  Probablemente sí te vas a enfermar.  Si manifiestas síntomas de gripa, no tardes en correr para acá.  Por lo pronto, ambos, Paracetamol, 500mg, una cápsula cada 6 horas.
+
+Lilia me avisó que hicieron la medición, un poco más pegada a los resultados que espera David.  Se lo envió.
+
+# 43
+
+Al terminar el día, le dije a Lilia que iba a llevar a Luis con un mejor Doctor.  Solicité un Uber, para llevarlo a una clínica en la que alguna vez fui con mi hermana a que revisaran un mareo que tuvo.  No fue nada grave, pero el servicio fue bueno.
+
+Luis estaba mejor.  Solicité, por si acaso, una consulta para los dos.
+
+Luis salió mucho más aliviado.  El doctor le recetó un analgésico de mayor intensidad, y un medicamento para reducir la presión arterial.  El doctor le dijo que tenía la presión ligeramente por encima de lo normal, pero si no había consumido algo que la produjera, si necesitaba estar revisándosela en forma constante.
+
+A mi, simplemente me comentó que tenía los ganglios inflamados, y que posiblemente desarrollaría gripa al día siguiente.  Me recomendó un antigripal que no provocaba sueño, y con eso fue suficiente.
+
+Aparentemente no fue nada fuera de lo común, espero que la gripa no pegue fuerte.  Le pedí un uber a su casa a Luis.
+
+Por alguna razón sentí necesario que me revisara a mi.  Primero fueron los dolores de cabeza del lunes sumados a los síntomas de gripa del martes.  Lo primero que iba a hacer al día siguiente es decirle a David que nos lleven desinfectante, y encargarme de que tengamos suficiente antigripal en el botiquín.
+
+---
+
+Tuve un sueño febril.  Esta vez supe que simplemente era un sueño febril.  Tenía fiebre a 40°C, con lo que tenía de fuerzas me metí a dar un baño de agua tibia, y con eso me sentí mejor.  Sí, era gripe.  Ya no había la menor duda.
+
+Marqué, aún siendo la una de la mañana a Lilia para saber como estaba.  Y ella me dijo que salvo el malestar en el laboratorio, todo estaba bien.  Y yo le comenté que tenía fiebre.  Probablemente tendría que descansar el día siguiente.  Tal vez hasta tendría que ir al seguro social para justificar mi ausencia, pero que ya le platicaba.
+
+Le marqué a Luis, pero no me contestó.  Sólo hasta la mañana me dijo que con el medicamento para la presión, él se sentía mejor.
+
+Desperté con la gripa a todo lo que da.  Cuerpo cortado insoportable.  No podía mantenerme de pié.  Así que tomé mi teléfono para avisarle a David que no iría.  Se notó la molestia de su voz, pero hasta eso se mostró comprensivo.  Me dijo que compartiría los resultados del día siguiente conmigo.
+
+Aprovecharía para ponerme al día con un pendiente de la maestría que había que entregar por correo electrónico para ese mismo miércoles, así que no descansaría al 100%.
+
+# 44
+
+Justo estaba terminando de enviar mi reporte de la maestría por correo electrónico, cuando mi teléfono sonó.  El tono era "All I Need" de Radiohead.  Una de mis canciones favoritas.
+
+—¿Bueno?
+
+—Despierta, dormilón —era Lilia.
+
+—Hola, amor.  ¿Cómo estás?
+
+—No me quejo, todo bien por acá.
+
+—¿En serio? —pregunté.
+
+—Pues hice lo que me recomendaste en la noche, le pregunté a David si podíamos comprar unos desinfectantes ambientales, y los llevaron.  Hicimos un poco de limpieza, y continuamos con los experimentos.
+
+—¿Nadie sintió molestias físicas?
+
+—Rara pregunta.  Pero no.  Todos estuvimos mejor.
+
+—¿Se tomó Luis la presión arterial?
+
+—¿Ahora te preocupas por él? Jajaja.
+
+—Pues me preocupa como lo vi ayer.  Por eso pregunto.
+
+—123/79.  Está normal.  Supongo que mañana se la tomará de nuevo.
+
+—Los extrañé.  Te extraño, amor.
+
+—¿Sí? Yo te escucho muy relajado.
+
+—No tanto.  Tuve un sueño febril.  Recordé cuando me escondieron el control de la pantalla, y sentí que mi tío tomó esa anécdota para burlarse de mí.  En algún momento pensé que David iba a gritar, pero no.  Todo se volvió más denso con escenas de futbol y música rara.  Tenía mucho que no tenía uno de esos.  Se sienten feo, pero comparado a los de la cápsula, prefiero mil veces esto.
+
+—Ya te dije que no prefieras que pase algo malo.  Mejor avísame y les digo *shu, shu.  No atormenten a mi princeso*, jajaja.
+
+—Que pena jajaja.  Nos vemos mañana amor.
+
+—Recupérate pronto.  Descansa.
+
+Y sí, tenía que descansar.  En plena llamada escuché una notificación de mi teléfono.  Las mediciones estaban a 0.3%.  Nos estábamos alejando del resultado que espera David.
+
+# 45
+
+Pasaron varias semanas y por más que cambiábamos los parámetros, los márgenes de error seguían por encima de lo que requería David.  Aunque por momentos se alejaba muchísimo, y por momentos estábamos a dos centésimas del valor requerido.
+
+Ha sido un proceso mucho más tedioso porque cuando estábamos construyendo las partes de interacción entre los proyectos, por lo menos era más sencillo intercambiar puntos de vista, y era relativamente sencillo encontrar el error.  Con esta fase, el mayor de los problemas era la calibración.
+
+Y estando todos, todos sin excepción, no hemos encontrado la manera de calibrar de manera efectiva.
+
+Es desesperante.  Tan desesperante, que por primera vez en mucho tiempo David bajó para tratar de interactuar con PANEL.  Sin resultados correctos.  En esta ocasión era imposible ocultar la frustración.  
+
+Uno de los mejores días, era el lunes, ya que llegábamos con ideas frescas.  Y de cierta manera, los resultados de los lunes eran más cercanos a los del resto de los días.  Siendo lo más cercano un 0.03% de margen de error.
+
+Ya habíamos cumplido el primer mes desde que regresamos de nuestro descanso de tres semanas.  Hicimos el proceso de calibración, David estuvo presente.  Y al segundo intento del día encontramos un resultado alentador: 0.02%
+
+David dijo que por hoy estaba bien.  Nos mandó a descansar, y decidimos ir a un bar.
+
+---
+
+Rafa nos alcanzó, porque dice que pasó al laboratorio y estaba cerrado.  El par de ñoños de Gustavo y Rafa comenzaron a jugar Yu-gi-oh mientras los demás los veíamos con una cerveza en mano.
+
+—Oigan, ¿soy yo, o se sentía una _vibra_ rara el día de hoy en el laboratorio? —preguntó Romina. 
+
+—Pues, a decir verdad, yo sí la sentí —dijo Gustavo. —Ja, te gané.  ¡Tu carta no fue nada ante mi cañón de ecuación lineal!
+
+Creo que éramos los únicos ñoños que entendíamos para qué servía esa carta.  Y aún así no hay poder humano que haga que me convenzan de jugar Yu-gi-oh.  O Magic.  Pokémon TCG, bueno, eso es otra cosa...
+
+—Hey, ¿por qué me dejan hablando sola? —dijo Romina. —Hasta Gustavo me dio la razón.
+
+—Lo siento, tienes razón.  Yo la verdad, desde que tuve la gripa me he sentido con ese bajón de ánimo bien feo.  A veces también creo que es la mezcla de la maestría y el trabajo del laboratorio.
+
+—Pero yo al menos, sí me siento bien casi siempre que estamos haciendo algo fuera del laboratorio —dijo Ernesto.
+
+—Y no solo eso, curiosamente tengo esa especie de ansiedad cada que estamos realizando las calibraciones —comentó Lilia.
+
+—¿Ansiedad? Bueno, no me las quiero dar como si presumiera, pero la ansiedad es mi estado natural, aún cuando he estado trabajando en eso —comenté.
+
+—No sé por qué siento que nos estás mintiendo a todos —dijo Gustavo.
+
+—¡Claro que no! He trabajado mis ejercicios de respiración, y estoy buscando una terapeuta para los fines de semana.
+
+—Ya decía yo —dijo Luis. —Has mejorado en esa parte, pero no se te quita la preocupación casi de mamá Gallina cuando pasa algo con el proyecto.
+
+—Esperen.  No es tan malo, ¿o sí?
+
+Hubo un silencio que inundó la sala. 
+
+—Eh, sí... no es taaaan malo, jajaja —dijo Lilia.
+
+Y ahí terminaba nuestra noche de martes.  Al parecer, el laboratorio los estaba haciendo sentir mal, y yo no me había percatado que no había realizado mis ejercicios de respiración, o que ya no eran del todo suficientes.
+
+Decidí que ese fin de semana buscaría un terapeuta que me ayudara con la ansiedad.
+
+
