@@ -2166,3 +2166,27 @@ Aunque por un fin de semana más, podría estar conviviendo con Lilia.  Y eso va
 
 Tengo un equipo lleno de gente espectacular, pero no sabía si iban a estar preparados para lo que sea que nos íbamos a enfrentar.  Tendríamos que pisar el acelerador a fondo.  Y no sabía lo que eso iba a implicar.
 
+# 41
+
+Después de tres semanas, llegar al laboratorio C-036 se sentía como una especie de nuevo inicio.  En tres semanas, solo una vez me pude comunicar con David.  Obviamente para saber cómo se sentía más que para preguntar qué hacer con el proyecto.  Me dijo que estaba mejor, y que ya tenía ganas de continuar con el proyecto.
+
+Hoy llegué primero que todos.  Lilia quiso descansar el fin de semana, para llegar con nuevos bríos, así que en ese momento era el único ahí.  Poco a poco fueron llegando todos, comenzando por Luis, Gustavo, Ernesto, Temo, Romina y al final Lilia.  Todos justo a tiempo para comenzar con la actividad.
+
+David llegó, con toda la calma y tranquilidad.  Venía con una especie de tablero de mando.  Algo que supongo que nos va a explicar.
+
+—Buenos días, muchachos.  Me da gusto verlos.  Espero que las tres semanas, dos de ellas sí de entero descanso y una de inicio de semestre, les hayan sido sumamente productivas.  Como Temo y Romina les podrán hacer notar, yo estuve en mi oficina realizando divertidísimas labores burocráticas que de cierta manera me han podido mantener distraído.  Pero ahora todo será diferente.  Es necesario que sepan que nuestro enfoque en esta semana no será tanto de modificación, sino de parametrización y medición.  Es por eso, que preparé esta cosa.
+
+En efecto, era un tablero de mando.  De inicio es una mezcla de esos controles arcade con varios conjuntos de botones.  La diferencia son las pequeñas pantallas LED, que utilizan contadores.
+
+—Bueno, les presento un tablero PANEL —dijo David.
+
+—Suena bien.  ¿PANEL significa algo?
+
+—No lo he pensado, Gustavo.  Probablemente algo como:
+PANEL  
+Ajusta  
+Nuestros  
+Estímulos de  
+La cápsula
+
+—Admito que nunca trabajamos en el nombre, pero iba a ser recursivo —remató David.
