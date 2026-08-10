@@ -2408,4 +2408,170 @@ Y ahí terminaba nuestra noche de martes.  Al parecer, el laboratorio los estaba
 
 Decidí que ese fin de semana buscaría un terapeuta que me ayudara con la ansiedad.
 
+# 46
 
+Ese miércoles llegué de nuevo antes que todos.  Empecé a pensar que tienen razón.  Ahora el hecho de tener ansiedad en sí, me estaba provocando ansiedad.  No era justo.  Le hablé a Rafa, que es a la única persona que le he contado todo lo de mi pasado.  Me dijo que quizás todavía tenía acceso a un psiquiatra, pero que no me lo recomendaba.  Combatir la ansiedad con medicamentos podría ponerme en un estado de consciencia perjudicial para lo que se necesitaba en el proyecto, pero igual me pasaría el número de todos modos.  Le agradecí.  Y la verdad, creo que tenía toda la razón.
+
+David llegó, y al abrir el laboratorio me dijo que el avance que logramos le dio una idea.  Usando métodos numéricos y optimización, llegó a unos parámetros que bien podrían ser los adecuados para llegar al 0.01%.  ¿Por qué no lo intentamos antes?  Les recuerdo que estuve queriendo crear un convertidor analógico digital desde cero, cuando esas cosas ya las fabrican en masa.
+
+Llegó el resto del equipo y David nos mostró sus parámetros, y comenzamos con la calibración.  Esta vez se encargaron Temo y Gustavo, se llevaron menos tiempo del esperado.
+
+Ahora tocaba iniciar con las mediciones, y nos fuimos turnando.  Empecé a sentir un poco más la ansiedad, así que inicié con mis ejercicios de respiración.  Y si bien no calmaron todo, ayudaron bastante. 
+
+Lilia insistió mucho con la recalibración.  Según ella los resultados no estaban saliendo como se esperaba.  Yo, tratando de seguir la indicación de David, le sugerí que respetara los parámetros originales.
+
+—¡Los métodos numéricos son una estimación, Edgar! Lo sabes tú, y lo sé yo —dijo Lilia.
+
+—Sí, Lilia, pero si no tenemos la función real, solo podemos optimizar y usar los resultados aproximados —respondí.
+
+—Sí, pero también David quiere el resultado casi exacto. Gustavo, ¿podrías ayudarme a obtener una función que nos genere estos datos?
+
+—De ayudarte, sí puedo.  Pero es probable que tardemos semanas antes de que la solución con métodos numéricos nos brinde una aproximación más adecuada —dijo Gustavo.
+
+—¿Por qué todos te dan la razón a ti?
+
+—No estás equivocada, pero hacer esto que dices nos va a retrasar más tiempo —dije.
+
+—No entiendo por qué no me dejan.
+
+—Si quieres hazlo, pero sabes qué, vamos a tardar una eternidad si quieres que lleguemos a ese grado de perfección que siempre persigues. —dije, en el fondo sabiendo el error que acababa de cometer.
+
+—OK, lo voy a hacer.  Pero necesito decirte una cosa. ¿Sabes por qué no me especialicé en Mecánica Cuántica igual que tú?
+
+—Espera, Lilia.  Yo...
+
+—No lo hice porque hay veces que no puedo con tu pinche ansiedad.  Con esa puta necesidad de estar cuidando todos y cada uno de los detalles.  Tu incapacidad de escuchar lo que te sugieren los demás.  De cómo te cierras a recibir ayuda.  ¿Sabes qué?  Quédate con tu proyecto.  Voy con David, a renunciar.
+
+Fue con David.  No sé qué le dijo él, pero regresó, igual de rota, llorando.  Pero aceptó regresar. 
+
+Ese día no la quise ni ver.  Pero eso no significa que no me hubiera dolido si se iba.
+
+---
+
+Luis me dijo que ella ya no iba a intentar obtener la función algebraica, sin embargo, aceptó quedarse y seguir trabajando en el proyecto.  
+
+Traté de concentrarme tanto como se pudo en el proyecto, con los parámetros que nos pasó David.  Y lo único bueno de ese día es que al medir estábamos en 0.01%.  El margen de error esperado.
+
+—Y bueno, ¿qué sigue? —le preguntó Lilia a David.
+
+—Buena pregunta.  No pensé que fuéramos a alcanzar esta etapa... y justo a tiempo para la hora de salida.  Váyanse a descansar, muchachos.  Nos vemos mañana —nos comentó David.
+
+---
+
+—Bien, equipo.  Llegamos al 0.01% que necesitábamos.  Eso quiere decir que al fin podremos ver qué hay dentro de la cápsula.  Pero primero, ¿qué tal una partida de Yu-gi-oh?
+
+—Buena idea.  Acá está mi mazo.  ¿Podemos usar cartas baneadas? —dijo Rafa.
+
+—Jugar con cartas baneadas solo te dejaría la mitad de tu mazo.  Yo digo que lo intentes, mequetrefe —dijo Tavo.
+
+—Bueno, el que gane va contra el que gane de Edgar contra mí. ¿Le entras, Edgar? —dijo Ernesto.
+
+—Paso, no juego Yu-gi-oh ni aunque mi vida dependa de ello —comenté.
+
+De pronto, las vibraciones.  Esas malditas vibraciones se volvieron a sentir.
+
+—¡Tengan cuidado! —gritó David.
+
+Bueno, al menos la cápsula me estaba salvando de soñar con partidas de Yu-gi-oh.  
+
+Esperando el mismo resultado de siempre, me acerqué a la cápsula.  Esta vez se alejó de mí.  Alcancé a escuchar como todos me gritaron que saliera, menos Lilia.  Quien sonreía ante mi imposibilidad de salir del laboratorio.  
+
+—¡Cúbrete, Edgar! —gritó David.  Ambos nos abrazamos como esperando el final.
+
+Desperté.
+
+# 47
+
+Al día siguiente, llegué con elegantes cinco minutos de retraso.  El metro de la ciudad con sus problemas de siempre.  Cuando entré al laboratorio, ya todos estaban adentro.
+
+Estaban preparando instrumental y todo esto, así que aproveché para acercarme a Lilia.
+
+—Hola, oye, sobre lo de ayer.
+
+—Si no tiene algo que ver con el proyecto de este laboratorio, por favor, vete.
+
+—Está bien —dije.
+
+David entró, había ido a su cubículo por algo que olvidó.
+
+—Bien, equipo.  Llegamos al 0.01% que necesitábamos.  Eso quiere decir que al fin podremos ver qué hay dentro de la cápsula.  Pero primero, ¿qué tal una partida de Yu-gi-oh?
+
+—No, no, no.  Ni madres —dije.
+
+Todos voltearon a verme totalmente confundidos.
+
+—Oh, lo siento.  Es que ya saben que no me gusta Yu-gi-oh.  Está bien, no veo por qué no podamos verlos jugar.
+
+—Tengo Magic o incluso Pokémon TCG si quieres —dijo David. 
+
+—No, no.  Paso.  Hay que relajarnos un poco.
+
+David barajó un poco su mazo.  Le dijo a alguien que si quería usar sus cartas, y Gustavo aceptó.  Ernesto y Luis tenían un mazo listo.
+
+David se acercó conmigo.
+
+—Dale tiempo.  No es algo que se vaya a solucionar en un día.  Ustedes tienen una gran química, el problema es que de una u otra forma lograron mezclarse entre sí siendo como el agua y el aceite en el papel —me dijo David.
+
+—Sí, es tiempo.  Solo quiero disculparme.  Aunque no me perdone.  No puedo vivir teniendo esta culpa en la cabeza.
+
+—Si te vas a disculpar, que sea por lo que hiciste.  No por las consecuencias.  Aparte, lo que te dijo, de hecho lo que se dijeron es algo atribuíble al estrés.  No sería mala idea que la buscaras después del fin de semana...  O no sé.  La verdad es que nunca tuve tanta suerte en el amor como tú.  Pero sé lo que se siente perder a alguien como ella.
+
+Agradecí su preocupación.  Insistió en prestarme su baraja de Pokémon TCG, pero le dije que así estábamos bien.
+
+—Tu reacción a Yu-gi-oh no fue porque odies el juego.  ¿Pasó algo más? —me preguntó.
+
+—Pues nada de lo que quiera preocuparme por ahora.
+
+—No vamos a entrar aún a la cápsula.  Vamos a tratar de producir algunas frecuencias.  Pero ya estaremos en eso cuando comencemos.  Por ahora solo les voy a pasar una tabla extra para que verifiquen que los resultados son los adecuados.  Nos vemos al rato.  Te encargo que no pierdan mis cartas de Yu-gi-oh.  Tengo que hacer trabajo de burocracia.  Estás a cargo.
+
+—¿Pero qué vamos a hacer? —pregunté.
+
+—Los datos que te acabo de decir.  Pero deja que jueguen unas dos horas.  Ahora sí, nos vemos.
+
+Odio, odio, odio con ganas Yu-gi-oh.
+
+# 48
+
+Revisé la lista de datos que me proporcionó David.  Eran datos semejantes a los de la calibración.  Pero el único objetivo hoy era el obtener datos esperados.  Así que eso es lo que comenzaríamos a hacer.
+
+—Lilia...
+
+—...¿Sí?
+
+—Esta es una copia de los datos que me dio David.  Necesito que los ingresen en el PANEL.  Debemos obtener los resultados que aparecen del otro lado.  Entre tú, Gustavo y Luis encárguense del lado izquierdo.  El resto haremos el lado derecho.
+
+Me quedé.  Esperando una respuesta.
+
+—Está bien.
+
+—Bien —dije.
+
+El silencio en el laboratorio era escandaloso.  Dios mío, no puedo creer que escribí esa horrenda analogía, pero no existe una mejor.  Podría usar la de la tensión que se podía cortar con un bisturí, pero es igual.  El caso es que era incómodo.  Bueno, eso me gusta más.  El silencio era como una etiqueta de nylon en una prenda de algodón: incómodo, odioso y desesperante.
+
+De repente escuchaba a Gustavo haciendo algunas bromas con Luis.  Aparentemente esos dos estaban haciendo buen equipo de un momento a otro. 
+
+Ernesto era demasiado callado, y para colmo Temo y Romina estaban en lo suyo.  Por más que quería evitarlo, no podía notar en la mucha distancia que había entre todos, a pesar de que estábamos en un lugar más reducido.
+
+—Ah, pero por supuesto.  Ya recordé.  Romina, escoge una canción por favor —dije.  Se me había olvidado que podíamos poner música.
+
+—OK.  Espero no me mates.
+
+Comenzó a sonar "Wouldn't It Be Nice" de los Beach Boys.
+
+Y se atrevieron a burlarse de "Come Together"
+
+---
+
+Al final del día, pasé con David y le mostré los resultados.
+
+—Excelente.  Creo que podemos otra vez llevarnos las cosas con calma.  El paso más tedioso era la calibración.  Y lo superaron de buena manera.  Para ser franco, voy a tratar de comenzar con la redacción del paper —comentó David.
+
+—Es curioso, justo iba a preguntar cuándo comenzaríamos a elaborar el reporte.
+
+—Tranquilo.  Esto se dará a conocer eventualmente.  Este proyecto es importante para mí, y para todos aquellos científicos que le dedicaron su vida, y también para ustedes.  Tengan paciencia.  Nos vemos mañana, Edgar.
+
+—Mañana es sábado —espeté.
+
+—Oh, sí... bueno... el lunes.  Tú me entiendes.  Con este trabajo estoy todo enredado.
+
+David sigue pareciéndome más errático últimamente.  Se siente como si no estuviera consciente ni del día en el que vive.  Pero supongo que se le puede achacar a todo el trabajo que tiene como decano.
