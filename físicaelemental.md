@@ -2701,5 +2701,3 @@ Y de un momento a otro, ya estábamos platicando como si nada hubiera pasado.
 El día fue largo, pero nada fuera de lo normal.  Las perillas de PANEL también funcionaban como una perilla de radio analógica, para sintonizar una frecuencia, solo que esta vez se trataba de la frecuencia de vibración emitida.
 
 El equipo fluyó como antes de nuestra discusión.  Sin afán de sonar exagerado, algo provoca en los demás cuando estamos juntos.  No sé si ganas de matarnos, o calma.  Aunque al menos en el laboratorio era una calma temporal.
-
-

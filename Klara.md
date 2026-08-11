@@ -429,7 +429,9 @@ Se despidieron, y para Sara, ahora el patrón más claro es el conflicto.  Al pa
 — ¿Qué nos cuentas al respecto Karlilla?  Yo ya la vi, pero quiero escuchar qué piensas.  
 — Estoy un poquito sorprendida, la película es muy divertida.  Hay un monólogo del villano casi al final que lo sentí como ese discurso de Gru, cuando le dice a los Minions que no tienen dinero.  Solo que en villanezco real, y funciona, pero no a ese nivel.  Me gusta el estilo artístico, como videojuego con cell shading.  O 2.5D cómo he escuchado que le dicen.  
 — ¡Uhlalá, señora francesa!  Desde que te reencontraste con Sara, ya hasta te sabes el tipo de animación de las películas.
+
 — Sí, ya sabes.  Me gustó que la voz en inglés de Larry, el protagonista es de Wizz 2F —dijo Karla esperando un comentario ácido sobre el actor-rapero.  
+
 — A mi también me gustó.  Por un momento pensé que era Ice-T, tiene un rasgo de voz semejante, y le queda muy bien ese tono al personaje.  
 
 Karla se sorprendió de ver esta reacción de parte de Alejandro.  Inconscientemente, bajó los hombros estando al aire por primera vez en un muy buen rato.
@@ -439,7 +441,9 @@ El segmento continuó, y si bien la dinámica sonaba un tanto edulcorada, lograb
 Martha se levantó y fue a la otra cabina, lo que le dio la oportunidad a Alejandro de respirar un poco.  Ahora el que bajó los hombros fue él.
 
 — Uff.  Un poquito demasiado correcto, ¿no? —exclamó Alejandro.
+
 — Pues solo lo necesario.  Creo que podrías intentar algún chistillo de vez en cuando.  
+
 — No sé, no quiero arriesgarme todavía.  Pero igual intentaré algo.
 
 ---
@@ -449,25 +453,37 @@ Era un día relativamente tranquilo en cabina.  El proceso editorial para el pro
 "La Tía" Fernández se paseaba tranquilamente por la cabina.  Venía a dejarle un café a Martha, la nueva productora. 
 
 — Muchas gracias, Matías.  Tienes un buen tino para el café.  
+
 — Ya ves, uno se tiene que aprender cuál es la máquina que despacha mejor y el mejor tipo de café.  
+
 — Je, nada mal.  
+
 — Oye, ¿cómo te ha ido con los Desenfundados? —preguntó Matías.
+
 — Pues para como me contaste que te había ido, parece que todo normal.  
+
 — Pues no me fue mal.  La verdad si es una cuestión de horarios.  Es cierto que no me tocó el peor Alejandro, pero sí era bastante exigente.  
+
 — Estoy sorprendida.  Me ha ido mejor de lo que esperaba —. Dijo Martha mirando al prompter.  
+
 — Estoy igual.  No sé si te enteraste, pero antes era un tanto déspota con los becarios, y ahora intercambia cartas de Pokémon, y les ayuda a cargar el equipo.  Y eso fue apenas hace ratito.  
+
 — Yo creo que solo anda en modo prudente.  Pero si de verdad está cambiando para bien, bienvenido sea.
 
 En eso, Sara solicitó acceso a la cabina.
 
 — Muchas gracias, me dijeron que revisara lo de las acreditaciones con Martha—. Dijo Sara.
+
 — Oye, Matías, ¿podrías acompañar a Sara para darle la lista que está en mi escritorio?  Si quieres te voy firmando el oficio, nena.
 
 Martha firmó el oficio de la casa productora.  Sara terminó convirtiéndose en una especie de embajadora para Funny Toys en México, por lo cuál se encuentra repartiendo acreditaciones y pases de prensa para la premiere de "Fuego Amigo".
 
 — Sara, ¡que gusto verte por acá! —dijo Alejandro, sorprendido de encontrarse con Sara.— Quiero agradecerte por las acreditaciones y los pases de prensa.  La verdad estoy feliz de ver como ha crecido tu proyecto, y de lo feliz que está Karla en estos días.  
+
 — También me da gusto estar por acá, Alejandro.  Es lo menos que puedo hacer por ustedes, en agradecimiento al espacio que le han dado al proyecto en su programa. 
+
 — Quiero que sepas que si necesitas algo de parte de Rock FM y de Desenfadados, puedes llamarnos y te echamos la mano.  
+
 — Gracias, Alejandro.  Lo voy a tomar en cuenta. 
 
 Alejandro entró a su cubículo.
@@ -485,41 +501,56 @@ En una pequeña cafetería cercana a la radiodifusora, Sara y Karla estaban de n
 Sara agradeció por los buenos deseos, pero se quedó callada por unos segundos.
 
 — Oye, Karla.  Tengo que preguntarte algo.  No sé cómo tratarlo.  ¿Cómo te has sentido últimamente?  
+
 — Pues, bien.  Desde que llegó Martha a la producción, aunque estamos más presionados, me he sentido más relajada, curiosamente.  
+
 — Eso es verdad.  Te veo muchísimo más _tú_ en comparación del día que vine a la entrevista —exclamó Sara, con una sonrisa en la cara.— Pero es que sí estaba preocupada.  Después de la entrevista con Merino en el otro programa de radio, sonreías, te veías plena.  Incluso retomaste la comunicación.  Pero desde que estás aquí...
+
 — Oh, lo siento.  Nunca te platiqué.  Tenía que tomar el metro y un trolebús para tomar la estación.  Me robaron el teléfono.  Y no hubo manera de recuperar los contactos.  Encontré el tuyo, porque tuve que revisar nuestros viejos cuadernos.  Todavía conservo el cuaderno con tus dibujos.  Y ahí es donde encontré tu teléfono.  Por favor, discúlpame.  Y sé que esto también viene por Merino y por Fabián.  Jajaja.  
 
 Sara estaba desarmada.  Incluso empezó a pensar que tal vez estaba exagerando.  Karla se veía contenta.  Y aunque Alejandro le seguía provocando incomodidad, legítimamente se portó amable cuando se lo encontró en la cabina.
 
 — Tengo que preguntarte algo, ¿cómo te llevas con Alejandro?  
+
 — Ah, caray.  Salió muy de pronto la pregunta, ¿no?  
+
 — Un poco, lo admito, pero es que cuando Alejandro y tú me entrevistaron te noté un poco... no sé como decirlo... ¿agüitada?, ¿apagada?, ¿agotada?  
 
 Karla se extrañó un poco por como estaba llevando la conversación Sara.  Pero entendía a lo que se refería.
 
 — No te voy a mentir.  El programa se había tornado bastante pesado en sí mismo.  En ese momento estábamos con el tema de Luke Williams, y...  
+
 — Karla, lo de Luke Williams pasó ese mismo día que estuve en cabina.  No es como que eso pudiera ponerte así aún.
+
 — Pues es que es lo más estresante de estos días.  
+
 — ¿Y cómo te llevas con Alejandro? ¿Cómo te has sentido?  
+
 — Mira, no sé por qué el interés en él.  Es una persona muy divertida y muy buena onda.  Me siento muy a gusto trabajando con él—. De repente, todo le hizo sentido a Karla — Ah, ya entendí.  ¿Quieres que te pase su teléfono? ¡Picarona!  Podrían hacer una buena pareja, de cierta manera se complementan.
 
 Sara estaba gritando internamente.  Karla lo detectó de inmediato.
 
 — ¡No necesitas gritar internamente! ¡Ya te entendí! Jajaja.  Perdóname, amiga.  Es que ese hombre a veces necesita una buena pareja.  Es muy buen pedo, pero había estado muy estresado en días anteriores.  
+
 — ¡No vuelvas a decir algo como eso!, ¿eh? — Sara dijo con alivio, y riendo por lo incómodo.
+
 — Jajaja, lo siento.  No te lo voy a negar, ahora que llegó Martha, veo a Alejandro más alivianado.  E incluso en la estación lo notan.  Me tranquiliza, y me preocupa a la vez.  Pobre chavo.
+
 — Oye.  ¿Y tú has sabido algo de Joel Fulgencio?  Es un viejo conocido de Merino, pero no lo ha podido contactar.  Me comentó que tú lo conoces...  
 
 La cara de Karla lucía extrañada.  No lo había verbalizado, ni lo iba a hacer, pero notaba a Sara muy ansiosa.  Además de que le estaba haciendo preguntas muy específicas.
 
 — Mira, Joel fue nuestro segundo... no, nuestro tercer productor.  Renunció al aire por un descontento que tuvo con Alejandro.  Casi me golpean cuando traté de detener la discusión.  Fue por un jingle navideño que colocó mal Joel.  Alejandro lo sintió como una burla, porque Joel ya se había equivocado dos veces.  Alejandro le gritó en el corte comercial, y Joel sí le alcanzó a lanzar una botella de refresco que tenía en la mano.  Y de ahí casi se van a los golpes.  Joel me avisó por mensaje de texto que se iba a otro país.  No me acuerdo si a Suecia, Finlandia, Islandia... era uno de esos.  
+
 — Ya no tienes el mensaje, ¿verdad?  
+
 — No... ¿estás bien Sara?  
+
 — Sí, todo bien.  Perdóname, amiga.  No te he tratado de contactar, y eran muchas cosas las que te quería preguntar.  Me preocupó mucho verte así como te vi ese día, y pensé lo peor.
 
 Sara comenzó a llorar, Karla la abrazó.
 
-— Estoy bien, pequeñita.  Perdóname por distanciarme.  Este trabajo es muy demandante.  Te consume.  Pero ha valido la pena.  A las dos nos va bien.  Y no sabes el gusto que me está dando el verte triunfar así.
+— Estoy bien, pequeñita.  Perdóname por distanciarme.  Este trabajo es muy demandante.  Te consume.  Pero ha valido la pena.  A las dos nos va bien.  Y no sabes el gusto que me está dando el verte triunfar así —dijo Karla, con una sonrisa a medias.  De esas que pones cuando te da nostalgia.
 
 Sara no sintió la necesidad de preguntar sobre Alejandro de nuevo.  La reunión fue bastante más desgarradora que la vez anterior.  Karla parecía estar recuperando su luz, pero lejos estaba de ser aquella chica de "Somos Pop y algo más".
 
@@ -542,9 +573,13 @@ Casi se cumplían tres semanas de la llegada de Martha como productora de "Desen
 Se escuchaban los gritos de la productora muy levemente.
 
 — Pero acércate al micro, Martha, si no, no te vamos a escuchar.  
+
 — Ya, perdón.  Porque alguien —dijo Martha mirando de manera juzgadora a Alejandro— tiene la costumbre de comerse sus pambazos frente al micrófono abierto.  
+
 — Eso es mentira —, dijo Alejandro mientras masticaba un poco de un pastelillo.— Solo fue una vez.  Nada más.
+
 — No seas asqueroso, Alejandro. Jajaja —dijo Karla, quien disfrutaba de la convivencia con su productora en cabina.
+
 — Miren, yo sé que está mal, pero la culpa es de ustedes que me enseñaron ese local de gorditas y pambazos.  Eso no se le enseña a una persona sin autocontrol.  Jajaja, nah, no es cierto.  Prometo ya no volver a hacerlo.
 
 Las risas eran genuinas.  E incluso los fans más acérrimos y cerrados del programa en Twitter veían esta nueva dinámica con aprobación.  Incluso en los grupos de fans en Facebook, esta etapa desde la llegada de Martha se sentía como un subidón para el nivel del programa.  Aunque claro, no faltaban quienes extrañaban al Alejandro más afilado de épocas anteriores.
@@ -562,6 +597,7 @@ Karla y Martha se quedaron con la boca abierta.  Pareciera que este era otro Ale
 El programa de ese día terminó, y Karla se acercó a Alejandro.
 
 — ¿Todo bien, amigo?  
+
 — Sí, Karliux.  Me costó trabajo entenderlo, pero tuve a alguien cercano que no sobrevivió las adicciones.  Creo que me proyecté un poco en Luke Williams cuando supe lo que pasó.  En cierta manera me da coraje que alguien como él tuviera la posibilidad de salir, a diferencia de... 
 
 Alejandro se detuvo, y Karla le dio un abrazo sincero.  
@@ -569,8 +605,11 @@ Alejandro se detuvo, y Karla le dio un abrazo sincero.
 Al momento de salir, Karla preguntó:
 
 — Oye, Lexi... ¿te gustaría ir por unos _drinks_ el _sabadrink_?  
+
 — Gracias, Karlilla.  No puedo.  Ya hice compromiso con Esteban.  Ya ves que luego es bien demandante cuando no le respondo los mensajes.
+
 — No te preocupes.  Entonces nos ponemos de acuerdo el próximo fin, ¿ño?  
+
 — Está bien, Karliux.  Ya lo agrego a _la agenda de Alejandro_.
 
 La "Agenda de Alejandro" fue un segmento no muy popular de inicios del programa, en el que mencionaba fechas importantes para series y discos.  Nadie preguntó cuando dejaron de hacer el segmento.
@@ -590,39 +629,53 @@ Alejandro en algún momento tuvo un problema con el alcohol cuando estudiaba su 
 Esteban le tocó la espalda.
 
 — ¿Agua mineral?  ¡No se vaya a marchitar la plantita!  ¿Cómo has estado, cabrón?  ¿Por qué no me contestas?  
+
 — Porque estoy ocupado, perro.  ¿Qué pedo, carnalito?  ¿Cómo estás?  
+
 — Enojado, porque ya estás pidiendo beber sin mí.  ¡Cantinero!  Un tequila doble.  Bien doble.  Y limón.
 
 Esteban fue un amigo de Esteban de la preparatoria.  Mientras Alejandro estudió periodismo, Esteban se encargó del negocio familiar de su padre.  Se encarga de vender artículos de papelería por mayoreo.
 
 — Oye, cabrón.  Te he estado oyendo en el programa.  Muy chingón y todo, compa.  Pero hay algo que me di cuenta.  
+
 — Wey, siento que en las últimas semanas he estado mejor que en mucho tiempo.  Siento que estoy haciendo lo que verdaderamente me gusta.  
+
 — Sí, wey.  Pero creo que ya no eres tú.  
+
 — Ya no soy... ¿yo?  A ver.  Creo que por primera vez en meses me puedo sentar tranquilamente a escuchar música sin estar estresado.  Si me preguntas, siento que es mi mejor versión en años.  
+
 — Ay, no puede ser.  Ya te me ablandaste.  ¿Qué es eso de andar retractándote de lo que dijiste hace tres semanas?  Mames, antes te morías que aceptar que te equivocaste.  
 
 Alejandro se extrañó por este comentario.  Sobre todo porque Esteban fue un gran apoyo para él cuando vivió un caso parecido al de Luke.
 
 — Wey, tú viste por lo que pasé.  Por lo que pasamos todos.  Creo que tú mejor que nadie lo puede entender.  
+
 — Sí, bueno.  No todos la libran.  Pero eso es distinto a que te estés dejando mangonear.  ¡Ese programa era tuyo!
 
 Alejandro estaba totalmente desbalanceado con los comentarios de Esteban.
 
 — ¡El programa es mío!  ¡Pero también es de Karla!
+
 — Y ahí está tu problema.  ¡Tus programas de radio siempre han sido tuyos!  ¡Nunca dejabas que te callaran!  Podría incluso apostar que la salida de Alfonso fue porque la solicitaste. —dijo Esteban con una sonrisa maliciosa.  
+
 — Basta.  Por favor.  
+
 — Ay, ya se rompió el cristalito, jajaja.
 
 Era la primera vez que Alejandro estaba totalmente harto de Esteban.
 
 — Está bien, compa.  Discúlpame.  Es que me saca de onda que hayas dejado de ser tú.  
+
 — ¿Pero cómo es que dejé de ser yo?  
+
 — ¿Quién daba las pautas de inicio y de regreso de corte antes de que cambiaras de productor?  ¿Quién podía hacer chistes ácidos sin que nadie dijera nada?  ¿Quién marcaba el ritmo del programa?  No me contestes, son preguntas retóricas.
 
 Alejandro se quedó en silencio, pensando.
 
 — Si vas a quedarte con una sola cosa, esa muchachita, Karla te está ganando terreno.  Te has portado muy condescendiente con ella.  Es como si ya te tuviera dominado...  
+
 — ¡YA BASTA! ¿Sabes qué?  Ya me voy.  Vine a relajarme, no a que me sermonearas.  
+
 — OK.  Está bien.  Nos vemos.
 
 Alejandro dejó un billete de $500 en la barra.  Esteban pidió otros dos tequilas dobles antes de irse.  Sonrió, pensando en que al menos dejó pensando a su amigo.
@@ -636,57 +689,77 @@ El martes, en el proceso creativo para el programa de ese día, todos se extrañ
 A la mitad de la junta, Martha recibió un mensaje de texto de Alejandro, avisando que llegaría tarde.
 
 — Sí, ya me di cuenta. — dijo Martha, mostrándole el mensaje de Alejandro a Karla. — ¿Sabes algo?  
+
 — La verdad es que es raro que hablemos fuera de cabina.  Lo único que sé es que el sábado fue con su amigo Esteban.  Me caga que lo vea, porque siempre se pone más pesado después de que lo ve.  Ese wey es bien castroso.  
+
 — ¿O sea que sí hay alguien más castroso que Alejandro? —preguntó sorprendida Martha.
 
 Karla la vio un tanto sorprendida.
 
 — ¿En serio no crees que es castroso? —preguntó Martha. 
+
 — O sea sí.  Pero creeme que nunca lo conociste estando estresado.  Su manera de liberar tensión es echarle carrilla a todos, y a todo del que se pueda en el programa.
 
 En eso, viene llegando Alejandro.  Con lentes oscuros.
 
 — Buenas tardes, buenas tardes. —dijo Alejandro, entrando casi corriendo a la cabina.  
+
 — ¿A dónde crees que vas? ¿Y esos lentes oscuros? ¿Y ese perfume siete machos? —preguntó Martha, un tanto exasperada.  
-— Perdón, Martha.  Tuve unos días complicados... pero estoy bien. ¿Qué se va a hacer hoy?  
+
+— Perdón, Martha.  Tuve unos días complicados... pero estoy bien. ¿Qué se va a hacer hoy? 
+
 — ¿Fuiste a ver "¿Y dónde están los novios?" el fin? —preguntó Karla, esperando que con eso al menos tuvieran un tema que hablar en común.  
+
 — No, wey.  Perdón.  No tuve ánimo de hacer nada el fin.  
+
 — ¿Hay algo que hayas escuchado o de lo que quieras platicar?  
+
 — Vi unos partidos de basquet colegial, y estuve oyendo el nuevo de "Los Escondidos", tal vez eso ayude.
+
 — Pues, sí lo puedes reseñar, al menos cubres un pequeño segmento. —dijo Martha, visiblemente decepcionada.
 
 Antes de la cuenta regresiva para la entrada del programa, Alejandro le preguntó a Karla que si lo dejaba hacer la pauta de entrada.  Ella aceptó.
 
 — Entramos en 5... 4... 3... 2...
+
 — Buenas noches, estimados radioescuchas.  Bienvenidos a "Desenfadados".  De este lado, Alejandro Romero, y del otro lado, se encuentra:
+
 — Karla Villarreal.  Buenas noches a todos.
 
 Martha estaba sumamente confundida y molesta.  La dinámica del programa había cambiado desde el día que ella llegó.  Estaba establecido que las pautas las marcaba de inicio Karla, y Alejandro hacía las pausas y el cierre del programa.  Justo con la idea de que se viera más equilibrado.  Pero ese segmento inició mal.
 
 — En este martes tenemos varios temas, ¿cómo cuales, Karliux?  
+
 — Hablaremos de la película mexicana "¿Y dónde están los novios?" con Ernesto Palmas y Jacinta Fuentes.  Alejandro nos dará la reseña del nuevo disco de "Los Escondidos".  Platicaremos de algunas películas clásicas de ciencia ficción y ya estamos a dos días de la premiere de "Fuego Amigo".
 
 El programa continuó.  Y al despedir el segmento, Martha habló a través de los audífonos con Alejandro.
 
 — Alejandro, ¿qué chingados te pasa?  Tenemos bien establecida cuál es la pauta a seguir.  Entra Karla, cierras tú.  Karla, no permitas que esto pase de nuevo, ¿está claro?  
+
 — Bueno, ¿cuál es el pedo con que yo marque los tiempos? —preguntó con molestia Alejandro.
+
 — Que quedamos en eso desde que llegué aquí.  ¿Vas a cumplir, o no?
 
 En ese momento Alejandro entendió que solo había una forma de recuperar el control.  Pero necesitaba pensarlo con detenimiento.
 
 — ...eso está excelente Karlita.  
+
 — Pues sí.  ¿Qué nos vas a poner de música, para cerrar el bloque?  
+
 — Vamos a poner L.S.F. de Kasabian.  L.S.F. significa Lost Seeds Forever.  Venga, Marthita.  Regresamos después del corte.
 
 Martha puso L.S.F., y apagó de inmediato los micrófonos.  Fue a cabina.
 
 — Alejandro. ¿Qué dijiste que significaba L.S.F.? —preguntó Martha.
+
 — Lost Souls Forever.  Sí lo dije bien, ¿no?
+
 — Dijiste Lost Seeds Forever.  Karla, conoces bien la canción.  ¿Por qué no lo corregiste?
 
 Karla se le quedó mirando sorprendida a Martha.
 
-— Está bien.  No me di cuenta.  
+— Mil disculpas, Martha.  No me di cuenta.  
+
 — Te encargo de que le des un coscorrón cuando se equivoque, ¿eh? —le comentó Martha, casi secreteando a Karla.
 
 Alejandro estuvo errático el resto del día.  Confundió a Leonardo DiCaprio con Brad Pitt.  A Jay-Z con Snoop Dogg.  A Joaquín Sabina con Santa Sabina.
@@ -698,20 +771,27 @@ Al final del día, Martha habló con él.
 Karla vio con extrañeza el regaño.
 
 — ¿Viniste crudo? —preguntó discretamente Karla.
+
 — No te voy a mentir, Karla.  Me fue muy mal el sábado con Esteban.  
+
 — ¿Tomaste desde ese momento?  
+
 — No, me fui temprano, y estuve tomando todo el domingo y el lunes.
+
 — Alejandro, tú ya habías dejado de beber.  ¿Por qué lo hiciste?  
+
 — Esteban me dijo cosas que no debió haber dicho.
 
 De pronto, Alejandro pensó en una inquietud que vino a su mente en cuestión de milésimas de segundo.
 
 — ¿Oye, y si nos juntamos en contra de Martha? —dijo Alejandro.
+
 — ¿En contra de Martha? ¿Para qué? Ella solo está haciendo su trabajo.
 
 Alejandro se le quedó viendo a Karla.  No entendía qué es lo que estaba pasando por su propia mente.  Solo agradecía que tenía una persona que lo aterrizaba siempre que tenía ideas extrañas.  Parecía que hoy lo estaba notando más que otras veces.
 
 — Mejor, ¿no quieres ir por un café? —preguntó Karla. — Yo invito. —sonrió.  
+
 — Ok, me gusta la idea.
 
 Fue una plática corta sobre ideas para el programa, sobre lo cerca que estaba la premiere, y sobre lo tranquilos que han sido los últimos días.
@@ -751,25 +831,41 @@ No sé explicar por qué, pero me parece necesario anotar estos datos.  Creo que
 Suena el teléfono.  Es Karla.
 
 — Hola, preciosa.  ¿Cómo estás?  
+
 — Bien, un poco cansada por el programa de hoy.  Pero supongo que es normal.  Imagino que andas ocupada.  Solo para confirmarte que sí vamos a asistir.  No había podido confirmarte, y se nos fue por completo que necesitabas la confirmación.  
+
 — Oh, está bien.  Gracias por avisar.  Creo que me quedé corta con las acreditaciones.  Me faltó una para "La Tía", pero trataré de resolver eso.  
+
 — Sí, no se te olvide, que sí es medio sentido.  
+
 — Jajaja, sí.  Me cayó muy bien.  
 
 Sara se dio cuenta por el tono de Karla que esa no era la razón principal por la que le estaba llamando.  Había un dejo de preocupación que de inmediato detectó Sara.
 
 — ¿Ocurre algo, Karla?  
+
 — Sí, estoy preocupada por Alejandro.  Estuvo tomando todo el fin después del programa del sábado.  Y hoy estuvo muy errático.  
+
 — Ah, entonces solo estaba crudo. —expresó Sara.  Escuchó un largo silencio del otro lado y se dio cuenta de que no fue muy agradable lo que dijo. — Perdón, es que los acabo de escuchar en podcast.  Y sí se oyó raro.  Tú eres la que iniciaba desde que estaba Martha.  
+
 — No sé que hacer.  Ese chavo perdió a alguien cercano hace tiempo por las adicciones.  No dejó el alcohol, pero tenía rato que no tomaba así.  Por eso me preocupa.
+
 — Mira, tú no puedes hacer mucho por alguien que no quiere ser salvado.  A veces expresas lo que piensas, y se van a poner a la defensiva y negar que tienen un problema.  
+
 — Bueno, creo que tienes razón.  ¿Me recomiendas no decirle nada?  
+
 — Te conozco, y sé que ignorarlo es lo único que no harías.  Trata de decírselo con calma.  O checa como está mañana.  ¿Es algo que ocurra seguido?  
+
 — No.  La última vez que lo vi tomar de más fue justo la vez anterior que se juntó con su amigo... Oh... Olvídalo.  
+
 — ¿Volvió a juntarse con ese amigo?  
+
 — Sí... bueno... yo... lo siento.  Perdóname por hablarte de él.  
+
 — Es tu amigo, estás preocupada.  Se vale.  
+
 — Lo bueno es que tú me comprendes, Sara.  Te agradezco.  Y avísame cuando tengas la acreditación de "La Tía".  
+
 — Sí, está bien.  Descansa.  Nos vemos el jueves.
 
 Sara siguió leyendo el cuaderno, y agregó:
@@ -815,22 +911,34 @@ Salió de una adicción.  Probable recaída.
 ---
 
 — Bienvenidos a Desenfadados.  Buenas noches tengan todos ustedes en este programa de miércoles 13 de febrero.  Con ustedes, su servilleta, Karla Villarreal, y conmigo se encuentra...
+
 — Buenas noches.  ¿Cómo están?
+
 — ¿Quién eres?  
+
 — Jajaja, Alejandro Romero.  No sé si lo recuerdas, Karlita, pero cuando te presenté en el programa piloto, estabas tan nerviosa que ni tu nombre dijiste.  
+
 — ¿En serio?  
+
 — Sí, lo recuerdo bien.  Éramos tan distintos.  Estábamos un poco ñoños y tetos jajaja.  
+
 — Jajaja, ¡qué buena memoria tienes!  Martha, ¿crees que puedas buscar ese fragmento?
 
 "Dame un minuto" se escuchó el grito de Martha en el micrófono.  Y de inmediato lo puso:
 
-«
+---
+
 — Hola, hola.  Bienvenidos, bienvenidas y bienvenidequis a este su programa del que aún no tenemos nombre.  Con ustedes en este momento al aire Alejandro Romero.  Y conmigo en el estudio se encuentra...  
+
 — Hola, ¿qué tal?  Bienvenidos a este nuevo programa que esperemos que les guste... ¿verdad?  Me da mucho gusto saludarte Alejandro.  En este proyecto completamente nuevo, completamente distinto a lo que cualquiera de los dos veníamos haciendo, verdad.  
+
 — Jajaja, estás un poquito nerviosa, ¿verdad?  
+
 — Para qué te voy a mentir, mano.  
+
 — Vamos a comenzar.  Hace unos días salió el trailer de Spider-Man: No Way Home.  Y nosotros todavía no somos capaces de superar Endgame, ¿verdad, Karlilla?
-»
+
+---
 
 La risa de todos fue genuina.  Era la primera vez en mucho tiempo que Alejandro traía un recuerdo nostálgico del programa.
 
@@ -839,18 +947,23 @@ Y sí, ese programa de miércoles hizo que todos olvidaran los conflictos del d�
 Hablaron un poco de lo que estaba en la agenda de los próximos días.  Para efectos prácticos, trataron ese día como programa de jueves, hicieron "la recomendación de la tía Martha".  Una sección de jueves en la que Martha platicaba de alguna película que hubiera visto.  Es una gran productora, pero batallaba mucho con el micrófono, y por lo mismo era divertida la sección.
 
 — Y bueno, eso fue todo este miércoles en "Desenfadados".  Mañana... mañana no hay programa.  Vamos a estar en la premiere de "Fuego Amigo", la cual se estrenará en pantallas mexicanas el día viernes.  Se despide su amigo, Alejandro Romero.  Y del otro lado...  
+
 — Karla Villarreal.  Nos vemos mañana en la premiere, y el viernes en cabina.  
 
 El letrero de "Al aire" se apagó.  Martha se acercó a Alejandro, y le dio una palmadita amistosa.
 
 — Gran programa.  ¿Ya ves que sí puedes, Alejandro?  
+
 — Sí, mamá.  Jajaja
 
 Martha acompañó la risa de Alejandro.
 
 — Oye, Karlita, ¿tienes un plan el día de hoy?  
+
 — Sí, tengo que acostarme en mi camita y descansar.  Estoy muy agotada.  Wey, no vayas a tomar.  ¿No vas a tomar, verdad?  
+
 — No, Karla. Jajaja.  No.  Lo que quería es ir por un agüita mineral o un café.  Pero si quieres ya mañana en la premiere aprovechamos que estamos de gorrita café.  
+
 — Jajaja, malo.  Está bien.  Ya veremos mañana.
 
 ---
@@ -863,15 +976,15 @@ Sin embargo, ahí estaba.  Frente al espejo, luciendo un vestido elegante para u
 
 En eso, su celular vibró, y encontró un mensaje que la hizo llorar de alegría.
 
-"Amiga, tienes que creértelo.  Eres la mejor.  Y al fin todos lo reconocen.  Nunca pierdas tu brillo. —Karla".
+«Amiga, tienes que creértelo.  Eres la mejor.  Y al fin todos lo reconocen.  Nunca pierdas tu brillo. —Karla».
 
-"Oye, Sara.  No olvides de lo que eres capaz.  Te lo mereces. —Fabián".
+«Oye, Sara.  No olvides de lo que eres capaz.  Te lo mereces. —Fabián».
 
-"Sara, gracias por la invitación.  Te conozco poco, pero estimo tanto a Karla, que me da gusto tu felicidad. —La Tía".
+«Sara, gracias por la invitación.  Te conozco poco, pero estimo tanto a Karla, que me da gusto tu felicidad. —La Tía».
 
-"Sara, ¿va a haber canapés?  Si no, para ir bien comido. —Merino".
+«Sara, ¿va a haber canapés?  Si no, para ir bien comido. —Merino».
 
-"No es cierto, comadre.  Se te aprecia un chingo.  Muchas felicidades.  Y al fin puedo presumir de una conocida que triunfó en Hollywood.  Créetelo.  Eres una chingona. —Merino".
+«No es cierto, comadre.  Se te aprecia un chingo.  Muchas felicidades.  Y al fin puedo presumir de una conocida que triunfó en Hollywood.  Créetelo.  Eres una chingona. —Merino».
 
 Ya era hora.  La limosina esperaba afuera de su casa.
 
@@ -918,6 +1031,7 @@ En eso, la computadora del auto de Karla avisaba:
 "A continuación: Escucharemos La Puerta Negra, con Los Tigres del Norte"
 
 — ¿Es en serio, Karla?
+
 — Sí, wey.  Tú siempre pones la música.  Es mi carro y pongo lo que se me da la gana, ¿cómo ves?
 
 Karla comenzó a cantar de forma desafinada, y acentuándolo en la parte en la que encierran a la muchacha bajo tres candados.
@@ -951,18 +1065,23 @@ Todo fluyó bien.  Pero poco a poco se fueron retirando de la mesa algunas perso
 Karla se quedó con Sara.  Se ofreció ayudarle si quedaba algo más por hacer.  Pero en realidad ya solo era entregar el lugar.
 
 — Tengo que ver si están en la oficina para avisarles.  ¿Me esperas aquí? —preguntó Sara.
+
 — Sin problema, amiga.
 
 En eso, Alejandro se acercó.
 
 — Pedí un Uber, Karla.  Pero nomás no quieren trabajar. —dijo Alejandro.
+
 — Uy sí, qué odiosos.
 
 Alejandro comenzó a sentirse nervioso.  Esas maripositas en el estómago son inconfundibles.  Pero había ensayado todo, y tenía que salir bien.
 
 — Karla, ¿podemos hablar un momento?
+
 — Sí, Alejandro.  ¿Todo bien?
+
 — Sí, Karliux.  Estoy un poquito nervioso nada más.
+
 — ¿Nervioso?  ¿A poco va a regresar Martha?
 
 Ambos comenzaron a reir.
@@ -976,39 +1095,53 @@ Karla comenzó a pensar en todas las posibilidades.  Y de inmediato se encendier
 Karla comenzó a gritar internamente.  Se calmó para no mostrarlo en su rostro, y de inmediato interrumpió.
 
 — Alejandro.  No.  Por favor no hagas esto.  
+
 — ¿Hacer qué?  
+
 — Pedirme eso.  No.  
+
 — Pero en serio, ¿tú no nos ves como algo más?  
+
 — No, Alejandro.  Yo por ti tengo muchísimo cariño.  Mucho respeto por tu oficio.  Eres un gran entrevistador.  Pero no hay manera en la tierra que te pueda ver de otra forma.  
+
 — Pe... pe... pero.  ¿Por qué?  
+
 — ¿Quieres que sea sincera?  
+
 — Tengo miedo, pero sí.  
+
 — Eres una persona que necesita tener el control todo el tiempo.  Y por ese deseo de control te llevas por delante a la gente que te quiere y confía en ti.  A veces haces comentarios que no me gustan.  Y a veces eres incapaz de admitir que te equivocaste.
 
 Alejandro tenía el corazón roto.  Llevaba planeando esto desde el martes en la noche, cuando fueron por el café.  Tal vez se ilusionó de más.  Tal vez pensó que el sentimiento podría ser mutuo.  Tal vez fue un error de cálculo.
 
 — Mira, te digo algo.  Eres capaz de ser un gran hombre.  Una excelente opción de pareja para alguien.  Las últimas semanas antes de lo del sábado habías mostrado una cara que era lo mejor de ti.  ¿A poco no habías notado que hasta estabas relajado?  Eras tú.  Eras aquel con el que conviví antes de entrar al aire en el piloto.  
+
 — Pero, entonces, ¿malinterpreté las cosas? —dijo Alejandro con la voz quebrada.  
+
 — Alejandro, eres mi amigo.  Estaba preocupada por ti.  Me preocupaba que hubieras recaído en el alcohol.  Me preocupaba que te perdieras en tus mismos pensamientos.
 
 — ¿KARLA? —se escuchaba el grito de Sara en el salón.
 
 — Me tengo que ir.  Perdóname Alejandro.  ¿Vas a estar bien para mañana?  
+
 — Si, Karlilla no te preocupes, perdón por el... chascarrillo.  Sí.  Era un chiste.  Perdóname, jajaja.
 
 Esta vez Karla no se rió.
 
 — Nos vemos mañana, Alejandro.  
+
 — Nos vemos, Karlilla.  Perdóname por la broma, jajaja.
 
 Sara se quedó mirando a Alejandro mientras se alejaba.  Karla se acercaba a Sara, y le daba un abrazo sumamente ansioso.
 
 — ¿Qué pasó?  
+
 — Él dice que fue una broma.
 
 ---
 
 — Karla, ¿has sabido algo de Alejandro? No se ha reportado, en cinco minutos entramos al aire. —preguntó Martha.  
+
 — No sé.  Le mandé mensaje hace un rato, y ni siquiera le ha llegado.  Ah, ya le llegó.
 
 "Alejandro, ¿sí vas a venir? Espero que todo esté bien."
@@ -1022,8 +1155,11 @@ Martha se notaba aliviada.  No había lentes oscuros, ni olía a Siete Machos.  
 «Si dice algo de lo de ayer, insiste en que es una broma», pensó para sí mismo Alejandro.
 
 — ¿Por qué no te reportaste antes?  
+
 — No le puse saldo a mi teléfono.  Apenas pude.  Aparte el tráfico estaba espantoso, y ya sabes como es el trolebús.  
+
 — Pues a la otra avisa desde casa cuando salgas para acá. —dijo Martha, visiblemente molesta.
+
 — Salí normal, te lo juro.
 
 Alejandro no mentía respecto al teléfono.  La estación le ha ofrecido una infinidad de veces la posibilidad de pagarle un plan de telefonía móvil, pero él lo ha rechazado.  Para sus adentros, tenerlo así convertiría su teléfono en una especie de grillete.  No es que ahora no lo sea, pero lo sería a mayor escala.
@@ -1035,12 +1171,17 @@ Lo que sí era una mentira es que "salió normal".  Alejandro estuvo toda esa ta
 En ese momento dudaba si era el locutor otrora todopoderoso que tenía a la radiodifusora bajo su merced, o el locutor débil que Esteban le dijo que era.
 
 — En vista de que Alejandro no tiene temas, la dinámica de hoy será open mic.  Traten de hablar de cualquier cosa.  Tomen notas de periódicos, de revistas, etc.  
+
 — Sí sabemos lo que es un open mic —dijo Alejandro.  No hizo ademán de que fuera una broma.
+
 — Ah, bueno.  Entonces ya sabes que hacer —dijo Martha.
 
 — Karla.  Buenas noches.  
+
 — Hola... buenas noches, Alejandro.  Sobre... lo que pasó anoche.  
+
 — No hay que mencionarlo, ¿te parece?  Pero sí tenemos que mencionar lo que pasó en general con la premiere.  ¿Problemas si empezamos con eso?  
+
 — Está bien.
 
 A Karla le dolía la frialdad, pero era lo mejor para los dos.  Karla vio su teléfono, y vio una notificación de hace cinco minutos.
@@ -1048,15 +1189,21 @@ A Karla le dolía la frialdad, pero era lo mejor para los dos.  Karla vio su tel
 "Sí, ya estoy entrando a la estación. —Alejandro"
 
 — Entramos en 5... 4... 3... 2...  
+
 — Buenas noches.  Bienvenidos sean esta noche de viernes 15 de febrero a "Desenfadados", conmigo en cabina el día de hoy.  El único.  El inigualable Alejandro Romero.  
+
 — Buenas noches, mi compañera Karla Villarreal.  
+
 — ¿Así nada más? —bromeó Karla, un poco sorprendida por la frialdad.  Aunque entendía el porqué.  La idea tras la pregunta era hacer un poco menos tenso el inicio del programa.
+
 — Sí. —dijo Alejandro de una forma un tanto cortante.
 
 Fue una fracción de segundo que se sintió como una eternidad.
 
 — Jajaja, no es cierto.  La sorprendente.  La sensacional Karla Villarreal.  ¿Cómo has estado?  
+
 — Creo que ambos hemos tenido días mejores, ¿no?  
+
 — Eso qué ni qué, Karlita.
 
 Alejandro reaccionó.  Profesionalmente era irresponsable dejar tirado o hacer mal el programa.  Necesitó reconectar un poco el chip que tuvo en los días anteriores.  Sin embargo, a Karla sí que le estaba costando un poco más tomar el ritmo.
@@ -1064,22 +1211,31 @@ Alejandro reaccionó.  Profesionalmente era irresponsable dejar tirado o hacer m
 En el primer corte Alejandro platicó de su odisea en el transporte público ese día.  Platicó del accidente que dejó fuera de servicio su Corolla por un rato.  Karla hacía preguntas muy esporádicas, pero casi no lo interrumpió.
 
 — ...y por lo que vi en Twitter, el embudo se desata casi hasta el final de la calzada.  Hablando ya de otros temas, ayer fuimos a la premiere de "Fuego Amigo", les vamos a platicar cómo nos fue y tooooodos los detalles, ¿sí o no, Karliux?  
+
 — Sí, vamos a platicar de la película.  De cómo le fue a Sara, cómo estuvo todo con la prensa.  Y la gala.  
+
 — Ayer, Karla hizo el gran favor de llevarme, precisamente por lo que les platicaba de mi Corolla.  Entonces ella me reclamó airadamente que nunca la he dejado poner canciones.  
+
 — Jajaja. —era la primera risa sincera de Karla en el programa de hoy. — Sí he puesto algunas canciones, pero es raro.   
+
 — Bueno, _mea culpa_.  Reconozco mi equivocación y aquí una ofrenda de paz.  Dime, ¿qué nos vas a poner el día de hoy?  
+
 — Bueno, está bien.  Como es una ofrenda de paz, yo haré lo mismo, y voy a poner una rola que conocí gracias a ti.  Esto es "A-Punk" de Vampire Weekend.  Y la van a escuchar por Rock FM.  La pauta, Alejandro.
+
 — Regresamos después de un corte a Desenfadados.
 
 Ya con el micrófono apagado, Alejandro se acercó y comenzó a decir en voz baja:
 
 — Oye, Karla.  Independientemente de cualquier cosa, siempre hay que mantener el profesionalismo.  Trata de pensar como si realmente no hubiera comentado nada.  Hemos hablado de autorregulación en momentos complicados.  Este es el momento en el que se aplica.  Tú si quieres, imagina que hablas con alguien más, o imagina que me estás matando de catorce millones de formas distintas.  Hagamos el programa como si nada. ¿Va?  
+
 — Está bien.  Trataré. —dijo Karla, mientras reía nerviosamente.
 
 Martha vio esta interacción.
 
 — ¿Qué tanto se están secreteando?  
+
 — Estamos hablando de catorce millones de maneras de aliarnos para quitarte el poder. Jajaja —dijo Alejandro, quién ya en su papel de locutor se comenzaba a sentir más relajado.  
+
 — Y creo que este es el catorce millones más uno en el que no lo conseguimos, jajaja. —dijo Karla.
 
 La plática sobre la premiere no abarcó más de lo necesario.  Hablaron sobre los invitados, sobre los amigos.  "La Tía" entró a cabina a felicitar al Chef y a la organización por tan excelente menú.  Eso bajó bastante la tensión entre Karla y Alejandro para el resto del programa.
@@ -1129,10 +1285,15 @@ Y le respondió el mensaje a Josué:
 En la llamada por Zoom, Sara le preguntó si sabía de alguna manera de saber si una persona mexicana está en Noruega.
 
 — Pues, de buenas a primeras, la única forma es preguntándole a la embajada mexicana.  Creo que ellos tienen un registro de quiénes entran, y quiénes salen.  ¿Es por algún amigo que ya vino para acá?
+
 — Algo así.  Es amigo de Merino.  Tiene curiosidad de saber qué pasó con él. —dijo Sara, quien tuvo que mentir para poder convencer a Josué de hacer la búsqueda.
+
 — Está bien.  Deja hablo con mi contacto en la embajada.  Te dejo, estoy muy cansado del viaje.  Fueron casi veinte horas de vuelo.
+
 — Gracias, Josué.  Te debo varias.
+
 — Con que me aceptaras una salida el día que vengas para acá, o yo vaya para allá, más que suficiente.
+
 — Lo voy a considerar.  Descansa.
 
 Por su parte, Karla y Alejandro hicieron el programa del sábado.  Alejandro estuvo a nada de pedir el día.  No lo hizo por orgullo.  Pero tenía que convivir con Karla, que le resultaba bastante incómodo.  
@@ -1164,8 +1325,11 @@ El miércoles se repitió la rutina. La única diferencia fue que Alejandro lleg
 La pauta del final fue distinta.
 
 — Muchas gracias por sintonizarnos el día de hoy... a ver, Martha quiere decir algo.  
+
 — No falten el día de mañana, amigos.  Habrá una sorpresa.
+
 — ¿Una sorpresa?  ¿Alguna pista? —dijo Alejandro.
+
 — Si doy una pista, ya no sería sorpresa.
 
 ---
@@ -1179,6 +1343,7 @@ Karla y Alejandro ya no convivían fuera del programa.  Cada uno estaba en su mu
 Sin embargo, al no haber pretexto de interactuar antes del programa, no había la necesidad de que se dirigieran la palabra.  Sin embargo, Karla no pudo evitar acercarse al cuarto en el que Alejandro escuchaba su música.
 
 — Chavo, ¿podemos hablar?  
+
 — ¿QUÉEEEEE? —dijo Alejandro. —Oh, lo siento.  Ahora sí lo puse en pausa.  Dame unos segundos.
 
 Karla vio el proceso, mientras su ansiedad se desbordaba por la calma con la que Alejandro se quita los audífonos uno por uno.  Toma una servilleta, los limpia.  Coloca el primero en su cajita.  Coloca el segundo.  Abre el estuche que tiene en la mesa.  Mete los audífonos en el estuche.  Guarda el estuche en su mochilita.
@@ -1188,19 +1353,29 @@ Karla vio el proceso, mientras su ansiedad se desbordaba por la calma con la que
 Karla respira profundamente, para evitar colapsar.
 
 — Bien.  Necesito hablar contigo.  
+
 — Dime para qué soy bueno, Karla.
+
 — Ha estado raro.  Todo esto.  
+
 — ¿Cómo?  
+
 — Pues sí.  No estamos bien tú y yo.  
+
 — Profesionalmente sí.  Hemos hecho nuestra chamba.  Y los programas han estado bien.  No sé qué pienses.
+
 — Sí, pero me gustaba platicar.  Y lo arruinamos.  
+
 — Mira, no te puedo decir cómo sentirte.  En lo personal, te podría decir que lo peor ya pasó.  
+
 — Entonces, ¿reconoces que no fue una broma?
 
 Alejandro sentía que daban vueltas en círculos.  Así que se sinceró.
 
 — Mira, no puedo obligarte a sentir algo diferente a lo que sientes.  Y tú crees que solo somos amigos.  Sí, te soy sincero, me gusta ser tu amigo.  Pero lo que pasó la semana pasada, fue una metida de pata de mi parte.  Te aprecio más de lo que yo mismo pensaba.  Y creo que metí la pata.  En todo sentido.  Por favor.  Dejémoslo así.  
+
 — Está bien.  ¿Estamos bien?  
+
 — No, Karla.  No estoy bien.  No puedo fingirlo.  Pero tenemos que ser profesionales.
 
 Esa conversación rompió un poco más a Alejandro de lo que él va a estar dispuesto a aceptar.  Pero tenía que recuperar la compostura.  En una hora estarán al aire.  Así que saca el estuche de su mochilita, saca la cajita que contiene sus audífonos, coloca el primer audífono en su oreja, coloca el segundo.  Prende el Bluetooth, revisa que hay conexión.  Abre Spotify, y reproduce "Girl, you'll be a Woman Soon" de Neil Diamond.
@@ -1208,6 +1383,7 @@ Esa conversación rompió un poco más a Alejandro de lo que él va a estar disp
 Martha preparó el terreno, los llamó a la cabina para que estuvieran listos a la entrada del programa.
 
 — ¿Pero qué vamos a presentar, si no hicimos nada? —dijo con un poco de premura Alejandro.
+
 — Tranquilo, tú flojito y cooperando. —dijo La Tía, ante la risa de Martha.
 
 — Entramos en 5... 4... 3... 2...
@@ -1265,7 +1441,9 @@ El programa pasó entre más recuerdos y anécdotas.  Contando como es que Aleja
 Extrañamente, cuando salió el nombre de Alfonso hubo una mezcla muy extraña de sentimientos encontrados:  admiración al hablar de sus logros, y decepción cuando terminaron de hablar de él.
 
 — Karlita, te cedo los honores.  
+
 — Muchas gracias por habernos acompañado en esta emisión de celebración de sexto aniversario.  Totalmente sorpresa para nosotros.  Gracias a todas y cada una de las personas que han puesto un granito de arena para hacer grande a Desenfadados.  Se despide Karla Villarreal.  Y del otro lado...  
+
 — Alejandro Romero.  Tengan un excelente viernes.  Mañana no hay programa.  Si todo sale como debe ser, nos tendríamos que ver por acá el sábado.
 
 ---
@@ -1284,34 +1462,48 @@ Alejandro es una persona que vive bien, pero no vive con tantos lujos.  La prueb
 
 ---
 
-En el estudio de Sara, se encontraba escuchando algunos programas de Desenfadados.  El buen ambiente que reinaba los últimos días, hizo que comenzara a escuchar viejos programas.  Podsharing tiene la opción de escoger un programa al azar de un podcast en específico.  Así se encontró con programas del año de 2024.  Y sí, Alejandro era muchísimo más pesado, y Karla parecía que liberaba tensión riendo.  Sin embargo, la química jamás se perdió.  Lo único que pasaba es que Karla se notaba más agotada mentalmente.
+En su estudio, Sara se encontraba escuchando algunos programas de Desenfadados.  El buen ambiente que reinaba los últimos días, hizo que comenzara a escuchar viejos programas.  Podsharing tiene la opción de escoger un programa al azar de un podcast en específico.  Así se encontró con programas del año de 2024.  Y sí, Alejandro era muchísimo más pesado, y Karla parecía que liberaba tensión riendo.  Sin embargo, la química jamás se perdió.  Lo único que pasaba es que Karla se notaba más agotada mentalmente.
 
 Pero algo notó Sara en el programa de aniversario: Karla y Alejandro ya no tenían esa química.  Y al parecer es la única que lo notó.
 
 Justo en ese momento, su teléfono vibró.
 
 — Hola, Karla.  ¿Cómo estás?  
+
 — Muy bien amiga... ¿estás oyendo nuestro programa?  
+
 — Eh... ¿nooo? —dijo Sara, apagando el audio de su laptop.
 
 Karla le preguntó que si quería reunirse con ella.  Sara aceptó, y fueron por un café cerca de la casa de Karla.
 
 — ¿Por qué estabas escuchando nuestro programa? —le cuestionó Karla a Sara.  
+
 — Ah, de inicio eran ruido blanco.  Ahora me considero fan de su programa.  Aunque la verdad soy muy fan de la etapa actual.    
+
 — Sí, también lo creo, Sarigüeya.  Hemos estado muy relajados... al menos hasta antes de la premiere.  
+
 — No me quisiste decir nada.  Pero te conozco.  ¿Qué te hizo Alejandro para que ya ni se quieran hablar?
 
 Karla estaba más asustada que sorprendida.  Sara pudo intuir que la dinámica entre ambos estaba mal con tan solo verlos.
 
 — A veces me das miedo, amiga. —dijo Karla sin ningún tapujo.  
+
 — Perdóname, yo sé que a veces puedo provocar un buen susto sin proponérmelo.  Pero es que es obvio que ustedes no se hablan más allá del programa.  Y hace como un mes, eso me hubiera aliviado, pero ahora que te veo completamente confundida... ya no sé si me agrada.  Pero no evadamos la pregunta.  
+
 — No me hizo nada.  Bueno, no al menos directamente.  Se lo hizo a nuestra amistad.  A nuestra relación de trabajo.  
+
 — Karla, de nuevo, no evadas.  ¿Qué fue lo que te hizo?  
+
 — El jueves pasado, cuando todos se fueron de la mesa, todo estaba bien.  Incluso, cuando íbamos a la premiere, estábamos conviviendo de lo más bonito.  
-— Déjame adivinar, se pusieron a cantar la de Miguel Bosé —dijo Sara, con un dejo sardónico.  
+
+— Déjame adivinar, se pusieron a cantar la de Miguel Bosé —dijo Sara, con un dejo de sarcasmo que apenas y se notaba.  
+
 — Jajaja, me conoces tan bien, pero no fue Miguel Bosé...  
+
 — La Puerta Negra —adivinó suspirando, Sara.  
+
 — Sí.  Esa fue.  
+
 — Eso explica por qué elegiste La Puerta Negra y no Si tú No Vuelves o Amante Bandido —dijo Sara, jugueteando con una cuchara. —Déjame ver si lo entiendo, ustedes dos habían tenido la mejor química de toda su carrera en radio, y se apagó de un momento a otro.  Y lo único que me pudiste decir fue "él me dijo que era una broma".  Y cuando traté de sacarte la información con tirabuzón, no me dijiste nada.  Me dijiste que todo estaba bien.  ¿Te hizo daño?
 
 Karla tragó un poco de saliva.  
@@ -1321,14 +1513,19 @@ Karla tragó un poco de saliva.
 Sara no daba crédito.  
 
 — ¿Gritaste internamente?  
+
 — No tienes idea.
 
 Karla comenzó a llorar.
 
-— El problema es que sí lo estimo mucho, amiga.  Estoy consciente que me trataste de advertir lo peligroso que era, pero nunca pude hacer un espacio para verte.  Te puedo decir que me ha enseñado muchas cosas sobre trabajar en la radio.  Pero es todo lo contrario a Merino.  Alejandro sí busca herir, busca confrontar.  Trata de tener el control todo el tiempo.  Y se lo hice saber.
+— El problema es que sí lo estimo mucho, amiga.  Estoy consciente que me trataste de advertir lo peligroso que era, pero nunca pude hacer un espacio para verte.  Te puedo decir que me ha enseñado muchas cosas sobre trabajar en la radio.  Pero es todo lo contrario a Merino.  Alejandro sí busca herir, busca confrontar.  Trata de tener el control todo el tiempo.  Y se lo hice saber.  
+
 — Bueno, eso sí es algo que me di cuenta.  Tengo que confesarte, amiga.  Tenía mucho miedo que él pudiera hacerte daño.  Hay algo en él que me activó todas las alarmas.  
+
 — Eso no es buena señal.  En la secundaria nunca te falló esa intuición.  
+
 — Sin embargo, muchas de las suposiciones que tenía de él se han ido.  Pensé que te aislaba, pensé que le hacía algo a sus productores.  Muchas cosas.  
+
 — Sabes que a ti sería la primera que le avisaría si me sintiera en peligro.  
 
 Sara comenzó a reir.  Había un pensamiento ridículo que no pensaba guardarse.
@@ -1336,3 +1533,6 @@ Sara comenzó a reir.  Había un pensamiento ridículo que no pensaba guardarse.
 — ¿Sabes qué es lo peor?  Que esta cita no pasaría la Prueba de Bechdel.  Y con eso sé que vale madre ésta conversación.
 
 Karla entendió el chiste, y ambas comenzaron a reir.  Ellas eran el tipo de fans del cine que revisaban si una película pasaba el test Bechdel en la secundaria.  Solo encontraron dos películas que lo hacían en todo el tiempo que lo aplicaron.
+
+---
+
