@@ -45,12 +45,15 @@ Por su parte, Karla sentía orgullo de que Sara al fin estaba haciendo lo que la
 ---
 
 — Se encuentra con nosotros en "Somos Pop y algo más" la dibujante y escritora Sara Herrera. —anunció Martín con emoción.  
+
 — Gracias por la invitación, Martín. —dijo Sara con un poco de nerviosismo.
 
 Para Sara, la exposición pública casi nunca fue un rasgo de su personalidad.  Salvo en la secundaria, nunca le gustó tener los reflectores encima.  Y por eso es que en ese momento estaba batallando con los nervios.
 
 — La mayor sorpresa de todas, es que resulta que eres amiwis amiwis de Karla.  ¿Por qué no nos lo habías contado, Karla Villarreal? —dijo Martín en un tono irónico que incomodó a todos los presentes.
+
 — Es que honestamente, yo no había seguido la carrera de Sara.  Fuimos muy amigas en cierta parte de nuestra vida.
+
 — Es que eso es un error.  ¿Cómo es que le pierdes la pista a una amiga así de talentosa?
 
 Sara notó un poco de incomodidad, y como los ojos de Karla se llenaban de lágrimas.  Merino notó algo y de inmediato le pidió discretamente a Fabián que continuara con la entrevista.
@@ -58,8 +61,11 @@ Sara notó un poco de incomodidad, y como los ojos de Karla se llenaban de lágr
 Por un lapso de dos minutos, Fabián preguntó acerca de la carrera de Sara, y le hizo preguntas puntuales sobre las decisiones artísticas.  Para Sara, responder estas preguntas era algo nuevo.  Tuvo otras entrevistas, donde nadie le preguntaba sobre su arte.  El darle la batuta a Fabián para que hiciera preguntas aligeró el ambiente.  Merino regresó para hacer algunas preguntas.  Preguntas que también eran interesantes para Sara.  Le preguntó de cómo se veía en el futuro, sus influencias literarias y de dibujantes.  Al final Karla le preguntó detalles puntuales sobre la historia y Sara se sintió cómoda respondiendo.
 
 — ¿Está Tabby basada en alguna persona o alguna mascota que hayas tenido?  
+
 — Tabby es una gata calicó, lo cual hace un poco chistoso que se llame Tabby que es como algunas personas "nombran" la raza de los gatos pardos.  Lo que si te puedo decir es que tuve una gatita llamada Teresa, a la cual quise con todo mi ser.  Pero hace poco partió al Valhalla.  Quise reflejar un poco de su personalidad en Tabby.  Marcelus también está basado en un gato que tuve.  Pero Marcelus sí tiene una personalidad extrovertida que no tuvo Rufus, mi gato.  
+
 — Supongo que por eso Martín siempre nos dice que esas decisiones no son casualidad.  Otra cosa, ¿por qué un golden retriever callejero?  
+
 — Una paradoja.  Muchas veces las personas más alegres y las mejores amistades las vamos a encontrar fuera de casa.  Los Golden Retriever tienen una fama de ser muy leales y muy alegres.  Minerva, la paloma, es simplemente esa cotidianidad que dependiendo de como le caigas a la gente te puede ayudar, o te puede lastimar.
 
 Fue una entrevista que salió muy bien.  Merino mandó a corte.  Y una vez que el letrero de "Al aire" estaba apagado, todos bajaron sus hombros en relajación.
@@ -69,6 +75,7 @@ Fue una entrevista que salió muy bien.  Merino mandó a corte.  Y una vez que e
 Karla lloró.  Y aunque Sara siguió pensando que Merino era un patán y que merecía una patada en las bolas, el abrazo genuinamente amistoso de Merino y Karla no pudo más que hacer que se sintiera orgullosa de su amiga, y feliz por el ambiente de trabajo en el que se desenvolvía.
 
 — Gracias por venir —dijo Merino, extendiéndole la mano.  
+
 — Al contrario, gracias por invitarme.
 
 ---
@@ -92,15 +99,25 @@ La estación buscaba un contrapeso inteligente a Alejandro.  Si Alejandro es qui
 Hicieron la prueba con un programa piloto que fue grabado desde la Universidad de la Ciudad, donde Karla y Alejandro estudiaron.  Alejandro estudió periodismo.  Y la química fue algo que a todos les encantó.  No sé cómo describirlo, podría ser como Siskel and Ebert, o como Eduardo Videgaray y El Estaca.  Son parejas que pareciera que se conocen por mucho tiempo, pero funcionan más por la química que hay entre ellos.
 
 — Hola, hola.  Bienvenidos, bienvenidas y bienvenidequis a este su programa del que aún no tenemos nombre.  Con ustedes en este momento al aire Alejandro Romero.  Y conmigo en el estudio se encuentra...  
+
 — Hola, ¿qué tal?  Bienvenidos a este nuevo programa que esperemos que les guste... ¿verdad? —dijo Karla con un dejo de nerviosismo— me da mucho gusto saludarte Alejandro.  En este proyecto completamente nuevo, completamente distinto a lo que cualquiera de los dos veníamos haciendo, verdad.  
+
 — Jajaja, estás un poquito nerviosa, ¿verdad?  
+
 — Para qué te voy a mentir, mano.  
+
 — Vamos a comenzar.  Hace unos días salió el trailer de Spider-Man: No Way Home.  Y nosotros todavía no somos capaces de superar Endgame, ¿verdad, Karlilla?
+
 — Todavía no, Alejandru.  Aunque por lo que platicábamos fuera del aire, fue por razones distintas.
+
 — Así es.  Yo no supero que si a Thanos lo trataron como un héroe trágico, realmente el motivo detrás del viaje de los héroes es el devolver las cosas a como estaban nuevamente.  Con todo y que la misma película le da la razón a Thanos.
+
 — Yo creo que el problema viene desde Infinity War.  Nosotros como espectadores sabemos que Thanos está mal.  Es una tontería acabar con la mitad de la vida.  ¿Por qué mejor no duplicó los recursos?  Peor aún, no hay una discusión seria que intente que Thanos razone por qué está mal.  La película decide que tiene razón y ya.
+
 — A ver, es que Thanos tiene razón.  No hay un argumento sólido de parte de estos pelmazos que lo pueda cambiar.
+
 — Pero sí para que nosotros como espectadores veamos que está mal.  No necesitan convencer al morado este, nos tienen que convencer a nosotros, porque mira, tú sigues pensando que hizo bien. 
+
 — Jajaja, tienes razón.  La película falla en describir porqué Thanos está haciendo lo incorrecto.  Pero mira, Karlita Villarreal defendiendo sus argumentos con más pasión de la que se defendía en su programa anterior.
 
 Un silencio breve, pero incómodo se hizo notar.  Ambos se miraron a los ojos y comenzaron a reir.
@@ -154,7 +171,9 @@ El éxito fue tal que el programa se comenzó a transmitir de martes a Sábado, 
 Otros segmentos igualmente gustados eran entrevistas.  Pero había algo que algunos espectadores no disfrutaban del todo.  A veces algunos comentarios de Alejandro parecían de mal gusto:
 
 — No me gusta como se ve Kanye West en esa foto.  Se ve como que agarró la primera ropa que encontró —dijo Karla.  
+
 — Hay que decirlo como es.  Es un ridículo.  A veces cuestiono que en el afan de verse cool, resulta que alguien del RuPaul Drag Race se ve más masculino que este wey. —comentó Alejandro.  
+
 — Jajaja, yo solo pienso que se le ve mal ese vestido que se puso. —contestó Karla.
 
 Si algo tenían en común él y Merino era esta parte, y Karla lo sabía bien.
@@ -164,13 +183,21 @@ Si algo tenían en común él y Merino era esta parte, y Karla lo sabía bien.
 Un día en "Desenfadados", Alejandro leía una noticia al aire.
 
 — Mira esto, Karla: "Adaptación noruega de novela gráfica mexicana es seria candidata al Oscar y a los Globos de Oro".  
+
 — Uorales, eso suena interesante.  ¿De qué va?  
+
 — Según el artículo del periódico "El Clásico", hay una película noruega que la está rompiendo en festivales de cine en el mundo.  Es un thriller psicológico animado, inspirado en una novela gráfica mexicana.  La película se llama "Fuego Amigo", y trata de un grupo de amigos que son asediados por un asesino, que resulta ser alguien a quien ellos traicionaron en el pasado.  La autora es la escritora y dibujante mexicana Sara Herrera, también conocida por...  
+
 — ¡EL CAMINO DE LOS GATOS!  ¡No lo puedo creer! ¡Es increíble! —gritó con mucha emoción Karla, incluso derramando por accidente un vaso de agua que estaba en la mesa.  
+
 — Karlita, ¡estás muy emocionada! ¡Cuidado con el vaso de agua! ¡No lo vayas a tirar! ¡Jajaja! — dijo Alejandro, quien miró un tanto sorprendido a Karla.
+
 — Es que la autora era una compañera de secundaria y gran amiga.  Incluso por el éxito de "El Camino de los gatos" la llegamos a entrevistar en "Somos Pop y algo más".  
+
 — Oye, ¡qué guardadito tenías que conocías a una autora famosa! La vas a tener que convencer de venir, ¿eh?  
+
 — Es que ella siempre ha mantenido un perfil bajo, pero de verdad estoy muy emocionada por ella.  
+
 — Perfecto, Karlilla.  Vamos a escuchar entonces un tema antes de irnos a corte, la canción es de Vaquero, y se llama "Sunshine", y la están escuchando por Rock FM.
 
 ---
@@ -186,10 +213,15 @@ El ejecutivo le dijo:
 Silencio.  Que se prolongó un poco más de lo esperado.
 
 — Hola, hola.  ¿Cómo estás? —saludó Karla, muy emocionada, del otro lado de la línea.  
+
 — Hola, nena.  ¿Cómo te va?  Un montón de cosas han pasado.  Tenemos que ponernos al día, como la vez anterior.  
+
 — Me encantaría, princesa.  Pero es que en este programa si tengo un poco más limitados los tiempos.  Casi del diario vengo utilizando buena parte del día para la preparación del programa.  Tal vez el lunes, si todo sale bien.  Pero igual, si me esperas el viernes que vengas, podríamos ir a tomar algo.  
+
 — OK, entiendo, no te preocupes.  Nos vemos entonces el viernes, y a ver si hacemos algo. —contestó Sara con un dejo de tristeza.— ¿Está todo bien, Karluchis?  Te oigo un tanto... distinto a la última vez. —preguntó después de una pequeña pausa.  Ni ella misma se podía explicar de dónde salió esa duda. 
+
 — No, princesa.  Todo bien.  Es que muchas veces hay que trabajar mucho más de lo debido, y a veces el cuerpo exige descanso, ¿no?  
+
 — OK, espero con ansias el jueves.  Cuídate mucho.
 
 ---
@@ -197,13 +229,21 @@ Silencio.  Que se prolongó un poco más de lo esperado.
 Los días pasaron rápido, y cuando menos se dieron cuenta, el jueves ya había llegado.  El segmento de Sara estaba cerca, y el programa "Desenfadados" estaba en el segmento previo a la entrevista.
 
 — Ya estamos de regreso en "Desenfadados" —comentó Alejandro, preparándose para leer una nota.  Aunque por un momento, cambió de opinión. — Karlilla, supiste lo que pasó el martes con Luke Williams.  
+
 — Si, Alejandro.  Unas personas grabaron con su teléfono un enfrentamiento que tuvo con la policía.  Con tres agentes de policía específicamente...
+
 — Es que ese wey está bien loquito —interrumpió Alejandro. — ¿Cómo te le pones al tiro a unos agentes de policía?  Eso no lo haces si no estás haciendo algo malo.
+
 — No, Alejandro.  Lo que reportan las personas que grabaron es que Luke sí se puso a la defensiva, pero no tenía nada que pudiera inculparlo.
+
 — Pero, a ver, Karlilla.  ¿Cómo no lo van a querer revisar y catear, si este wey ha sido detenido varias veces por portación ilegal de drogas en Estados Unidos?  
+
 — Sí, Alejandro.  Pero si no tenía nada, también está mal que lo hayan sometido así de violento, que incluso la gente alrededor les pidió a los policías que no fueran tan agresivos.
+
 — Pero yo insisto, la policía nunca te ataca sin razón.  Seguramente este loquito se puso a insultarlos antes de que le respondieran justamente.
+
 — Pues no, Alejandro.  En el video no se ve así.  Pero tienes un punto en que Luke últimamente ha actuado un poco inestable.  Pero nada lo justifica.  
+
 — Pues entonces, en lo que podemos estar de acuerdo, es que estamos en desacuerdo, jajaja.  
 
 Hubo un silencio que se extendió un poco más de lo normal, y después Karla se rió como para seguir el juego.
@@ -231,16 +271,19 @@ Alejandro agradeció su presencia, y Sara se acomodó en su lugar.
 De fondo se escuchaban los aplausos de Alejandro, Karla, Alfonso y el resto del staff.
 
 — Hombre, muchísimas gracias por la invitación.  
+
 — Mira qué guardadito se tenía Karla que era muy amiga de una autora de tal renombre, y aparte tan guapa.
 
 Sara enrojeció levemente de vergüenza, e hizo un ademán que se interpretaba como un agradecimiento.
 
 — Ay, Alejandro, jajaja.  Fuimos amigas en la secundaria, y nos perdimos el rastro por muchos años.  Pero ya estamos platicando más seguido.  
+
 — Qué bárbara eres, Karluchis.  ¿Cómo le pierdes contacto a alguien tan famosa? ¿Qué no la querías? ¿O qué?  
 
 La expresión corporal de Sara era incómoda, al igual que la de Karla.
 
 — Pues es que también.  La vida misma se nos cruza, verdad, Karla —dijo Sara como para romper la tensión que se estaba generando.  
+
 — Sí, es verdad —comentó Alejandro—. Vamos a comenzar con las preguntas, ¿verdad?  Primero que nada: ¿Cómo es que pasas de escribir sobre una gatita a escribir una historia de suspenso?  ¿Qué pasa por la mente de alguien en ese proceso creativo?
 
 Sara respondió con mucha naturalidad.  Hablando acerca de como la pandemia cambió las vidas y prioridades de las personas.  Y al irla viviendo día a día, hacía que ese optimismo se convirtiera en oscuridad que había que canalizar.
@@ -250,7 +293,9 @@ La entrevista pasó por preguntas obvias sobre la historia, de cómo es que se c
 Hay que admitir que Alejandro tenía un buen tacto con las preguntas.  Preguntó sobre la estructura narrativa, referencias cinematográficas y el segmento avanzó con fluidez.
 
 — Tengo una teoría sobre el final —comentó Alejandro en cierto punto—.  Esta no es una historia en la que se hable de un asesino.  Me da la impresión de que es una historia sobre la culpa compartida.  Del como es que sin querer se puede lastimar a las personas, y ese tipo de acciones pesan en el futuro.  A un grado que es imposible de reparar.  
+
 — Wow, ni yo lo había pensado de esa manera.  Si bien es cierto que al final esta culpa no es el centro de la venganza.  Pero para el desarrollo de la historia sí lo es.  
+
 — ¿Y qué te pareció Noruega?  Digo, pudiste conocer incluso a Erling Haaland, jajaja —preguntó Karla.
 
 La superficialidad de la pregunta pareció sorprender a Sara, quién se limitó a hablar de que fue una gira de promoción.  Tuvo la posibilidad de ver a Haaland, y no desaprovechó. 
@@ -262,8 +307,11 @@ Karla preguntó por proyectos futuros.  Nada que Sara no hubiera platicado en ot
 Después de quitarse los audífonos, Karla fue a abrazar a Sara.  Un abrazo que se notó cálido, pero corto.
 
 — Entonces qué, chiquilla.  ¿Si nos vamos por algo de beber, o ya de perdida por unos tacos? —comentó Sara.  
+
 — Me encantaría, preciosa.  Pero es que tengo muchas cosas qué hacer.  ¿Te parece si nos vemos el lunes?  
+
 — Hijole, es que tengo la agenda apretada.  El lunes en la noche voy al canal de Youtube de Merino, y creo que el Domingo me toca entrevista con Fabián.  ¿Te parece si un día temprano?  
+
 — Va que va.  Te aviso, Sarihueya.  Cuídate mucho.
 
 Sara se notaba un tanto triste.  Tenía ganas de convivir con ella.  Pero Karla no pudo.  O no quiso. 
@@ -271,15 +319,23 @@ Sara se notaba un tanto triste.  Tenía ganas de convivir con ella.  Pero Karla 
 ---
 
 — Bueno, hoy sábado aprovecho para comentar algo que estuve discutiendo con algunos ejecutivos de la estación.  Y sí, dije algunas cosas acerca de Luke Williams que no fueron muy del agrado de cierto sector del público.  Así que aprovecho para disculparme por haberlos hecho sentir así.  Si dije algo que estuvo mal, me disculpo.  Somos humanos, cometemos errores y la vida continúa.  
+
 — Lo bueno es que te estás disculpando, wey.  Jajajaja —rio Karla.  
+
 — Jajaja, es que sí, Karlilla.  Yo no dije nada que estuviera mal, este cuate ya se ganó su fama.  Y estamos en un país en el que hay libertad de expresión.  Creo que yo tengo derecho de pensar de esa manera, sin tener que rendirle cuentas a una cultura de la cancelación.  Pero bueno.  "Tenemos que respetar a las personas con problemas de adicción".  
+
 — Wey, ya.  La neta no quiero tomar otro curso de dos horas nada más por tus chistes rancios, jajaja.  
+
 — Pues sí, tienes razón, vamos a dejar este asunto por acá.  ¿Qué te parece si nos vamos con una rolita?  A continuación, escucharemos "We're Not Gonna Take It" de Twisted Sister.  Y regresamos después del corte comercial aquí a "Desenfadados".
 
 Karla escribía un mensaje en Whatsapp para Sara:
+
 — Oye, me comentaste que mañana ves a Fabián.  Me lo saludas, por favor.  Tiene mucho que no hablo con él.
+
 — Está bien, yo lo saludo de tu parte.  ¿Por qué ya no le hablas?
+
 — Realmente no he tenido tiempo.  A veces si termino muy agotada, y pues no he contactado como me hubiera gustado hacerlo.  
+
 — Ah, caray.  ¿Pues cuánto tiempo tienes que no les diriges la palabra?
 
 Sara no respondió.  Pero la respuesta era muy obvia.  Casi cinco años.
@@ -287,6 +343,7 @@ Sara no respondió.  Pero la respuesta era muy obvia.  Casi cinco años.
 ---
 
 — Gracias por venir a este canal, Sara.  Es un honor tenerte por acá.
+
 — El gusto fue mío.  Muy divertida la charla hoy.
 
 Parece broma, pero el regaño de Merino a Fabián en la entrevista con Sara en "Somos Pop y algo más" fue suficiente no solo para que Fabián saliera del closet geek, sino para que abrazara la cultura de manera abierta.  Fabián se reinventó como un reseñador de cómics y películas relacionadas con el tema.
@@ -300,8 +357,11 @@ La transmisión terminaba.  La conversación giró mucho más alrededor de los c
 A Fabián le sorprendió un poco la pregunta, hasta que recordó que Sara y Karla se conocían desde hace tiempo.
 
 — Ah, cierto.  Tú fuiste su amiga en la secundaria.  Pues no recuerdo propiamente.  Todavía me mandó algunos memes y videos chistosos cuando trabajaba de reportera después de la pandemia.  Son como cinco años.  Hace como dos años le mandé un mensaje saludando, porque quería que viniera al canal.  Pero ni siquiera le llegó el mensaje.  En el mejor de los casos, cambió de teléfono.  En el peor, simplemente me bloqueó, jajaja.
+
 — Sí, me imaginé.  Ella te manda saludos.  Pero no me supo responder esta misma pregunta.  En fin.
+
 — ¡Qué buena onda!  Salúdala igual de mi parte.  A ver si la convences que se pase un día por acá.  Extraño a mi amiga.  
+
 — Está bien, Fabián, nos estamos viendo.
 
 Sara regresó a su casa, y abrió un pequeño cuaderno.  En esa página llevaba una lista.  En el último punto escribió con su puño y letra:
@@ -313,39 +373,61 @@ Sara regresó a su casa, y abrió un pequeño cuaderno.  En esa página llevaba 
 Martín Merino pulsaba el botón del mouse, que daba inicio a la transmisión en vivo de ese día lunes.
 
 — Buenas noches, compañeros de tertulia.  Estamos en una transmisión en vivo, con una invitada muy especial.  ¿Cómo estás, Sara Herrera?  
+
 — Buenas noches, Martín.  Un gusto saludarte de nuevo.  Gracias por la invitación.  
+
 — El placer es mío, de verdad.  Tienen que saber, amigos, que al principio Sara y yo no nos llevábamos tan bien.  
+
 — ¿Lo vas a contar, Martín? —preguntó Sara mostrando un poco de vergüenza en el rostro.
+
 — No, quiero que cuentes con brutal honestidad qué pensaste después de esa entrevista.  
+
 — Ay, que pena.  Pero bueno.  Martín no me cayó nada bien, por la forma en la que regañaste a Karlita esa vez —comentó Sara viéndolo juguetonamente con mirada juzgadora.  
+
 — Sí, eso es verdad.  Sin embargo, al final, cuando salimos del aire ese día, te solicité tu número para mantener el contacto.  Pudiste no habérmelo dado, para empezar.  
+
 — La verdad es que tengo que reconocer que cuando vi como corregiste el regaño en el aire, y como te llevabas fuera del aire con tu equipo, te ganaste mi respeto.  
+
 — Sí, no sabes como extraño el programa de radio.  Pero a pesar de todo, gané muy buenos amigos.
 
 La entrevista transcurrió entre referencias a autores de comics, tanto escritores como dibujantes.  Pasando por autores de libros que resultaron en influencias para ambos.  Que hubiera una camaradería de este nivel entre ellos dos puede sorprender a cualquiera.
 
 — Hace poco escuché una entrevista que te hicieron.  Alejandro te hizo una pregunta brillante.  El decía que el tema central del libro es la culpa compartida, aún cuando no resuelve el conflicto del final.  Sin _spoilers_, creo que no es del todo acertado, con todo y que es una observación interesante.  Es más una historia sobre el dolor que puede generar una traición.  Acá lo convierten en un arma muy peligrosa.
+
 — Estoy de acuerdo.  Y de hecho, eres la primera persona que me lo comenta.  Es una observación brillante, porque la traición si deja un dolor muy fuerte.  Pero acá es de forma literal.  Y primero se puede pensar que va de un lado, y al final sale de la persona de mayor confianza.  
+
 — Ahora bien, sí hay culpa, y esto es lo interesante, son sentimientos que están contrapuestos de forma muy sutil.  Es de una brillantez que no pensé que vería a alguien hacer de tan buena manera.  
 
-La plática continuó, hasta que fue el momento de despedir la transmisión.
+La plática continuó, hasta el final de la transmisión.  Una vez fuera del aire, Merino y Sara se relajaron.
 
 — Ay, bendito dios.  Que bonito es platicar contigo, Sara.  
+
 — De verdad el placer ha sido mío.  Creo que da para ir por un cafecito de la calle de López.  Están muy buenos, y sé que te gusta el café gourmet.  
+
 — Paso por ahora, tengo problemas de retención de líquidos.  Perdón de verdad por la imagen mental.
+
 — Jajaja, lo bueno es que avisas.  Oye, necesito hacerte unas preguntas.  Sobre Alejandro.
 
 La cara de Merino lució intrigada por un momento.
 
 — Alejandro.  Ese muchacho... tiene algo.  Me provoca algo que no sé explicar.  
+
 — ¿Verdad que sí? —comentó Sara—. Me ha costado trabajo ponerlo en palabras.  Lo primero que hizo es provocarme un grito interno de cinco minutos cuando quiso hacerse el romántico conmigo.  ¿Qué pedo con ese men?  
+
 — Digo, honestamente a mi no me consta nada.  Es inteligente, hace muy buenas preguntas.  Pero no puedo terminar de descifrar qué hay de raro con él.  Luego, también hay varios rumores extraños sobre su programa.  Por lo que sé los dos primeros productores terminaron renunciando.  Pero hasta donde me han dicho, nadie en el staff ha sabido nada de ellos.  
+
 — ¿En serio?  ¿Y a nadie le ha parecido sospechoso?  
+
 — Por lo que dicen, sus familias fueron las primeras en enterarse que se iban.   
+
 — Wow, hay mucho que digerir por ahora.  Y sobre Karla, ¿has mantenido el contacto con ella?  
+
 — Pues mira, desde que terminó "Somos Pop y algo más", no he vuelto a tener contacto.  Traté de escribirle hace poco, pero no le llegan los mensajes.  
+
 — Es que cambió su número cuando entró a "Desenfadados".  
+
 — Ah, eso explica.  De todos modos, ¿te molestaría pasarme su número?  
+
 — En un momento te mando el contacto.
 
 Esa conversación fue extraña.  Pero una vez que Sara llegó a casa, anotó de nuevo un elemento nuevo a la lista.
@@ -359,7 +441,9 @@ Sara no sabía como comenzar la investigación.  Solo encontró el viejo archivo
 Aunque por curiosidad escuchó los primeros programas.  Una cosa que era obvia es que la química entre Alejandro y Karla era completamente diferente a lo que vio ese jueves que la entrevistaron.
 
 — ... y no te miento si te digo que adoré esa película, Alejandro.  Está muy bonita la dinámica entre los personajes.  Sobre todo ese universo de las almas, el gran antes.  Es hermoso.  
+
 — Estoy de acuerdo, Karliux.  Ha sido una gran sorpresa ver Soul, que no la vi cuando salió.  Hay algo que no me gustó tanto.  Son esos personajes omniscientes que no lo son, que parecen como pantallitas de las viejas macs.  Pero es una cuestión estética que no influye con la trama.  
+
 — Sí, están raros.  Pero la película es muy bonita.  
 
 En ese pequeño fragmento se vieron dos cosas.  Alejandro no era tan incisivo ni tan ácido con cosas que no le gustaban.  Y Karla no se notaba tan estresada.  Se escuchaba alivianada y jovial.  Más a como sonaba en "Somos Pop y Algo más".  Esos programas eran de la tercera semana al aire de Desenfadados..  
@@ -391,33 +475,45 @@ Por más que había un patrón ahí, era difícil para Sara ponerlo en palabras.
 ---
 
 — Tengo que dar una noticia, Alejandro.  ¡Tenemos nueva productora!  Alfonso tuvo una situación familiar y ha tenido que tomar un camino distinto.  De mi parte, todo lo mejor al tío Alfonso, quien fue un gran amigo y un gran productor en este programa.  Bienvenida a "Desenfadados", Martha Gomez.  ¡Y bienvenidos todos ustedes a este programa de martes!  Soy Karla Virrarreal, y conmigo se encuentra.  
+
 — ¡Alejandro Romero!  Gracias por la introducción, Karlilla.  Y bienvenida, Martha a este gran programa que han hecho todos y cada uno de nuestros radioescuchas.  ¡Gracias por seguir con nosotros!
 
 ---
 
 Y es ahí donde entra Alfonso Ruiz.  Regiomontano.  Quizá es el productor con el que más a gusto se ha sentido Alejandro... hasta el día martes, que anunció su renuncia.  Aparentemente Alejandro no estuvo nada de acuerdo con la exigencia de disculpas por los comentarios sobre Luke Williams, y le exigió a la estación la salida del productor.  La triste sorpresa es que Ruiz cerró todas sus redes sociales de un día para otro.  Era muy activo, incluso haciéndola de Community Manager del programa.  Aunque por otro lado, en el programa en vivo el pretexto fue un problema familiar.
 
-Alfonso Ruiz es amigo personal de Martín Merino, así que quizás él pueda preguntarle qué pasó.
+Alfonso Ruiz es amigo personal de Martín Merino.  Sara pensó que quizás él pueda preguntarle qué pasó.
 
 — Martín, buenas tardes.  Habla Sara.  
+
 — Hola, Sara.  ¿Cuánto tiempo sin saber de ti?  
+
 — Hablamos hace dos días, jajaja.
+
 — Sí, es verdad.  Sé para lo que hablas.  Alfonso se fue a vivir a Guadalajara.  Le pregunté exactamente qué pasó.  Y me mandó a la chingada, al igual que a Alejandro y a todos los pendejos de Rock FM.  
+
 — Bueno, va a ser difícil hacer que suelte la sopa.  
+
 — No la va a soltar.  Está muy molesto por lo ocurrido con las pendejadas que dijo Alejandro.
 
 Sara no estaba enterada de este asunto.  Antes de hoy, nunca había escuchado "Desenfadados".  Y el día que fue invitada, no vio el problema con las declaraciones sobre Luke Williams.  También leyó lo que dijo de Kanye West, pero literalmente a nadie le importa lo suficiente Kanye como para querer armar un alboroto a su favor.
 
 — ¿Qué pasó? —dijo Sara.
+
 — Uy, te voy a tener que platicar todo.  Básicamente celebró que la policía torturara a Luke Williams "porque está loquito".  Y que "algo malo tuvo que hacerle a los policías para que reaccionaran así".
+
 — ¡No mames! ¡Es un pendejo!  
+
 — Y eso no es lo peor, hizo unas no-disculpas al aire, y remató poniendo "We're not gonna take it" de Twisted Sister.  
 
 Hubo un silencio como de cinco segundos de parte de Sara.  Como tratando de procesar lo que estaba escuchando.
 
 — Tengo entendido que trataron de regañar a Alejandro por su actitud.  De hecho Alfonso es un pan de Dios.  Rara vez te regaña o te grita.  Pero él mandó a Chingar a Su Madre con mayúsculas a Alejandro.  Alejandro no lo soportó, y puso su renuncia en la mesa si no sacaban de producción en la estación a Alfonso.  
+
 — Es desesperante.  Supongo que la estación prefirió aguantar a un imbécil que perder el rating más grande de la estación.  
+
 — Exacto, pero Alejandro no se fue limpio.  La nueva productora es familiar de uno de los dueños de la cadena radial, y tiene la fama de muy estricta.  Y fue peor, porque la sacaron de su año sabático.  
+
 — Bueno, a como me lo platicas, no es como si no se lo mereciera.
 
 Se despidieron, y para Sara, ahora el patrón más claro es el conflicto.  Al parecer, Alejandro requiere tener el control dentro y fuera del programa para conservar su poder.
@@ -425,9 +521,13 @@ Se despidieron, y para Sara, ahora el patrón más claro es el conflicto.  Al pa
 ---
 
 — Empezamos en 5... 4... 3... 2... —anunció Martha.  
+
 — Estamos de regreso en Desenfadados, a través de Rock FM.  Alejandro, ayer tuve el chance de ir al cine a ver "La gran rodada", un intento más del estudio Gary Productions por competirle a los grandes.  Y si te soy honesta, tiene pinta de que sí podrían.  Se quedó a nada de acompañar a "Fuego Amigo" en la lista de nominadas en los Óscars.  
+
 — ¿Qué nos cuentas al respecto Karlilla?  Yo ya la vi, pero quiero escuchar qué piensas.  
+
 — Estoy un poquito sorprendida, la película es muy divertida.  Hay un monólogo del villano casi al final que lo sentí como ese discurso de Gru, cuando le dice a los Minions que no tienen dinero.  Solo que en villanezco real, y funciona, pero no a ese nivel.  Me gusta el estilo artístico, como videojuego con cell shading.  O 2.5D cómo he escuchado que le dicen.  
+
 — ¡Uhlalá, señora francesa!  Desde que te reencontraste con Sara, ya hasta te sabes el tipo de animación de las películas.
 
 — Sí, ya sabes.  Me gustó que la voz en inglés de Larry, el protagonista es de Wizz 2F —dijo Karla esperando un comentario ácido sobre el actor-rapero.  
