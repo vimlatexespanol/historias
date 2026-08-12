@@ -2876,8 +2876,260 @@ Lilia me preguntó acerca de los sueños.  Y le comenté que a veces me muestran
 
 Aunque al menos el martes la cápsula no me rechazó.
 
-—Supongo que es porque te faltaba algo —dijo Lilia, haciendo un guiño con el ojo.
+—Supongo que es porque te faltaba algo... o alguien —dijo Lilia, haciendo un guiño con el ojo.
 
 Sé que lo decía en tono de broma, pero ahora estoy convencido de que tiene razón.
 
 Terminamos de comer, pagué y fuimos al OXXO por café, refresco, agua y botanas.  Todo lo necesario para una maratón de películas de sábado.
+
+# 54
+
+El lunes llegamos Lilia y yo al laboratorio.  Ya nos estaban esperando Ernesto y Gustavo, que estaban jugando Yu-Gi-Oh, para variar.  Romina y Temo también venían llegando juntos. Ellos dos se veían apesadumbrados, y bostezaron.
+
+Luis se acercó a mi, y me comentó que tuvo un sueño.  Esta vez la cápsula se abría cuando llegamos a cierta frecuencia.  Pero que por más que intentó, no pudo visualizar el número. Sin embargo, el resultado era doloroso físicamente.  Despertó sudando, y con ansiedad física a todo lo que da.
+
+—Pero tú, ¿estás bien?
+
+—No como quisiera, pero me siento mejor.
+
+El que se veía mal, era David.  Tenía ojeras, un paso muy lento y una pesadez en el cuerpo que me hizo pensar en que el hombre no durmió en todo el fin de semana.  Tenía una bebida energética en la mano.  Y las llaves del laboratorio en la otra.
+
+—¿Qué tienen de días? —gritó, como si alguien de nosotros lo hubiera saludado.  —Jajaja, deberían de ver su cara.  Como pueden ver, no dormí.  Necesito que repitan el fenómeno con esta piedra de cuarzo, este trozo de hierro, y esta lombriz de laboratorio.  Yo regreso a mi cubículo.  Si alguien pregunta por mí, díganle que no estoy en mi cubículo.  Voy a tratar de dormir.
+
+—¿No cree que es algo cruel usar una lombriz para el experimento? —dijo Romina.
+
+—Sí.  Pero no se me ocurre qué otro material orgánico podemos usar.
+
+—¿Tal vez una planta? —dijo Gustavo.
+
+—Mañana será con una planta.  Buenas noches.  Bueno, no.  Buenos días.  Se van a la hora de la salida, como siempre —dijo David.
+
+---
+
+Todo salió normal.  O tan normal como pudiera ser posible.  El cuarzo no resistió la vibración y se reventó.  Lo cual creo que rompe el mito de que los cuarzos repelen las malas vibras.
+
+El hierro simplemente se comportó diferente por un momento, según en analizador de espectros.  Pero siguió igual.
+
+Y la lombriz... bueno...
+
+Comenzamos con el experimento, en las primeras frecuencias, y no hubo mayor cambio.  Se movía normal.  Poco a poco se fue aumentando la frecuencia, y se le notaba estresada.  Cuando llegamos a cierta frecuencia, no pudimos evitar notar una rigidez extraña en la lombriz. 
+
+—¡Apáguenlo ya! ¿No están viendo? —gritó Romina, muy preocupada.
+
+La lombriz no sobrevivió.
+
+Todos terminamos confundidos y cansados.  Sin mayor molestia física.  Pero creo que acabábamos de cruzar un límite que no habíamos contemplado.
+
+---
+
+Al final del día Lilia, Romina, Gustavo y yo fuimos al cubículo de David, para entregar el reporte y las llaves.  Tocamos su puerta.
+
+—¡Ya les dije que no hay nadie! 
+
+Los cuatro nos observamos mutuamente.
+
+—¡Es broma! ¡Pasen! —dijo David.
+
+David se sorprendió al ver que estábamos los cuatro.  Pero todos nos encontrábamos preocupados.
+
+—A ver, a ver.  ¿Qué pasa? —preguntó David.
+
+—Pasa que la lombriz murió —le dijo violentamente Romina a David.
+
+—Oh, lo siento —alcanzó a decir David. —Supongo que no usaremos más seres vivos en los experimentos.
+
+—El problema no es ese —dijo Gustavo. —El problema es que las vibraciones afectan a seres vivos.  Eso quiere decir que las molestias que tuvimos en días recientes...
+
+—...fueron por la cápsula. Sí —interrumpió David.
+
+—No creo que podamos seguir permitiendo que esto siga deteriorando nuestra salud —dijo Lilia.
+
+—No, de hecho no. Tomen nota de las frecuencias que los afectan.  Ese número es nuestro límite máximo.  No podemos arriesgarnos a causar más afectaciones de salud —dijo David.
+
+—Necesito que nos garantice que va a cuidar nuestra salud si quiere que continuemos.  Y que ya no va a comprometer la vida de ningún ser vivo —dijo Romina.
+
+—Está bien.  Prometido.  De hecho solo nos quedaría una semana para encontrar la frecuencia...—David se detuvo, como si hubiera dicho algo que no debía aún.
+
+—¿La frecuencia de qué, David? —pregunté.
+
+—No, de nada en particular.  Olvídenlo.  Les prometo que esta semana ya no habrá seres vivos.  Aunque necesito que se utilice una planta.  Mañana les indico.  Tranquilos, la planta no puede morir con las vibraciones —dijo, como si necesitara aclarar ese punto.
+
+—Los demás no están aquí porque tenían clase en su maestría.  Pero dalos por enterados —dije. 
+
+—Está bien.  Pásenme el reporte, y nos vemos mañana... válgame Dios, ¿qué día es mañana? —preguntó David.
+
+—Martes —dijo Lilia.
+
+—Sí, martes.  Hasta mañana. 
+
+# 55
+
+David entró en el laboratorio bastante más relajado.
+
+—¿Qué tal muchachos? El decano de física, que es un horrible dictador no me pudo prestar al becario que necesitamos para el proyecto.  Pero aquí está un buen amigo, Rafa.  Que nos va a ayudar con el circuito —dijo David.
+
+—Ese mi _Deivid_, ¿cómo vas, perrito? —dijo Rafa.
+
+—Oh, esto es parecido a lo que ya vivimos.  Supongo que esto es un sueño. ¿Qué hay, Rafa? —dije, al darme cuenta que es una escena parecida al día que Rafa llegó al laboratorio.
+
+— Tú, cabrón. ¡Te perdiste, culero! ¿Cómo te va...?
+
+—... Bien.  Por favor no digas nada de las clases que das, ni que éramos chingones. Me da gusto verte de nuevo.
+
+—Sigues siendo igual de raro —dijo Rafa.
+
+—¿Ustedes se conocen? —preguntó Ernesto.
+
+—Sí, larga historia.
+
+El cuarto comenzó a vibrar, en el mismo nivel que la primera vez que entramos al laboratorio.  Lo recordaba menos molesto.
+
+La intensidad subió.  Y me mentalicé.
+
+—¡Tengan cuidado! —gritó David.
+
+—Creo que ya sé lo que hay que hacer.  Rafa, lo que sea que se acerque, entras primero —dije.
+
+—Sí, lo tengo.
+
+La cápsula de nuevo me eligió.  Esta vez nadie del grupo salió del laboratorio.  Todos parecían estar tomando notas del experimento.
+
+La cápsula abrió.  Se transformó de nuevo en un microbús. 
+
+—Después de ti. Así va —dije.
+
+—Sale pues —respondió Rafa.
+
+Ya no escuché a mis viejos amigos de ingeniería gritar.  Llegué al lugar de la extraña noche. Y de nuevo vi el puente.  Con Malamente de fondo.
+
+—Recuerda bien —dijo Rafa.
+
+En efecto, decidí recordar la primera vez que oí Malamente.
+
+—¿Qué es eso? —dijo Ernesto, y los vi del otro lado del puente.
+
+Cerré los ojos, y recordé lo que dijo Romina.
+
+—No critiques, y solo fluye con la música.
+
+Hice el ademán de surf que ella hizo con la mano.  Y de pronto todo desapareció.  Quedé en medio de una nada.  Luminosa.  Blanca.
+
+Y se materializó un bar.  Recordaba esa tarde.
+
+—¿Verdad que es difícil hacer una imagen del pasado? —dijo Rafa.
+
+—¿Qué? ¿De qué chingados estás hablando? —le respondí.
+
+—Ya estás bien pacheco, Rafa.  Ve nomás las mamadas que dices —dijo Roberto.  Uno de mis amigos en la Universidad, cuando estudiaba ingeniería.
+
+—Sí, no.  No dejen que ese güey se fume otra —dijo Pablo.  Quién también era uno de mis amigos.
+
+Era una escena del sexto semestre.  Era uno de esos momentos que estaba muy sepultado en mi memoria.
+
+Me es difícil explicar cómo es que veo este recuerdo, pero yo estaba viéndo al joven Edgar sentado, tomando con sus amigos.  Como si por un momento nada más importara en la vida. Excepto que sí.
+
+—Solo a ustedes se les ocurre traer porro —dijo "El Físico".  Le llamábamos de esa manera porque eligió estudiar la ingeniería con la esperanza de encontrar un lugar en la carrera de Física en CU.  Menuda ironía que él sí terminó sus estudios en ICO.
+
+—Y aparte, Pablo, no mames.  ¿Estás resolviendo tu tarea de Sistemas y Señales aquí en el bar? —reclamó "El Físico".
+
+—¿Qué tiene? Aparte acá Edgar nos puede ayudar, ¿no? —dijo Pablo, haciendo cuentas en la calculadora.
+
+—Pues, si quieres.  Pero yo no me concentro aquí.  Aparte, tu despeje está mal.  La doble u debe de pasar dividiendo —dije.
+
+—No, menso, no es una doble u.  Es una omega minúscula.
+
+—Pues por eso.  Está mal despejada —dije.
+
+La noche avanzaba, y eran las 7 de la noche.  Ya nadie iba a regresar a sus clases. 
+
+—Güey, ¿por qué siempre te cotizas? —dijo Roberto, dirigiéndose a mi.
+
+—¿Cotizarme?
+
+—Sí, cabrón. Nunca nos dices cuáles son tus clases, siempre te andas escondiendo. ¿Quién te hizo tanto daño?
+
+—Nadie.  Es solo que, cargo con muchas inseguridades.  En mi casa me exigen, y al mismo tiempo me ponen trabas.  Güeyes, siento que esto de la ingeniería no es lo mío.
+
+Aunque estaban borrachos, todos se me quedaron viendo.
+
+—Al contrario, pendejo.  Tú eres buen pedo, y le sabes un chingo a las mates.  Y a la programación.  No siempre podemos estar contigo, pero siempre que lo necesites, hacemos huequito y te apoyamos... Espera, ¿pinche Rafa se durmió?
+
+Sí, Rafa se durmió.  Era una mala idea el porro.
+
+—Tal vez se te olvida, puto. Pero tú nos salvaste en la pinche optativa de redacción.  Todos estábamos de la verga, menos tú.  Y eso se paga, cabrón.  Te debemos varias.  
+
+Ahora recuerdo que no les tuve confianza, porque es verdad, sí nos apoyábamos mutuamente.  Pero si estaban por reprobar, tomaban caminos interesantes para poder pasar.  Trabajos extra, tareas extra, ayudar a los profesores a calificar cargas de exámenes pesadas e incluso invitarles botellas de alcohol a los profesores.  En efecto, en la UM somos unos ñoños.
+
+Saliendo del bar tomé el microbús que me llevaría a casa con mis papás.  Sabía que me esperaba un regaño de mi mamá.  Pero no importaba.  La pasé bien.
+
+Antes de subir, Rafa me alcanzó a gritar algo que no recordaba de la historia.
+
+—Edgar, todavía te falta un paso más.  Recuerda que tienes que comprender que las malas decisiones ya forman parte del pasado.  Lo que queda es tratar de reparar lo que se rompió, y tomar mejores decisiones en el futuro.  Cuídate, y nos vemos.
+
+—¿Ven? ¡Sí está bien pacheco! —dijo Pablo.
+
+Desperté.  Era como si algo dentro de mi necesitara escuchar ese mensaje.  Por primera vez después de un sueño relacionado con la cápsula, sonreí.
+
+# 56
+
+David se veía más descansado al siguiente día.  Y no, no era un déjà vu.  Después de dormir todo el día anterior en su cubículo estaba incluso hasta sonriendo.
+
+—Buenos días, tórtolos.  Feliz martes —saludó David.
+
+—Buenos días, David —le contestamos Lilia y yo.
+
+—Se te ve contento hoy, David. ¿Todo bien? —preguntó Lilia.
+
+—Pues sí, todo bien.  Creo que soñé con la frecuencia que estamos buscando.  Pero en el subconsciente es muy difícil visualizar letras y números.  Pero recuerdo que era algo como diez, equis punto equis.  Como esto:
+
+```
+10x.x
+``` 
+
+Lo escribió en la puerta del laboratorio.
+
+Eso básicamente nos da cien posibles frecuencias.  Podríamos revisar la mayoría en dos días.
+
+—¿Qué soñó exactamente? —preguntó Lilia.
+
+—Que experimentando con la planta que les dije, llegábamos a esa frecuencia, y la puerta se abría.  Ya no necesitamos la planta.  Por lo que dice Edgar, estos sueños tienden a ser avances de lo que va a pasar —respondió David, con una sonrisa muy marcada en el rostro.
+
+Lilia me miró con preocupación.  Yo solo pude corresponder la mirada.
+
+---
+
+Comenzamos con la primera frecuencia posible en ese rango:
+
+100.0
+
+No pasó nada.  Seguimos con 100.1.
+
+Cada cambio se llevaba aproximadamente quince minutos.  Si hacemos todo como corresponde, probablemente estaremos obteniendo la frecuencia a más tardar para el viernes.
+
+Lilia y Gustavo me mandaron un mensaje de WhatsApp discretamente.
+
+```
+GRUPO ULTRASECRETO DEL LABORATORIO C-036
+
+Lilia: Necesitamos verte tan pronto como sea posible.  Por favor, veámonos en un café fuera de CU.
+
+Gustavo: ¿Y si mejor nos vemos a la salida?
+
+Lilia: Por eso, Tavo. 
+
+Lilia: Sí. Nos vemos a la salida, entonces.
+
+Edgar: OK. ¿No era mejor ir al café a la salida en vez de todo este secretismo?
+
+Gustavo: Estoy de acuerdo.
+
+Lilia: No los vuelvo a invitar a nada ¬¬ 
+```
+
+---
+
+No conseguimos ninguna frecuencia que valiera la pena, pero todos estábamos irritados.  Particularmente Luis, que ni siquiera aceptó ir por snacks, como en otras ocasiones.
+
+Nos quedamos en la frecuencia 104.2 
+
+Avanzamos bastante más de lo esperado.
