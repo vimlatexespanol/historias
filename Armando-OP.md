@@ -8,7 +8,7 @@ Conocí al Profesor Armando cuando estaba terminando mi carrera.  Me faltaban lo
 
 El profesor Armando es uno de esos profesores elocuentes, que tienen un gran cariño por su profesión, y que no dejan indiferente ni a aquellos alumnos que odian la materia.  Ese curso me costó sangre, sudor y lágrimas, pero pude aprobarlo.  Unos años después, le recordé que fui su alumno, y solo me recordó cuando le hablé de mi proyecto final.
 
-— Ah, ya me acordé.  Recuerdo que salió todo extraño, pero era muy original.  Por eso aprobaste— . Recordó el profesor Armando.
+—Ah, ya me acordé.  Recuerdo que salió todo extraño, pero era muy original.  Por eso aprobaste —recordó el profesor Armando.
 
 En un lapso relativamente corto después de terminar mi carrera, conseguí trabajo como profesor de mi universidad.
 

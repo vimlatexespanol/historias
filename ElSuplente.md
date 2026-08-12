@@ -32,6 +32,7 @@ Solo alcancé a ver cómo es que Domínguez regateó al arquero y empujó la pel
 Ganamos 3-2, en el último minuto.
 
 —¿Entrenador? ¿Lo vio? ¡Es el mismo regate de nuestro Domínguez! —dijo Gonzalo, con emoción. Justo cuando terminaba el partido.
+
 Quise correr a abrazar a este nuevo crack. En toda mi vida como jugador nunca había presenciado un acto como ese. Había algo que me parecía familiar en él.
 
 Alcancé a ver como me miraba a los ojos, y algo cambió. El entrenador le hizo una seña. Y Domínguez se fue. Justo después de darnos el triunfo.

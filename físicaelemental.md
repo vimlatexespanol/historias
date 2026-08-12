@@ -2701,3 +2701,183 @@ Y de un momento a otro, ya estábamos platicando como si nada hubiera pasado.
 El día fue largo, pero nada fuera de lo normal.  Las perillas de PANEL también funcionaban como una perilla de radio analógica, para sintonizar una frecuencia, solo que esta vez se trataba de la frecuencia de vibración emitida.
 
 El equipo fluyó como antes de nuestra discusión.  Sin afán de sonar exagerado, algo provoca en los demás cuando estamos juntos.  No sé si ganas de matarnos, o calma.  Aunque al menos en el laboratorio era una calma temporal.
+
+# 51
+
+El martes llegó rápido.  Las primeras frecuencias del día lunes eran tan pequeñas que no se notaban en el ambiente.  Trabajamos con frecuencias ultrasónicas, y realmente no estaban provocando ningún efecto en el ambiente.
+
+El día de hoy David llegó con unas indicaciones.  Íbamos a probar los efectos de ciertas frecuencias sobre algunos materiales.  Una barra de carbón, un huevo cocido y una barra de aluminio.  Sinceramente pensé que estaba haciendo una broma, pero cuando no sonrió todos nos dimos cuenta que iba en serio.
+
+Seguiríamos probando frecuencias ultrasónicas, y utilizaríamos un analizador de espectros para revisar cualquier anomalía.
+
+Gustavo dijo algo que al principio no le dimos mucha importancia.
+
+—Hay unos datos en las gráficas que no corresponden a los parámetros brindados.
+
+—¿Qué pasa, Gustavo? —dijo Luis.
+
+—Sí, las gráficas están indicando que los parámetros son incorrectos —remató Gustavo.
+
+—¿Y qué sugieres? ¿Crees que haya que ajustar los parámetros?
+
+—No lo sé.  Hay algo que no cuadra.  Podría ser que la frecuencia no vibra al mismo parámetro que tendría que vibrar.
+
+No sé si era por el estrés o el tiempo que hemos estado juntos en el laboratorio encerrados haciendo lo mismo día tras día, pero no lograba entender a Gustavo.
+
+Seguimos trabajando con las frecuencias, pero ni Ernesto, que era quién mejor sabía usar el analizador de espectros, ni Lilia encontraron nada fuera de lo común.
+
+Gustavo insistió varias veces con los datos de las gráficas, hasta que vino David para preguntar qué era lo que veía.
+
+—Acuérdate, Gustavo que estamos trabajando con unos datos con un margen de error pequeño.  Esto debería ser suficiente para eventualmente obtener los resultados que necesitamos —dijo David.
+
+—Sí, pero hay algo raro en la gráfica que pude imprimir.  Algo no cuadra.
+
+Revisamos la impresión con la inconsistencia que nos indicó Gustavo.  Y nadie del equipo más que él podía señalar cuál era esa falla.  Geométricamente seguía siendo un campo de ecuaciones diferenciales, pero no podía notar ninguna anomalía.  Dentro de lo visible, la familia de funciones que Gustavo decía que era incorrecta mantenía un patrón ordenado.
+
+Mientras discutíamos la anomalía que Gustavo encontró, Ernesto notó un cambio en la barra de carbón.  Nada grave, pero sus propiedades físicas cambiaron levemente.  Es diferente a la resonancia mecánica que conocemos.  Que sería un efecto parecido al de un diapasón sobre el aire.
+
+Realizamos la anotación, hasta que pasó lo mismo con el huevo, y después con la barra de aluminio.
+
+—Es un no metal, un metal y un material orgánico.  Quiere que probemos distintas frecuencias, pero sigo sin entender el objetivo.  Y sin saber por qué estamos haciéndolo con el error de calibración —dijo Gustavo.
+
+Una vez que tuvimos listo el reporte, apagamos el dispositivo, y algo que noté es que todos se quejaron de un leve dolor de cabeza durante todo el proceso.  Cosa que le avisaría a David. 
+
+—Bien, ya estamos más cerca de completar el proyecto.  Mañana haremos lo mismo con diferentes frecuencias y materiales —comentó David.
+
+—Oye, y respecto a las leves jaquecas...
+
+—Sí, no te preocupes.  Es un efecto colateral de trabajar con vibraciones.  No pasa nada —respondió David. —Los veo el día de mañana que es martes.
+
+—Miércoles, pero sí.  Nos vemos mañana, David.
+
+—Antes de que te vayas, ¿entiendes lo que Gustavo indica?  Sinceramente no lo sé.  Y si lo supiera, no hay manera que detengamos el proyecto en este punto.  Descansa.
+
+—Tú también descansa, David.
+
+Me despedí de Lilia.  Esa noche, cada quién dormiría en su casa.
+
+# 52
+
+—Bueno, compañeros, el día de hoy Martes...
+
+—Miércoles —acoté.
+
+—Sí, miércoles... Les decía, el día de hoy repetiremos el experimento.  Esta vez con una moneda de cobre, una aspirina y una patita de puerco que venden en los kioskos —dijo David.
+
+—¿No pudo encontrar algo orgánico de mejor calidad? —preguntó Romina.
+
+—Intenté.  Pero era lo que estaba a la mano.  Ni modo —respondió David.
+
+De nuevo sintonizamos la primera frecuencia que se probaría sobre la moneda de cobre.  Lo extraño fue que la vibración no se sintió que fuera dirigida a la moneda, sino que la cápsula comenzó a vibrar.  La luz subía y bajaba de intensidad, como en un estrobo.
+
+Y de repente David gritó:
+
+—¡Tengan cuidado!
+
+La cápsula volvió a acercarse a mí.
+
+—No otra vez, ¡maldita sea! —grité.
+
+Vi entrar a Rafa al laboratorio.  La cápsula de nuevo se había convertido en un microbús, al cuál entró Rafa.  Escuché los gritos de mis amigos de la Ingeniería nuevamente pidiendo que subiera.  Esta vez con un tono de camaradería, sin urgencia alguna.
+
+Decidí subir.
+
+De nuevo, Malamente de Rosalía de fondo.  Todo era un puente en una noche rara.  Comencé a cruzar el puente.  Vi como el microbús cruzaba el puente.  Eso era nuevo, y lo vi porque me quedé parado en el puente, pensando en que si trataba de cruzarlo iba a comenzar a pandear.
+
+—¡Acuérdate, güey! ¿Qué pasó la primera vez? —alcancé a escuchar la voz de Rafa.
+
+Pude pensar cuando Romina puso esa canción en la bocina.  Pero todo era nebuloso. 
+
+Empezó a temblar, al ritmo de las vibraciones de la... ¿cápsula? ¿microbús? No lo sé.  Y el puente se cayó.
+
+Desperté.
+
+---
+
+—¿Alguno de ustedes soñó algo raro? —pregunté.
+
+—Pues yo tuve un sueño raro, pero creo que fue porque comí mucho.  No es buena idea atragantarte de ramen picante —dijo Ernesto. —Soñé que reprobaba el examen que hicimos ayer, Edgar.
+
+—OK, eso es más un sueño por exceso de comida —dijo Lilia.
+
+Nadie más respondió.
+
+David entró por la puerta del laboratorio.
+
+—Bueno, compañeros, el día de hoy Martes...
+
+—Miércoles —acoté.
+
+—Sí, miércoles... Les decía, el día de hoy repetiremos el experimento.  Esta vez con una moneda de cobre, una aspirina y una patita de puerco que venden en los kioskos —dijo David.
+
+—¿Es neta? ¿Otra vez? ¿En serio? —dije mientras gritaba internamente.
+
+—Bueno, lo de la pata de puerco es broma.  ¿O no?
+
+---
+
+El resto del día transcurrió prácticamente igual que el día anterior.  Afortunadamente los dolores de cabeza no regresaron.  Pero Lilia, Romina y Gustavo reportaron mareos leves. 
+
+Los resultados fueron semejantes.  Hubo una frecuencia que modificaba las propiedades físicas de los materiales sin modificarlos.  Y lo anotamos en el reporte.
+
+# 53
+
+Pasaron varios días, con experimentos en diferentes sustancias químicas. Los síntomas del equipo ya no eran una novedad.  Pero variaron entre ansiedad manifestada en forma física, dolores de cabeza, pesadez y mareos leves.  Ninguno de los síntomas era lo suficientemente fuerte como para que alguien quisiera detenerse.
+
+Eso significaba una de dos cosas.  O éramos fuertes, o éramos muy tercos.
+
+Finalmente llegó el viernes, y al fin podríamos pasar el fin de semana juntos Lilia y yo.  Ya estábamos tan estresados que aunque ocupáramos toda la tarde-noche del domingo para los pendientes de la maestría, era un alivio llegar al fin de semana.
+
+El sábado en la mañana fuimos a la fonda de Doña Francisca.
+
+—¡Jóvenes! ¡Buenos días! ¡Pensé que ya no la iba a ver de nuevo, güerita!
+
+El rostro de Lilia estaba rojo, como un jitomate, y solo alcanzó a reír con un poco de pena.
+
+—Afortunadamente ya está de regreso después de un fin de semana que no me toleró, jajaja —dije.
+
+—Edgar, ¡no! Jajaja
+
+—Doña Francisca, quiero un pollito con mole y un cafecito de olla, por favor.  ¿Tú qué vas a querer, amor?
+
+—Quiero un café con leche, y un huevo ranchero, por favor.
+
+—Enseguida, jóvenes.
+
+Lilia y yo comenzamos a platicar, sobre la maestría.  De cómo es que de cualquier modo, prefirió estudiar partículas subatómicas por encima de la mecánica cuántica, porque no le gusta tanto el enfoque estadístico y de imprecisión que llegá a tener ésta última.
+
+Yo le dije que era lo mío, por todo lo que me fascina la ciencia ficción.  Pero que también podría haber estudiado astrofísica igual que Luis.  Me gusta todo lo que tiene que ver con el espacio.
+
+Justo en ese momento, salió el tema.
+
+—Me llamó la atención lo que dijo Gustavo.  No le entiendo mucho, porque en las gráficas veo la familia de gráficas correspondiente —comenté.
+
+—Creo que lo que quiere decir es que él esperaba otro tipo de familia de gráficas.  Pero no sé.  Parecen funciones polinómicas, y no sé si Gustavo esté esperando funciones periódicas —contestó Lilia.
+
+—O sea, ¿crees que tenga que ver con la aproximación y el no tener la función de parametrización exacta?
+
+—Yo lo veo probable.
+
+Me quedé pensando.  Tal vez Lilia tenía razón aquella vez.
+
+—Por otro lado, tú tenías razón en que debíamos continuar con el dato numérico.  De esta manera, quizá se confirme nuestra teoría —dijo Lilia.
+
+—¿No crees que David tenga que saberlo?
+
+—Él sabe mucho más de lo que nos quiere decir.  Y tú lo sabes.
+
+En eso llegó la comida.
+
+—Buen provecho —exclamó Doña Francisca.
+
+---
+
+Lilia me preguntó acerca de los sueños.  Y le comenté que a veces me muestran cosas del pasado, a veces cosas que ocurrirán al día siguiente o en unos días.  Que en mis sueños relacionados a la cápsula se espera que haga una acción relacionada con los estímulos que hay alrededor.  Pero que siento como si me hubiera atorado en el último sueño.
+
+Aunque al menos el martes la cápsula no me rechazó.
+
+—Supongo que es porque te faltaba algo —dijo Lilia, haciendo un guiño con el ojo.
+
+Sé que lo decía en tono de broma, pero ahora estoy convencido de que tiene razón.
+
+Terminamos de comer, pagué y fuimos al OXXO por café, refresco, agua y botanas.  Todo lo necesario para una maratón de películas de sábado.
