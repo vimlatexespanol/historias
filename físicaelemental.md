@@ -394,7 +394,7 @@ Quedo al pendiente de su respuesta.
 
 ---
 
-De: David Martínez <decano.fisica@unal.mx>
+De: David Martínez <decano.fisica@unal.mx>  
 Para: Edgar Mendoza
 
 Edgar, soy David Martínez.  Ya me presenté en el otro correo.
@@ -1199,7 +1199,7 @@ Es gracioso que considerara que no hay nada más que ver.  Ni siquiera tengo ide
 
 —¿Lo ves? Lilia entiende lo ridículo que eres. JAJAJAJAJAJA —dijo Luis mientras comenzaba a besarse de forma grotesca con Lilia y con Romina a la vez.
 
-—Estás muy mal, morro.  Mejor ya déjanos trabajar a gusto a los que sí sabemos crear circuitos. —enunció Ernesto.
+—Estás muy mal, morro.  Mejor ya déjanos trabajar a gusto a los que sí sabemos crear circuitos —enunció Ernesto.
 
 Todo el grupo formó un círculo y me señaló con el dedo, mientras reían burlonamente.
 
@@ -3108,7 +3108,8 @@ Cada cambio se llevaba aproximadamente quince minutos.  Si hacemos todo como cor
 
 Lilia y Gustavo me mandaron un mensaje de WhatsApp discretamente.
 
-```
+---
+
 GRUPO ULTRASECRETO DEL LABORATORIO C-036
 
 Lilia: Necesitamos verte tan pronto como sea posible.  Por favor, veámonos en un café fuera de CU.
@@ -3124,7 +3125,6 @@ Edgar: OK. ¿No era mejor ir al café a la salida en vez de todo este secretismo
 Gustavo: Estoy de acuerdo.
 
 Lilia: No los vuelvo a invitar a nada ¬¬ 
-```
 
 ---
 
@@ -3133,3 +3133,274 @@ No conseguimos ninguna frecuencia que valiera la pena, pero todos estábamos irr
 Nos quedamos en la frecuencia 104.2 
 
 Avanzamos bastante más de lo esperado.
+
+# 57
+
+El café estaba casi vacío.  No había más que otras dos personas sentadas en mesas distintas.  Y ahí estábamos Lilia, Gustavo y yo.
+
+La noche era lluviosa, y tenía que agradecer que Gustavo recién se había comprado un automóvil.  Yo no me animaba por el financiamiento, y que sentiría que todo el trabajo se va entre auto y renta del departamento.
+
+La plática inició sobre cómo nos fue en la maestría, como si estuviéramos dejando el tema de fondo para el final.
+
+—Díganme, ¿para qué soy bueno? —pregunté.
+
+—Hay algo que queríamos platicarte —respondió Lilia.
+
+—Lilia es la única que me entendió de lo que vi mal en el proyecto.  Aunque nunca pensé que iba a estar relacionado con su observación —dijo Gustavo.
+
+—¿De qué observación hablamos? —pregunté.
+
+—Sobre lo que estaba mal en el modelador —respondió Gustavo.
+
+—Pues en efecto, Gustavo estaba esperando ver un campo de funciones periódicas, y la aproximación es una función polinomial de séptimo grado —acotó Lilia.
+
+—Correcto.  No podía ponerlo en palabras, porque en cierto punto las gráficas se comportan de forma similar.  Pero entre más nos alejamos del marco de referencia...
+
+—Más probabilidades hay de cometer un error —dijo Ernesto, quien apareció de pronto.
+
+—OK. ¿Qué haces acá? —pregunté.
+
+—Vine por un café.  Y su plática se escucha desde la entrada.
+
+—Sí, como les decía, jamás vuelvo a organizar un grupo de WhatsApp —espetó Lilia, con resignación.
+
+Continuamos un poco la plática, repasando la aproximación polinomial, la cual se puede hacer aplicando cálculo diferencial, si conocemos la función principal, o con métodos numéricos, si es que no la conocemos.
+
+Creo que ya sabía a lo que querían llegar, o ya estaban llegando.
+
+—Pues hemos estado tratando de formar un patrón de qué tipo de función tenemos, y es una función bastante más compleja de lo que esperábamos.  Ninguno de mis colegas atinaba a decir qué función puede ser.  Así que aplicamos algo parecido a mezclar métodos numéricos con cálculo.  Y obtenemos una función con la que podríamos intentar calcular los parámetros originales —explicó Gustavo.
+
+—O sea, sacaron la función original, o una aproximación usando funciones periódicas.  El margen de error es casi cero, ¿cierto? —dijo Ernesto.
+
+Lilia y Gustavo asintieron.
+
+—Vamos a seguir trabajando en esto, mañana es probable que tengamos los parámetros correctos —dijo Lilia, quien se notaba más relajada después de la explicación.
+
+—OK.  Creo que de cierta manera necesitábamos usar la función numérica para comenzar con el experimento.  Pero quizás con lo que encontraron ustedes, podamos darle fin —comenté.
+
+Y sí.  El fin del proyecto ya se sentía cerca.  Pero lo que también sentía era un leve mareo, del cual no le quise comentar a nadie.
+# 58
+
+Venía saliendo de una clase de Electricidad y Magnetismo Elemental y había que hacer toda la preparación teórica para una práctica de laboratorio.  Y sentía una pesadez extraña.  Sentía que estaba en modo automático. 
+
+Sin problemas entendía lo que la profesora estaba explicando.  Pero no me sentía yo mismo.  Es como si estuviera dentro de la cabeza de alguien más.  Anotando en el cuaderno por inercia.
+
+Platiqué esto con Ernesto, que era mi compañero en esa clase.  Él me comentó que tuvo los mismos síntomas la semana pasada, cuando comenzamos con a experimentar con las vibraciones.  Formábamos parte de un equipo para realizar un reporte para la clase de Computación Cuántica, así que me puse al día con el tema.  
+
+A veces para poder cumplir con el trabajo y con la maestría, uno asistía a la clase que el otro no, y de esa manera nos poníamos al corriente más rápido.
+
+Una vez que la puesta al día con la maestría terminó, Ernesto se ofreció a llevarme a mi departamento en su automóvil.  Me preguntó si ya me sentía mejor.
+
+—Más o menos.  Parece que ya soy yo de nuevo.  Pero por un momento me sentí como si fuera alguien más, como si estuviera observando lo que hace alguien más en primera persona —le respondí.
+
+—Está feo.  Pero de momento no queda más que aguantar.  David insiste en que solo es esta semana, y terminamos con ese proyecto —dijo Ernesto.
+
+Lo cuál me hizo pensar que cuál sería el siguiente paso con David ahora que estamos tan cerca de terminar este proyecto, que era la razón por la que estábamos aquí.  Era una pregunta que tendría que hacerle a David la próxima vez que lo vea.
+
+Llegamos a mi departamento, y le agradecí a Ernesto por el aventón.  Esa noche no me sentía bien para viajar por metro.
+
+---
+
+Todos los miembros del equipo estábamos adentro del laboratorio C-036.  David dio indicaciones para continuar con la prueba de las frecuencias.
+
+Me acerqué discretamente para preguntarle acerca de nuestro futuro una vez que terminara el proyecto.
+
+—Tranquilo, mi pequeño saltamontes.  No hay más pasado, presente, ni futuro que importe una vez que el proyecto esté terminado.  Los alcances de este experimento rebasan toda lógica humana —dijo David.
+
+—...y de todos modos no eres capaz de explicar cómo es que funciona —dije, con confusión.
+
+—Sí, pero eso no importa.  Lo que importa son los alcances.  Pueden estar tranquilos por sus empleos.
+
+De pronto, la cápsula empezó a vibrar, distorsionando hasta la visión frontal de cada uno de nosotros.  Alcancé a ver a David corriendo tras la cápsula, que parecía alejarse como si tuviera vida propia.
+
+Recordé que el mismo David decía que la cápsula lo rechazaba.  Esta era la muestra visual.
+
+—¡Tengan cuidado! —dijo David.  Claro, para variar era un sueño.  No sabía que esperar.
+
+La cápsula se colocó enfrente de mi.  Como siempre.  Se abrió la compuerta, y decidí entrar.  Como si fuera una escena de película, pude ver como entraron uno a uno el resto de mis compañeros, a excepción de David.
+
+El escenario cambió.  Estaba en la UM.  Saliendo a toda velocidad del cubículo del profesor Cortés.  Con los puños apretados, y sintiendo en el pecho la peor de las traiciones.
+
+Era diferente a como lo recordaba... excepto que no creo que fuera el momento que pensé que era.
+
+—Luis, ¿cómo está eso de que no te intentaste meter en Sociología Política?
+
+—Me acordé anoche, y no pude.  Mejor me registré a Argumentación y Conocimiento —me respondió Luis.
+
+—¿En el mismo grupo de Lilia? ¿Y me vas a dejar solo en la optativa de sociales? —pregunté.
+
+—No, ese grupo tiene muchas solicitudes.  Busqué uno un poco menos lleno.  Y no vas a estar solo.  Creo que Ernesto y María van a intentar entrar.
+
+—Bueno, ya es algo.
+
+—¿Por qué estás tan enojado? —preguntó Luis.
+
+—No lo sé.  Siento como si esto lo recordara... diferente.
+
+Todo esto lo veía como si fuera una película.  Recordaba la pequeña discusión por la optativa de sociales, pero no era capaz de recordar por qué salí molesto de la oficina de Cortés.
+
+—Hola, chicos. ¿Cómo están? —preguntó Lilia.  Sí, ya recordé.  Ese día me enteré que Cortés era su tutor.  De verdad no soportaba la idea de compartir hasta el tutor con Lilia.
+
+—¡Hola, Lilia! —saludó Luis de forma entusiasta.  Nunca lo noté, pero se estaba derritiendo por ella.
+
+—Lilia, ¿qué tal? —saludé como si se tratara más de un compromiso que por gusto.
+
+—Edgar, me da gusto verte. ¿También eres hijito de Cortés? Somos hermanos los tres. ¿No te da gusto? —dijo Lilia.  Tratando de hacerme la plática.
+
+—Eh, sí.  Es increíble lo pequeño que es el mundo.
+
+—¡Somos hermanitos! —dijo Luis con entusiasmo.  
+
+Ahora me duele un poco el hecho de nunca haber notado que trataba de que Lilia y yo fuéramos amigos mutuos.  Ni que Lilia estaba interesada en formar un lazo amistoso.  Porque seguramente mi yo del pasado estaba pensando en mil maneras de escapar de ahí, o estaba enojado por ser «hermanitos».  Ya no lo recordaba.
+
+Escuché una voz en lo más profundo de mi mente. «Ups, no. Me equivoqué.  Pero ahora sí, solo te queda un último paso»
+
+Desperté.  
+
+---
+
+Eran las seis de la mañana.  Tomé el teléfono y le marqué a Luis.
+
+—Hola, Luis. ¿Cómo estás?
+
+—Bien. ¿Pasa algo? —preguntó.
+
+—No.  Pero viejo, lo siento mucho.  Perdóname por no haberme dado cuenta que tú...
+
+—¿Qué? ¿De qué hablas? No tengo nada de qué disculparte. ¿Estamos bien?
+
+—No lo sé —respondí—. ¿Quieres pasar al Starbucks antes de llegar al laboratorio?
+
+—Creo que mejor a la hora de la salida, ¿va?
+
+# 59
+
+Ya era jueves.  El miércoles avanzamos un poco más lento, precisamente por los pequeños mareos que sentíamos.  Compramos unas cajas de dimenhidrinato para combatir los mareos y náuseas que llegábamos a sentir.
+
+David revisó que tuviéramos listo el equipo de seguridad necesario para continuar con el protocolo. Cosa que ha hecho sin falta desde el día uno.  De cierta manera, desde el inicio del trabajo si nos comentó, aunque muy como pié de página que habría una probabilidad de malestares físicos.  Lo más fuerte ha sido el sangrado de la nariz que tuvo Luis, mi disociación del día anterior, y la de Ernesto.  Pero al menos yo le pedí a Ernesto que no platicara mi caso con nadie más.
+
+La frecuencia con la que terminamos el día anterior era 107.2, por lo cuál tendríamos que sintonizar el 107.3 para poder continuar.  Sí, Temo y Romina hicieron el chiste esperado:
+
+—¡La Zeta!
+
+En la Ciudad de México, hay una estación de Radio en el 107.3, que se llama justamente "La Z".
+
+Los mareos eran cada vez mayores.  Ese día, incluso fuimos directo con David para avisarle que era poco menos que imposible seguir.  Nuestro horizonte fue el 107.9, con el cuál llegamos casi a la hora de la salida.
+
+David nos dijo que estaba bien.  Que descansáramos. Nos dio permiso de tomarnos el día siguiente.
+
+—Sí, nos vemos... eh... ¿Mañana es viernes, Lilia?
+
+—Sí, David.  Es viernes.
+
+—¡Genial! ¡Recuperé la noción del tiempo! —dijo David—. Nos vemos el lunes.
+
+---
+
+Luis y yo fuimos a un Starbucks, cercano a la Ciudad Universitaria.  Cuando íbamos en la UM, a veces íbamos por un café o chocolate caliente a una cafetería cercana.  Recuerdo que él me dijo un día algo como: «Un día, deberíamos de ir a un Starbucks».
+
+Ese era nuestro día.  Para ser honestos, me gustaba más el ambiente del café en el que nos reunimos Lilia, Gustavo, Ernesto y yo.
+
+—Antes que nada, Luis, ¿has tenido alguna molestia en general a raíz de los experimentos?
+
+—No.  Más allá de los mareos y de aquella vez que me sangró la nariz.
+
+—OK, nada grave de momento —anoté en una libreta.
+
+Él pidió un café latte descafeinado y deslactosado.  Yo simplemente un capuccino vainilla.
+
+—¿Por qué me llamaste tan temprano? Sé que te interrumpí, ¿pero qué es lo que quieres que te perdone? —preguntó Luis, quien en sus ojos tenía un dejo interrogativo y confuso.
+
+—Mira, me ha costado trabajo perdonarte por el proyecto de la Feria de la Semana de la Ciencia.  Ya pasó algo de tiempo.  Incluso ninguno de los dos ganó.
+
+—Lamento haberte excluído, de verdad.  Sólo fue un afán competitivo, torpe e innecesario.  Y de todos modos hubiéramos perdido...
+
+—...espera, ¿tú también crees que ese software nos ganó bien?
+
+—Pues... sí.  Los jueces y los químicos de la sala lo vieron con sumo interés —dijo Luis.
+
+Eso es algo que estuve aprendiendo en esos días.  Por mi preocupación sobre lo que va a pasar en el futuro, terminaba cegado a lo que pasaba en el presente.  Soy el único que no entendió por qué nos ganó el software de laboratorios de química.
+
+—Perdóname por haber sido tan ciego, Luis.  Te perdono por no haberme metido en el proyecto, pero necesito decirte que de verdad lamento mucho no haber visto todas las señales de que te morías por ella.
+
+—Eh... sí.  Pero también es mi culpa.  Nunca le dije nada.  Y no tanto por pena.  De cierta manera sabía que tú le agradabas más.  Y por eso mi esperanza era que hicieran migas.  ¡Amistad!
+
+Sí, Luis a veces era tan raro como Gustavo socialmente hablando.  Y luego recuerdo que yo también soy igual de ñoño.
+
+—O sea, sí, Luis.  Pero tú te morías por ella.  Y de todos modos al final hicieron su proyecto juntos.  Y ni así le pudiste decir, jajaja
+
+—Nada de sal en la herida, güey —dijo Luis, con un poco más de resignación que molestia.
+
+—Lo siento —dije.
+
+—No sé por qué nunca agarré el valor para decirle.  Pero una vez, ella me dijo que no entendía por qué te alejabas cada que ella se acercaba.  Fue cuando propuso que te agregáramos al proyecto.  Y ahí entendí todo.  Me sentí muy molesto. Sí, en ese momento tu ansiedad me preocupaba, pero a veces creo que es lo que hace que te enfoques en las cosas.  Por lo que es más fácil que tú puedas liderar el proyecto, en vez de nosotros dos.
+
+—Siento que no hago nada, jajaja —le dije.
+
+—Es que creo que solamente tú eres el único que se ha dado cuenta de lo que eres capaz.  La competencia ridícula que tenían ustedes dos la empujaba a mejorar, y también te empujó a mejorar a ti.  Y no veías que ella no lo hacía para hacerte menos, sino para que la notaras.
+
+—Oh... bueno, ahora la noto.  Viejo, lo siento.
+
+—No hace falta que te disculpes.  Somos amigos.  Y a ella la quiero mucho.  Y por eso sé que si está feliz contigo, no tengo que preocuparme de nada.
+
+No supe que responder.
+
+—Eso sí, lastímala, y te mato.
+
+---
+
+Salí de la clase de la maestría, y fui a buscar a Lilia en su salón, para preguntarle si quería quedarse en mi departamento desde ese día, hasta el lunes.  Me dijo que sí.
+
+El metro estaba casi vacío.  Pudimos estar solos, en completa calma.
+
+—Oye, perdón por ser un completo tonto contigo en la UM —dije.
+
+—Eso ya está perdonado.
+
+—Perdón por ser tan ciego.
+
+—También está perdonado.  Y antes que digas otra cosa, quiero mucho a Luis, pero era mi hermanito.  De tutor, pero en algo lo era.  No podría haberlo visto de otra forma por más que lo intentara.
+
+Atinó a responder la pregunta correcta de la forma adecuada.  Eso creo.
+
+# 60
+
+Sí, invité a Lilia a mi casa.  Al menso se me olvidó que todavía debía de llevar un avance de investigación para la maestría.  Después de mucho pensarlo, me compré una Thinkpad de segunda mano, modelo T430 a la cual le instalé Debian Sid.  Para tenerla lo más al día posible, usando una base bastante estable.  Lilia me dijo que no entendía por qué le quité el Windows, pero que mientras me sintiera cómodo, todo estaba bien.
+
+El Celeron lo adapté como pequeña consola multimedia.  En los próximos meses, lo fui a vender a la plaza de la computación, algunas partes aún eran útiles.
+
+Comencé a redactar mi reporte, y en menos de una hora estaba listo.  Lilia decidió acompañarme y subimos al metro, subimos al JaguarBus, y llegamos a la Facultad de Física.  Por fuerza de costumbre casi voy al laboratorio C-036, pero Lilia me recordó que tenía que ir al edificio E.  Ella tenía sus pendientes para el lunes, así que creo que podía tomarse estos dos días para descansar, para estresarnos el Domingo.
+
+Tuve la curiosidad de pasar al edificio E para saludar a David.  Esta vez nos detuvo la secretaria para avisarnos que estaba en junta de consejo. Creo que esa fue la razón por la que descansamos ese día.  Quise ver si alguien más estaba en alguna de sus clases, pero todos prepararon su horario para no tener clases en viernes.  Excepto Ernesto, pero ese día no asistió.
+
+Así que tomamos el metro de regreso a mi departamento.
+
+---
+
+Lilia y yo dormíamos, y de la nada, escuché como su respiración se agitaba.
+
+—Lilia, estoy contigo —alcancé a decirle.
+
+Despertó.  Estaba sudando, con un leve dolor en el pecho.  Le pregunté que si todo estaba bien.
+
+—Soñé que estábamos en el laboratorio.  La cápsula se colocaba enfrente de nosotros dos. Yo entré primero, pero todo se distorsionaba.  Creo que debí dejar que tú entraras primero.
+
+—Tranquila, todo va a estar bien —dije.
+
+—¿Cómo sabes? —me preguntó.
+
+—He estado teniendo sueños como ese recurrentemente.  Lo que esperan de ti es que lleves a cabo una acción específica.  Es como un juego de video... pero... bueno, no es algo sencillo para mí de explicar.
+
+—¿Como un juego? O sea, ¿espera que interactuemos con el entorno?
+
+—Pues espera una reacción concreta, o al menos así ha sido conmigo.
+
+—No me habías dicho que habías pasado por esto en días recientes —dijo Lilia, con un dejo de reclamo.
+
+—No.  Porque el resultado fue... extrañamente satisfactorio.  Tuve un recuerdo de ingeniería, y otro de cuando estábamos en la UM.
+
+—Entonces, por eso me preguntaste.
+
+—Sí.
+
+La acaricié por un rato, hasta que se tranquilizó.  Pudimos volver a dormir.  Un día agitado, a pesar de no haber trabajado en el laboratorio ese día.
