@@ -3389,7 +3389,7 @@ Despertó.  Estaba sudando, con un leve dolor en el pecho.  Le pregunté que si 
 
 —¿Cómo sabes? —me preguntó.
 
-—He estado teniendo sueños como ese recurrentemente.  Lo que esperan de ti es que lleves a cabo una acción específica.  Es como un juego de video... pero... bueno, no es algo sencillo para mí de explicar.
+—He estado teniendo sueños como ese de manera recurrente.  Parece que lo que esperan de ti es que lleves a cabo una acción específica.  Es como un juego de video... pero... bueno, no es algo sencillo para mí de explicar.
 
 —¿Como un juego? O sea, ¿espera que interactuemos con el entorno?
 
@@ -3399,7 +3399,7 @@ Despertó.  Estaba sudando, con un leve dolor en el pecho.  Le pregunté que si 
 
 —No.  Porque el resultado fue... extrañamente satisfactorio.  Tuve un recuerdo de ingeniería, y otro de cuando estábamos en la UM.
 
-—Entonces, por eso me preguntaste.
+—Entonces, por eso me ibas a preguntar sobre Luis.
 
 —Sí.
 
