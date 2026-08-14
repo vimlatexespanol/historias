@@ -1636,3 +1636,22 @@ Karla entendió el chiste, y ambas comenzaron a reir.  Ellas eran el tipo de fan
 
 ---
 
+Los programas de sábado eran principalmente musicales.  La mayoría de las veces, en el proceso creativo se turnaban una canción cada uno.  Ponían una canción al inicio del segmento, leían una nota o discutían temas al azar.  Los programas de sábados eran de los que menos audiencia tenían, pero eran de los más buscados en plataformas de podcast.
+
+Hay listas de reproducción en Spotify creadas por fans del programa que tienen las canciones que ponen en el programa.  Los géneros que más se reproducen son surf, rockabilly, rock alternativo y pop.
+
+Como la preparación en sábados era mínima, era común que tanto Karla como Alejandro llegaran a la cabina cinco minutos antes de entrar al aire.  Karla llegó media hora antes.  Para ser un sábado de quincena, el tráfico estaba muy tranquilo.
+
+Dos minutos antes de iniciar el programa, tanto Karla como Martha recibieron un mensaje en WhatsApp.
+
+«Me surgió un inconveniente personal. No voy asistir al programa —Alejandro».
+
+Alejandro solo faltó una vez que tuvo un choque cuando iba de camino al programa.  Karla sí llegó a faltar algunas veces por enfermedad.  Pero hubo ocasiones que incluso con fiebre de por medio, Alejandro llegaba a la cabina.
+
+—Esto no es normal. Ha venido con muletas de una caída en las escaleras —dijo Karla.
+
+—Pues no.  Te va a tocar entrar sola —respondió Martha.
+
+Matías, al escuchar la situación, se ofreció a co-conducir el programa por el día de hoy.  Martha le dijo que si no tenía problema, adelante.
+
+Y así fue, la primera emisión de Desenfadados con Karla Villarreal y Matías Fernández, alias "La Tía".

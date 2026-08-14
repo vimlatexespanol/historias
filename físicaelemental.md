@@ -1513,7 +1513,7 @@ La cara de Gustavo fue... extraña.  Ese hombre siempre ha sido un enigma.  Pero
 
 El semblante de David lucía incómodo.
 
-—Yo participé en la más reciente actualización del proyecto.  Al igual que a ustedes, los científicos que trabajaron anteriormente en este dispositivo dejaron unos planos que lo hacían ver como ustedes los de computación ven una función en un programa a la que no pueden acceder, pero saben qué datos de entrada requiere, y qué datos de salida arroja.  De nuevo, les mentiría si les digo como funciona.  Lo único que sé es que cada generación que le ha aportado algo, lo ha acercado a lo que las personas que lo crearon buscaban.  Pero por primera vez, puedo ver como este proyecto podría llegar a su término.
+—Yo participé en la más reciente actualización del proyecto.  Al igual que a ustedes, los científicos que trabajaron anteriormente en este dispositivo dejaron unos planos que lo hacían ver como una especie de caja negra, con datos de entrada y salida.  De nuevo, les mentiría si les digo como funciona.  Lo único que sé es que cada generación que le ha aportado algo, lo ha acercado a lo que las personas que lo crearon buscaban.  Pero por primera vez, puedo ver como este proyecto podría llegar a su término.
 
 Tenemos una cápsula que no sabemos lo que hace, que no podemos manipular, que teorizamos que se mete con el subconsciente y los recuerdos de quienes la manipulan.  Me aterra la insistencia con la que David sigue escarbando en un proyecto que ni él entiende.
 
@@ -3404,3 +3404,129 @@ Despertó.  Estaba sudando, con un leve dolor en el pecho.  Le pregunté que si 
 —Sí.
 
 La acaricié por un rato, hasta que se tranquilizó.  Pudimos volver a dormir.  Un día agitado, a pesar de no haber trabajado en el laboratorio ese día.
+
+# 61
+
+El lunes regresamos con nuevos bríos al laboratorio.  Gustavo primero, y Lilia después solicitaron permiso para ausentarse por unas horas del experimento.
+
+Comenzamos a configurar la frecuencia en PANEL a 108.8, y al hacer funcionar el equipo por completo, fue algo completamente insoportable.  Sentía náuseas, malestar físico general, dolor de cabeza.  El malestar fue tal que decidimos parar.  No había manera que pudiéramos avanzar sin que el malestar nos permitiera seguir.  Romina estaba harta, me pidió que la acompañara con David, pero al comenzar a caminar sentí una migraña muy severa. 
+
+Al ver mi estado, Ernesto por un lado, y Luis del otro me ayudaron a caminar.  Temo observó a lo lejos, mientras todos íbamos al cubículo de David.
+
+Una vez ahí, Romina fue la primera en hablar.
+
+—No podemos seguir así, David.  El experimento nos está haciendo daño.
+
+—¿Qué pasó ahora? —preguntó David.
+
+—Los mareos son más intensos. El dolor de cabeza ya degeneró en migraña para mí —dije.
+
+—Esto es malo.  Pero estamos tan cerca —dijo David.
+
+Por primera vez vi a David con dudas acerca de continuar o no.  Escuchamos como es que Gustavo y Lilia solicitaban entrar.
+
+—Adelante —dijo David.
+
+Lilia y Gustavo entraron al laboratorio.  Notaron la molestia general manifestada en molestia física en los miembros del equipo. 
+
+—Continuaron con la experimentación, ¿cierto? —preguntó Gustavo.
+
+—Sí, pero no hay manera que volvamos a entrar ese laboratorio e intentar una frecuencia más —dijo Romina.
+
+—David, necesitas ver esto —dijo Lilia.
+
+Lilia le mostró un reporte a David.  En éste reporte se encuentra una función con exponenciales, senos y cosenos.  Es una función continua que al sustituir los parámetros de entrada iniciales no proporciona ningún margen de error.  
+
+—¿Ustedes dos hicieron esto? —preguntó David.
+
+—No sin ayuda de unos compañeros de la maestría de Matemáticas —aseveró Gustavo.
+
+—Bueno, creo que después me pasas su contacto para ingresarlos en la lista de personas que colaboró con el proyecto —mencionó David.
+
+—¿Y qué vamos a hacer entonces? ¿Se informó el incidente de la muerte del gusano? —preguntó Romina.
+
+—Sí, se informó en el momento.
+
+—¿Y por qué no se detuvo el proyecto?
+
+—Porque la Comisión de Seguridad e Higiene lo calificó como un incidente menor.  Y más a raíz del estado tan avanzado del proyecto de investigación —respondió David.
+
+—Lo que podríamos hacer por ahora es ajustar los parámetros.  Si con eso ya no hay síntomas, podríamos probar de nuevo las frecuencias —dijo Lilia.
+
+David se detuvo a pensar por un momento.  Nos observó.
+
+—OK.  Me parece.  Tomen un descanso.  Nos vemos mañana.  Por cierto, ¿dónde está Temo?
+
+—No lo sé, lo perdimos de vista —respondió Romina, quien parecía más tranquila con la explicación de David, y el reporte de Lilia y Gustavo.
+
+Tendríamos que esperar hasta el día siguiente para verificar si esta función obtenida por Gustavo y Lilia era suficiente para poder continuar con el experimento.
+
+# 62
+
+Gustavo y Lilia me trajeron a mi departamento.  La migraña disminuyó mucho cuando salimos de la facultad.  Algunos quizás lo consideren exagerado, pero la migraña a veces no te deja ni caminar de lo intensa que es.  La hipersensibilidad a la luz paraliza.  Y lo más desesperante fue que necesité ayuda para poder caminar al cubículo de David.
+
+Me preocupaba mucho el futuro del proyecto.  Me preocupaba si es que podríamos conservar nuestros empleos después de todo esto.  Yo sin problemas podría sobrevivir enteramente con la beca, ahorré suficiente dinero para estudiar la maestría.  Pero mis compañeros no estaban en la misma situación.  Gustavo, Ernesto y Luis se compraron un auto con financiamiento, más lo que paguen de renta, probablemente estarían en el límite o tendrían que vender su auto para poder continuar con su maestría.
+
+Lilia podría sobrevivir, sus papás podrían ayudarle temporalmente.  Romina está en una situación similar.  De hecho ella me dijo que pensaba iniciar un proyecto como _freelancer_.  Y me invitó a colaborar una vez que todo termine.
+
+Temo era un enigma.  Nadie supo de él desde el momento que fuimos al cubículo con David.
+
+—No te preocupes demasiado.  No sé si tengamos trabajo después de esto, pero hemos salido de situaciones más complejas, Edgar —dijo Lilia, tratando de tranquilizarme.
+
+—Tengo mis maneras, Edgar.  Estaré bien —dijo Gustavo.
+
+Se quedaron conmigo un rato, estuvimos viendo un poco de televisión.  Me sentí mejor.
+
+Les agradecí por traerme, y les recordé que ambos tenían clase, y tenían que regresar.
+
+—Sí, ya nos vamos, papá —exclamó airadamente Lilia —.  En un rato vengo para acá, ¿eh? De mí no te libras tan fácil.
+
+—Nos vemos mañana, me avisan por teléfono como está todo.
+
+Ambos se fueron.  Yo, no sabía si trataría de dormir, avanzar con mi proyecto de maestría, o ver unos cuantos vídeos de chismes en Youtube.  Eso es lo que me ha dejado el tener una Smart TV en mi sala desde que comencé a salir oficialmente con Lilia.
+
+Terminé viendo chismes, arrepintiéndome los días siguientes por no haber avanzado con el proyecto.  Y luego dormí un rato.
+
+Lilia llegó, y se acurrucó a mi lado.  Un día casi perfecto, pese a todo.
+
+---
+
+—Muy bien, paren todo.  El jugar a los experimentos aquí se acabó —dijo un tipo trajeado, que decía ser de la Comisión de Seguridad e Higiene.
+
+—No pueden hacer esto.  Ya estamos bien.  La cápsula funciona bien, y no se manifiesta ningún síntoma —dijo David.
+
+—Bueno, pues un pajarillo muy cantor nos dijo lo contrario.
+
+—¿Seguros que son autoridad ustedes? —reclamó Romina.
+
+—Somos autoridad.  Así que me van ahuecando el ala.  Órale, órale, se me rumban a la salida, por favor.
+
+En eso, la cápsula comenzó a vibrar.  Nuevamente, David se acercó a ella, y la cápsula lo rechazó.
+
+—¡Tengan cuidado! —dijo David.
+
+Las demás personas en el laboratorio, comenzando con el supuesto inspector, comenzaron a correr a la salida del Laboratorio.  La cápsula me eligió.  Como siempre.  No había nadie más en el cuarto, esto era un detalle nuevo.  Entré.
+
+Estábamos en la sala del laboratorio C-036. 
+
+—Romina, escoge una canción, por favor —dije.  Era uno de los días en los que estuve a cargo.
+
+Romina puso "Wouldn't It Be Nice" de los Beach Boys.
+
+—¿Es en serio, Romina? —acoté —Me las vas a pagar caro.  Aparte, ¿por qué abuchearon "Come Together" esa vez?
+
+—Porque a nadie le gustan los Beatles —dijo Ernesto.
+
+—A mi me gustan.  Gran parte de la música pop de la actualidad es lo que es gracias a ellos.
+
+—Yo digo que mejor pongamos a Kraftwerk —dijo Gustavo.
+
+—¡Que no, Tavo! —dijo Temo—. Te vamos a acusar con David por el daño que le haces a nuestros oídos.
+
+Algo me acababa de cuadrar de la manera en la que Temo dijo esta frase específicamente.  Es una conversación que tuvimos uno de los días que Lilia y yo estuvimos peleados.
+
+«No es justo», pensé.  Y el entorno se volvió blanco.
+
+¿Por qué esa era la respuesta? No lo sé, quizá no tendría nada que ver con los Beatles.  Es algo que hasta la fecha no sé.
+
+Y de pronto, en medio de la nada apareció mi madre.
