@@ -3530,3 +3530,103 @@ Algo me acababa de cuadrar de la manera en la que Temo dijo esta frase específi
 ¿Por qué esa era la respuesta? No lo sé, quizá no tendría nada que ver con los Beatles.  Es algo que hasta la fecha no sé.
 
 Y de pronto, en medio de la nada apareció mi madre.
+
+# 63
+
+No voy a mentir: Uno pensaría que reencontrarse con su mamá sería una escena emotiva en la que ambos se abrazan, se besan en la mejilla y hablan mutuamente de lo mucho que se extrañan.  Esto se sentía incómodo.
+
+Sé que suena completamente extraño, pero al inicio me sorprendí, y lo siguiente en lo que pensé fue en lo particular de la situación.  Es decir, ya había llegado al entendimiento de que nunca la iba a volver a ver.  Y ahora no sé si describirlo como un recuerdo o como un reencuentro.
+
+Nos miramos sin decir nada durante treinta segundos.
+
+—No sabía que me tenías tanto coraje como para ni siquiera saludarme —dijo mi mamá.  Rompiendo el hielo a su estilo.
+
+—Digo, no soy el único que no está diciendo nada —respondí.
+
+—No has cambiado mucho —dijo mi mamá —. ¿Cómo has estado?
+
+—No me va mal.  Estoy, en algo que definitivamente no es un recuerdo...
+
+—Como dije, no has cambiado. ¿Por qué eres así de frío?
+
+—Perdón, má.  Han sido tantos años que no estoy seguro de qué decir o qué pensar.  Si eres parte de mi subconsciente o...
+
+—Ay, hijo.  No te compliques.  ¿Te parece si platicamos un poco?
+
+—OK.  Perdón que no te pregunte cómo estás, pero... siento que es un poco redundante.
+
+—Lo dices como si la muerte fuera el final de todo.
+
+—Hasta donde sé, má, la muerte es el final de todo.
+
+—¿Qué es lo que estás viendo en este momento?
+
+—No lo sé.  Me gustaría entenderlo.
+
+Solo hasta ese momento, me quebré un poco.  Estaba siendo demasiado frío, aún cuando ya supiera todo lo que pasó.
+
+—Me preocupó que hayas dejado tu carrera —dijo mi mamá.  
+
+—No me sentía a gusto, mamá.  Tampoco busqué ayuda con quienes me podrían haber ayudado.  Pero es algo que necesitaba pasar.  No estaría contigo aquí si no la hubiese dejado.
+
+—Pues sí, pero también te dejaste caer un poco.
+
+—No lo niego, aunque después supe que antes de morir le dijiste a tu hermano que por favor se encargara de mí.  ¿Sabes que es una persona que cobra caros los favores?
+
+—Bueno, ya sabes cómo es él.  Perdóname.  De verdad creía que era la mejor idea.
+
+—Mi tío.  ¿En serio?
+
+—Bueno, pero te cuidó y te dio trabajo, ¿no?
+
+—Si a humillarme frente a sus empleados y no dejarme salir hasta que no tuvo de otra lo llamas cuidar... creo que no hizo tan mal trabajo —dije, dejando salir sin querer una sonrisa de resignación.
+
+Mi madre comenzó a reír.
+
+—Perdóname.  No sabía qué más hacer.  No te estabas poniendo las pilas.  Dejaste tu carrera, y no ibas para ningún lado —dijo ella.
+
+—Sí, pero toma en cuenta que tú y mi papá se fueron en poco tiempo.  Yo nunca pude procesar su muerte.  Y el día que se lo comenté a mi tío fue razón para que me regañara.  Te aseguro que todavía se pregunta que por qué no le hablo.
+
+—Supongo que por eso no le hablas a tu hermana.
+
+—Si sabes lo que hizo mi tío, cuantimás lo de mi hermana.
+
+—No puedes estar resentido con toda la familia, hijo.
+
+—No los resiento, simplemente ya no les quiero hablar.  Sabes que es diferente.
+
+—Perdón, hijo.  Nos acostumbraron tanto a tu papá y a mi de que «la familia es lo primero» que no nos dimos cuenta... bueno, no me di cuenta del daño que te estaba haciendo.
+
+—Está bien, no te preocupes.  Entiendo que hicieron lo mejor que podían y se los agradezco. 
+
+Me acerqué, por primera vez, y le di un abrazo.  Ella me retornó el esfuerzo.  Pero lo sentí tan real.
+
+—¿Cómo está mi papá? ¿Por qué no está aquí? —pregunté.
+
+—Eh, bueno... Tu papá trascendió de inmediato.  Yo traté de siempre estar con ustedes.
+
+—¿Qué? ¿Qué significa eso?
+
+—Significa lo que tiene que significar.  No todo se explica con ciencia, hijo.
+
+Y ahí estuvimos un buen rato, ella platicando anécdotas, contándome de algunos de esos familiares de los cuales nunca puedo recordar quienes son.  Anécdotas de ella con mis tíos.  Disculpándose de aquellas veces que nos llegó a golpear a mi hermana y a mí.  Claro, todo era por nuestro bien.
+
+—Sí te extraño, má.  Hay veces que quisiera llegar a la casa y platicarte como me fue.
+
+—Sí te escuchaba. 
+
+—Gracias por todo.  De verdad.
+
+—Gracias a ti.  Sé que a veces no lo parecía, pero siempre estuve muy orgullosa de ti. 
+
+Esta vez no me pude contener.  La abracé y lloramos los dos una última vez.
+
+—Cuídate hijo.  Diría que cuides a tu hermana, pero esa decisión te la dejo a ti.
+
+—Chance hable con ella estos días.
+
+—Adiós, hijo.
+
+—Adiós, mamá.
+
+Desperté.  Llorando, a borbotones.  Lilia me consoló.  Ahora sí pude despedirme de ella.
