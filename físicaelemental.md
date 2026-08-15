@@ -3630,3 +3630,83 @@ Esta vez no me pude contener.  La abracé y lloramos los dos una última vez.
 —Adiós, mamá.
 
 Desperté.  Llorando, a borbotones.  Lilia me consoló.  Ahora sí pude despedirme de ella.
+
+# 64
+
+Cuando Lilia y yo llegamos al laboratorio, David estaba esperando con las llaves en la mano.  Más con resignación que con el mismo ánimo disfrazado con el que solía venir a diario.  Se le notaba agotado, entre sus labores como decano y como investigador.
+
+—Si todo sale bien, entre hoy y mañana podríamos estar acabando con este proyecto.  Tantas cosas, que créanme, no hay pasado, presente, ni futuro que importe una vez que el proyecto esté terminado.  Perdónenme por haberlos hecho pasar por tanto.
+
+Lilia y yo nos miramos extrañados por un momento.
+
+—Es difícil explicarlo.  Yo era igual que ustedes, un joven pasante de Física que pasó por este laboratorio para participar en un proyecto que ha sido diseñado por generaciones.  
+
+—¿Por generaciones? ¿En serio es tan antiguo? —preguntó Lilia
+
+—Es complicado, ¿saben? Este proyecto obviamente tuvo que tener un inicio, y cuando quise comenzar a investigarlo, un malestar físico se manifestó en mí.  Dolor de cabeza intenso, episodios crónicos de insomnio, pérdida de la noción del tiempo.  Tuve que parar antes de llegar al entendimiento de los orígenes de la cápsula.  Tendría que mostrarles mi reporte de lo que he averiguado, pero no es algo trivial.  Es algo que involucra mecánica de partículas subatómicas y mecánica cuántica.  Ramas tan aparentemente dispares...  Pero es como si la cápsula misma los estuviera esperando a ustedes. Y lo peor es que me rechaza a mí.  No entiendo la razón.
+
+—¿Esperándonos a nosotros? ¿En serio? —pregunté.  Más por inercia que por genuino interés.
+
+—Al igual que ustedes, a mí también me tocó pasar por todo tipo de situaciones para lograr que la cápsula funcionara y comenzara a vibrar.  El problema fue que nunca encontramos la manera de apagarlo.  Se quedó así por años.  De modo que este laboratorio era conocido como "el de las vibraciones".  Mi jefe, Mauricio, hizo lo posible para dejarme como decano para poder seguir vigilando este proyecto.
+
+La plática inició solo con nosotros dos y continuó conforme fueron llegando mis compañeros. Para cuando David terminó de hablar, todos estábamos tan sorprendidos como confundidos.  No nos cabía en la mente que podríamos estarnos adentrando en algo que va más allá de nuestro entendimiento, y del de las personas que crearon el proyecto.
+
+Saludé a mis compañeros, y hasta el fondo vi a Temo.  Aproveché para acercarme a él, un tanto retirado del resto del equipo.
+
+—¿Todo bien? —pregunté.
+
+—Sí.  ¿Por qué?
+
+—¿Hay algo que me quieras decir?
+
+—¿Por qué? ¿O qué?
+
+—Preferiría que no me respondieras con otra pregunta —afirmé, un tanto exhausto.
+
+—Tú respondiste mi pregunta con otra pregunta —contestó Temo.
+
+—Pues, mira. Ayer te desapareciste antes de que confrontáramos a David.  Y no sé por qué tengo la impresión de que hiciste algo sin consultarnos.
+
+—No sé de qué estás hablando.  Pero ya estás igual de paranoico que David.
+
+—Temo, ya estamos cerca de finalizar con el proyecto.  Necesitamos tu apoyo.
+
+—¿Tú lo necesitas? ¿O David lo necesita?  Me sorprende que todos sean tan negligentes con las cosas que están mal.  Es todo.
+
+—Mira, por mucho que en este momento quisiera decirte que te vayas, has sido de gran utilidad. Y lo que sea que hayas hecho, ya lo hiciste.  No puedo hacer nada por eso.
+
+—Piensa lo que quieras, Edgar.  Yo solo voy a seguir aquí esta semana, y se libran de mí —acotó Temo.
+
+Simplemente lo vi, y entré al laboratorio.
+
+---
+
+David nos comenzó a explicar el procedimiento.  Por cuestiones de tiempo, ese día nos limitaríamos a cambiar los parámetros por los del reporte de Lilia y Gustavo.  Y probaríamos si es que con eso evitamos los síntomas físicos.
+
+Comenzamos la parametrización.  Y en efecto, Temo no participó tan activamente como en días anteriores.  Cosa que todos notaron.
+
+En un momento, Romina se me acercó.
+
+—No sé que pasa con Temo, pero está raro.  Ayer no me dirigió la palabra cuando fuimos a nuestra clase.  Y hoy no lo ha hecho tampoco —dijo Romina.
+
+—Quiere decir que no sabes qué es lo que hizo ayer, ¿cierto? —pregunté.
+
+—No.  Contrario a lo que ven a diario, no somos tan amigos.  Creo que me llevo mejor con Ernesto o con Lilia de lo que me llevo en realidad con él.
+
+—¿En serio? Yo creí que ustedes dos...
+
+—¡No! ¡Eso no! ¡De verdad!
+
+—OK, lo siento.
+
+—O sea, sí es mi amigo, pero no somos tan cercanos como parece.
+
+—¿Y entonces?
+
+—No sé.  Simplemente funcionábamos bien como equipo, y por eso pasábamos juntos el rato.
+
+—Me da pena descubrir las cosas ya que pasaron —dije, un tanto apenado.
+
+—No te preocupes.  Si sabes qué le pasa, avísame.
+
+Estaba extrañado, juraría que por la manera en la que interactúan, ellos eran pareja.  Pero resulta que no era así.
