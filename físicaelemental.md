@@ -3873,4 +3873,42 @@ David lo miró con una ceja arqueada.  David no pensó jamás en esa posibilidad
 
 —Bueno, Temo... yo te tengo la solución adecuada.  Si aceptas, te quedas, conservas tu empleo, y continúas en la maestría.
 
+# 67
 
+En la mañana del lunes, Lilia y yo llegamos al laboratorio.  El ambiente se percibía calmado, como tenía mucho que no se sentía por acá.
+
+Lilia se había comprado unos airpods, y me trataba de convencer que eran lo mejor de la existencia.
+
+—En lo personal, no son mi tipo de audífono favorito.  Me da un poco de miedo la idea de perderlos.  De por sí me vuelve loco cuando falla uno de los audífonos cuando uso los cableados.
+
+—Es que si eres ordenado, no tienes por qué pensar en que los vas a perder, Edgar —dijo Lilia, presumiendo el audífono que estaba usando—.  Pero como eres bastante disperso, por eso te da miedo.  Llevo tres meses con éstos.  Y mira, cómo nuevos.
+
+Bueno, yo en ese momento estaba utilizando el otro.  Y salvo el hecho de que hay separación de canales, la idea de que ambos podamos estar escuchando la misma canción para nosotros (Limón y Sal de Julieta Venegas) sin tener que estar usando el altavoz, y sin cables de por medio, me parecía un argumento sólido a favor de Lilia.
+
+En eso estábamos, cuando llegó Ernesto.  Un poco cabizbajo y sorprendido.  Quise preguntarle qué es lo que pasaba.  Pero me dijo que sería mejor cuando llegaran los demás.
+
+Y así fueron llegando uno a uno.  Romina, Gustavo y hasta el final Temo.  El saludo de los buenos días fue de lo más normal.  Temo se separó por completo del grupo.
+
+Ernesto nos dijo que si nos podíamos acercar.  Incluso se lo ofreció a Temo, pero Temo ni siquiera se dio por enterado.
+
+—Bueno, es que acabo de descubrir algo interesante —comenzó a hablar Ernesto —. Esto es algo que no me esperaba.  Hace poco platiqué con Edgar acerca de que me gustaba estudiar Física, porque por acá nadie me juzga.  El fin de semana fui a comer con la familia extendida.  Generalmente mis papás y mi abuelo me han apoyado a estudiar y a tener una carrera en Física.
+
+» Sin embargo, el fin de semana comprobé que en efecto la familia extendida tiene un problema conmigo.  Todos, sin excepción me han ridiculizado por ser "el académico", un espécimen raro que no se relaciona para nada con la familia.  Me tengo que abrir con ustedes, porque no nunca había tenido el chance de platicarlo así —. Del ojo derecho de Ernesto comenzó a salir una lágrima que discretamente limpió para que ninguno de nosotros la viéramos.
+
+» La cosa es que en la familia hay abogados, hay dos deportistas, hay un locutor de radio.  Pero yo soy el bicho raro por ser científico.  Mi abuelo se hartó, y corrió a dos de sus hijos por propiciar esto.  Fue... extraño cuando menos.  Nunca había visto a mi abuelo tan molesto.
+
+» Al final, me llevó al cuarto de su hermano.  Mi tío Arnulfo vivió con mi abuelo gran parte de su vida.  Y descubrí que no solamente fue un gran Físico Nuclear.  También descubrí que fue parte del equipo que comenzó el experimento de la cápsula en el año de 1964.  Entre todos los reportes y papers que había en su cuarto, hay algunos planos y bocetos muy abstractos de la cápsula.  Lo cuál significa que incluso es más vieja de lo que David nos decía.
+
+—¿Y por qué no lo sabías tú? —dijo Gustavo.
+
+—Vato, me acabo de enterar que mi tío abuelo fue investigador en esta misma universidad.  Según mi abuelo, se le prohibió hablar o compartir detalles de esta investigación.  Por lo que ya investigué un poco después, sí que siguieron los experimentos en este laboratorio, pero la idea básica de la cápsula es un misterio que desapareció a raíz de la muerte de todos los iniciadores del proyecto.
+
+David alcanzó a escuchar esa última parte, y confirmó el dato.  Por lo que él supo cuando formó parte de la generación anterior que trabajó con la cápsula, muchos de los reportes sobre el proyecto se disfrazaron con títulos de investigación poco relevantes.  De manera que algunos miembros de la burocracia en Ciencias de la UNal han ocultado detalles sobre investigaciones relacionadas con el proyecto.
+
+—Pero entonces, Ernesto —preguntó David, con una cara de sorpresa genuina —, ¿pudiste ver planos abstractos de la cápsula?
+
+—Sí, pero no hay información.  Solo eran dibujos, y texto completamente ilegible.  Ni siquiera parecía otro idioma.  Simplemente era texto tachado —confirmó Ernesto.
+
+Ernesto nos acaba de llenar de información completamente nueva del proyecto.  Hay mucho que no sabemos como ¿por qué crearon el proyecto? ¿Cuál era el propósito original? ¿Cuáles serían las aplicaciones?
+
+Aunque... ¿Física Nuclear?  Ernesto tiene en el ADN su amor e interés por la Física, y ni siquiera él lo sabía.
