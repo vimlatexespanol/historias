@@ -3710,3 +3710,167 @@ En un momento, Romina se me acercó.
 —No te preocupes.  Si sabes qué le pasa, avísame.
 
 Estaba extrañado, juraría que por la manera en la que interactúan, ellos eran pareja.  Pero resulta que no era así.
+
+# 65
+
+Ernesto comenzó a verificar uno a uno los datos.
+
+—A ver, voy a verificar, el primero es 23.1234 —dijo Ernesto.
+
+—Correcto —respondió Gustavo.
+
+—El segundo es 42.3219.
+
+—Sí.
+
+—Tercero es 14.2531
+
+—14.2532. Hay que ajustarlo —dijo Lilia.
+
+El proceso no era tan sencillo.  Había que presionar varios botones para obtener una combinación.  Una vez que nos acostumbramos, se volvía sencillo.  Pero a veces era más elaborado de lo que imaginábamos.
+
+—Verificando, 14.2532. ¿Correcto? —preguntó Ernesto.
+
+—A ver, 14.2532. Excelente —atinó Romina.
+
+Entre Ernesto, Romina y yo presionábamos las combinaciones de botones, y admito que era divertido.  La mayoría de los parámetros ya eran los correctos, pero los pocos que cambiaban lo hacían por muy pocas diez milésimas.
+
+David pasaba de vez en cuando, en su disfraz de Decano para verificar cómo íbamos.  Y en su segunda visita del día fue justo cuando terminamos de ingresar los parámetros.
+
+—OK, más vale llegar a tiempo que no ser invitado.  ¿Será que podemos, conmigo aquí presente tratar de sintonizar la frecuencia que probamos ayer? —preguntó con sincera curiosidad David.
+
+—No veo por qué no —respondió Romina, quien hoy particularmente se notaba más entusiasmada con el proyecto.
+
+Con las perillas, ajusté la frecuencia a la última que nos funcionó: 108.8.
+
+La cápsula se encendió, pero aparentemente no estaba pasando nada.  No había perturbaciones.  No había ruidos extraños.  Y no había vibraciones en todo el cuarto.
+
+—Hmm. ¿Alguien recuerda la frecuencia a la que se alteraba la barra de aluminio? —preguntó David.
+
+—No, pero la tenemos en el reporte —dijo Ernesto.
+
+—Haznos los honores, Ernesto.
+
+Ernesto ajustó la frecuencia a 87.2, y sin efectos secundarios, bajo el esquema de control vimos que la barra cambió sus propiedades físicas, igual que en el experimento anterior. 
+
+Todos estábamos aliviados, excepto Temo.  Cuauhtémoc se veía pálido, con un rostro de preocupación genuino. 
+
+—Bueno.  Ya vimos que incluso el ajustar las frecuencias con PANEL es más sencillo ahora.  ¿Estará bien si empezamos desde la 100.0, David? —pregunté.
+
+—Me acabas de arrancar las palabras de la boca.  ¡Síganlo los buenos!
+
+---
+
+Avanzamos con bastantes frecuencias, y el resultado seguía siendo lo mismo: nada.  En solo medio día, ya estábamos en el 104.5, lo cuál es bastante más avanzado que el primer día en el que iniciamos esta parte de la investigación.
+
+En eso estábamos, cuando llegaron dos inspectores, trajeados.  Debidamente identificados.  Eran inspectores autorizados de la Comisión de Seguridad e Higiene.  Venían acompañados de la persona encargada del laboratorio, la profesora Leticia Villanueva.
+
+—Leticia, es un gusto verte por acá —dijo David.
+
+—Bien sabes que no debería darte gusto que esté por acá.  Confié en ti y no me reportaste malestares físicos de los investigadores de este proyecto —respondió Leticia.
+
+—¿Es por lo del gusano? Eso quedó debidamente registrado, inspector Gonzaga.
+
+—Sí, verá.  No es por lo del gusano.  Recibimos un reporte anónimo acerca de condiciones de trabajo poco favorables para los trabajadores de este proyecto.
+
+Temo bajó la mirada, y los demás miembros del equipo, incluído David lo observaron de manera retadora.  Yo ya sabía que lo había hecho.  Es difícil explicar por qué, pero siento que el sueño previo a ver a mi mamá me lo indicó.
+
+—Pero las condiciones ya no provocan malestar físico.  En el reporte del día de ayer, tengo la frecuencia y el reporte aclarando el problema de salud del Licenciado Mendoza, aquí presente.
+
+David le aproximó al inspector un reporte indicando la frecuencia que provocó el malestar.
+
+—Bien, vamos a replicar el experimento bajo estas condiciones que afirman ser las correctas. 
+
+—Mejor aún, probemos con esta barra de carbón.  Según el reporte, a la frecuencia 65.4 cambia de propiedades físicas —respondió David.
+
+—OK, para ver que funciona la cápsula. Excelente idea. Adelante.
+
+Acomodamos la barra de carbón en las condiciones correctas, y ajustamos la frecuencia a 65.4 mediante PANEL.  Se activó el dispositivo, y en efecto, se le hizo notar al inspector que las propiedades físicas de la barra de carbón cambiaron.  Se desactivó el dispositivo, y el inspector tomó notas.
+
+—Bien, solo para continuar, necesito que la cápsula funcione bajo la frecuencia reportada ayer: 108.8.
+
+Ajusté por mi propia cuenta la frecuencia a 108.8, y Gustavo encendió el dispositivo.  La cápsula se encendió, pero no se sentía nada extraño.
+
+—OK —dijo el inspector Gonzaga en lo que anotaba en su libreta.
+
+—Pues parece que están laborando bajo las condiciones de seguridad adecuadas y bien implementadas.  Por esa parte, no podemos detener la investigación el día de hoy —dijo el otro inspector.  Brizuela, según su identificación.
+
+—Entonces, ¿qué procede? —preguntó Leticia.
+
+—Bueno, el protocolo nos indica que pueden continuar con su proyecto.  Siempre y cuando las condiciones de seguridad se mantengan.  Estarán recibiendo visitas constantes de la Comisión para verificar que estén cumpliendo con las medidas de seguridad y protección adecuadas —aseveró Gonzaga.
+
+—Sin embargo, esto no significa que no vayamos a abrir una carpeta de investigación por presunta negligencia y no ejecución de medidas básicas de seguridad —añadió Brizuela.
+
+—Además, una amonestación verbal para la licenciada Villanueva por no revisar la correcta aplicación de las medidas en el laboratorio en la que es responsable.  Le encargamos que cumpla con su función como responsable de los laboratorios —dijo Gonzaga.
+
+David respiró un poco, aunque parecía que la investigación podría arrojar resultados no muy favorables para él, como Decano y jefe de investigación.
+
+—Nos vamos.  Por ahora pueden continuar —se despidió Brizuela.
+
+Los inspectores salieron del laboratorio.  Leticia se aproximó a David.
+
+—Te lo juro que ésta me la vas a pagar, David —exclamó Leticia.
+
+—Bueno, es un buen pretexto para que me aceptes un café —respondió David.
+
+—Eres increíble, David —suspiró con resignación Leticia.
+
+# 66
+
+David nos platicó un poco a Lilia y a mí que esas investigaciones suelen tardar años, meses e incluso semanas.  Cómo hay un investigador con un cargo político dentro de la Universidad que podría ser castigado, es probable que la investigación tarde entre dos semanas y un mes y medio.  
+
+David ya presenció problemas de este tipo con jefes de laboratorio y con un investigador que tenía el puesto de coordinador en la Licenciatura de Química.  El dictamen tardó aproximadamente un mes.  Dos semanas más que lo que tardó en renunciar el coordinador.  Aparentemente hubo una negligencia en un experimento en el que casi mueren por asfixia química dos investigadores.
+
+—De cualquier modo, pueden estar tranquilos.  La universidad necesita trabajadores como ustedes, y Renato ya tiene la indicación de recomendarlos.  Es más fácil que le crean a Renato que a mí —nos platicó David.
+
+Por todo esto, él nos dijo que en vista de todo lo ocurrido, y que ya prácticamente están listas las condiciones para finalizar el proyecto, no habría problema en dejarnos libres el resto de la semana.
+
+—Por favor avísenle a sus compañeros.
+
+—Bueno, hay otro elefante en la habitación —dijo Lilia.
+
+—¿Temo?
+
+—Sí.  ¿Qué procede?
+
+—Bueno... me gustaría escuchar la opinión de Edgar —dijo David.
+
+—OK, lo que yo creo es que tenía la mejor de las intenciones.  Lo malo fue el timing.  Ahora tenemos las condiciones adecuadas para terminar el proyecto.  Y justo ahora van a estarnos vigilando.
+
+—En parte por eso quiero que descansen estos días.  Va a haber mucha presión cuando tengamos a los inspectores vigilando.  Aunque para serles franco, creo que solo vienen una vez por día.  Seguridad e Higiene no es precisamente la maquinaria institucional perfecta —dijo David.
+
+—Burocracia —dijo Lilia.
+
+—Sobre Temo, déjenmelo a mi.  Mi idea es que nos ayude hasta el final.  El fue parte desde el inicio de tu proyecto, Edgar.  No puedo dejar que se vaya sin su reconocimiento.
+
+Nos tocaba avisarles a todos que descansábamos del C-036 hasta el lunes.  Justo al salir, vimos que Temo entró.
+
+---
+
+Este fragmento ocurre tal y como nos lo contaron David y Temo en su momento.
+
+—Temo.  Adelante.
+
+—Gracias.
+
+—Dime, ¿para qué soy bueno?
+
+—Aparte de hacerse el chistoso y ser negligente... no sé.  Vengo a presentarle mi renuncia al proyecto, y al trabajo como investigador.
+
+David lo miró con una ceja arqueada.  David no pensó jamás en esa posibilidad.  O sí.  Lo que él esperaba es que entre todo el equipo lo quisiéramos fuera.  Pero sencillamente, en ese momento para nuestro equipo, Temo no podía importarnos menos.
+
+—Bueno, entiendo tu molestia —aseguró David —. Pero precisamente el día que fuiste a levantar el reporte con la Comisión, llegamos todos a un acuerdo.  Algo que no esperabas cuando entraste al laboratorio.
+
+—¿Y por qué justo ahora que recibiste el reporte es que mágicamente las vibraciones desaparecieron?
+
+—Gustavo y Lilia redactaron un reporte.  En él encontraron una función matemática que nos proporciona los parámetros correctos para el ajuste de PANEL y la cápsula.  Lo que yo hice fue una aproximación numérica, que no fue suficiente para mitigar los posibles síntomas.
+
+—¿Posibles? ¿Llamas a los dolores de cabeza, mareos, náuseas y migrañas una posibilidad?
+
+—Sí, bueno... es algo que debí haber hecho mejor.
+
+—David, esto no está bien, y lo sabes.
+
+—Bueno, Temo... yo te tengo la solución adecuada.  Si aceptas, te quedas, conservas tu empleo, y continúas en la maestría.
+
+
