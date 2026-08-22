@@ -4089,3 +4089,7 @@ David alcanzó a escuchar esa última parte, y confirmó el dato.  Por lo que é
 Ernesto nos acaba de llenar de información completamente nueva del proyecto.  Hay mucho que no sabemos como ¿por qué crearon el proyecto? ¿Cuál era el propósito original? ¿Cuáles serían las aplicaciones?
 
 Aunque... ¿Física Nuclear?  Ernesto tiene en el ADN su amor e interés por la Física, y ni siquiera él lo sabía.
+
+# 68
+
+David nos pidió entrar al laboratorio.  Estábamos lo suficientemente frescos después de un descanso de fin de semana y dos días adicionales.
